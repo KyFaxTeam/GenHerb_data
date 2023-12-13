@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "question": "Quel est le club le plus titré au monde toute compétitions confondues ?",
-    "answer": ["Al Ahly (120 trophées)"],
+    "question": "Quel est le club le plus titré au monde toutes compétitions confondues ?",
+    "answer": ["Al Ahly"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Très Difficile",
-    "points": 19,
-    "times": 22
+    "points": 10,
+    "times": 21
   },
   {
     "id": 2,
@@ -15,9 +15,9 @@
     "answer": ["Sheffield FC"],
     "thematic": "Sports",
     "subThematic": "Football",
-    "level": "Difficile",
-    "points": 17,
-    "times": 20
+    "level": "Très Facile",
+    "points": 10,
+    "times": 16
   },
   {
     "id": 3,
@@ -25,8 +25,8 @@
     "answer": ["Roman Reigns"],
     "thematic": "Sports",
     "subThematic": "Lutte",
-    "level": "Moyen",
-    "points": 15,
+    "level": "Difficile",
+    "points": 10,
     "times": 18
   },
   {
@@ -35,478 +35,480 @@
     "answer": ["Maroc"],
     "thematic": "Sports",
     "subThematic": "Football",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
-  },
-  {
-    "id": 5,
-    "question": "Quel joueur de soccer a reçu le prix du Ballon d'Or en 2008?",
-    "answer": ["Christiano Ronaldo"],
-    "thematic": "Sports",
-    "subThematic": "Football",
     "level": "Moyen",
-    "points": 16,
+    "points": 10,
     "times": 19
   },
   {
     "id": 6,
-    "question": "Quel jeu se joue typiquement à trois boules en France, mais avec huit boules en Amérique du Nord?",
-    "answer": ["Le Billard"],
-    "thematic": "Jeux",
-    "subThematic": "Billard",
+    "question": "Quel joueur de soccer a reçu le prix du Ballon d'Or en 2008 ?",
+    "answer": ["Cristiano Ronaldo"],
+    "thematic": "Sports",
+    "subThematic": "Football",
     "level": "Difficile",
-    "points": 18,
-    "times": 21
+    "points": 10,
+    "times": 18
   },
   {
     "id": 7,
+    "question": "Quel jeu se joue typiquement à trois boules en France, mais avec huit boules en Amérique du Nord ?",
+    "answer": ["Le Billard"],
+    "thematic": "Jeux",
+    "subThematic": "Billard",
+    "level": "Moyen",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 8,
     "question": "Ce sport est considéré comme l'ancêtre de tous les sports de raquettes.",
     "answer": ["Jeu de paume"],
     "thematic": "Sports",
     "subThematic": "Sports de raquettes",
     "level": "Facile",
-    "points": 14,
-    "times": 16
-  },
-  {
-    "id": 8,
-    "question": "Dans quel sport pratique-t-on la technique du Fosbury Flop?",
-    "answer": ["saut en hauteur"],
-    "thematic": "Sports",
-    "subThematic": "Athlétisme",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
+    "points": 10,
+    "times": 20
   },
   {
     "id": 9,
+    "question": "Dans quel sport pratique-t-on la technique du Fosbury Flop ?",
+    "answer": ["Saut en hauteur"],
+    "thematic": "Sports",
+    "subThematic": "Athlétisme",
+    "level": "Moyen",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 10,
     "question": "À quel sport associe-t-on le « March Madness » ?",
     "answer": ["Basket-ball"],
     "thematic": "Sports",
     "subThematic": "Basket-ball",
     "level": "Difficile",
-    "points": 19,
-    "times": 20
-  },
-  {
-    "id": 10,
-    "question": "Quel pays a abrité les Jeux Olympiques d'été de 2008 ?",
-    "answer": ["Chine"],
-    "thematic": "Sports",
-    "subThematic": "Jeux Olympiques",
-    "level": "Facile",
-    "points": 12,
-    "times": 18
+    "points": 10,
+    "times": 17
   },
   {
     "id": 11,
-    "question": "En 1971, au football, comment fut rebaptisée la Coupe des villes de foire ?",
+    "question": "Quel pays a accueilli les Jeux olympiques d'été de 2008 ?",
+    "answer": ["Chine"],
+    "thematic": "Sports",
+    "subThematic": "Jeux olympiques",
+    "level": "Difficile",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 12,
+    "question": "En 1971, au football, comment la Coupe des villes de foire a-t-elle été rebaptisée ?",
     "answer": ["Coupe de l'UEFA"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Moyen",
-    "points": 16,
+    "points": 10,
     "times": 19
   },
   {
-    "id": 12,
-    "question": "Au Sumo, quel nom porte la plus prestigieuse des trois divisions de la hiérarchie ?",
-    "answer": ["Yokosuna"],
+    "id": 13,
+    "question": "Au Sumo, quelle est la plus prestigieuse des trois divisions de la hiérarchie ?",
+    "answer": ["Yokozuna"],
     "thematic": "Sports",
     "subThematic": "Sumo",
     "level": "Difficile",
-    "points": 18,
+    "points": 10,
     "times": 21
   },
   {
-    "id": 13,
-    "question": "Quel joueur portugais a reçu le premier Ballon d'Or avant celui de Luis Figo en 2000 ?",
-    "answer": ["EUSEBIO"],
-    "thematic": "Sports",
-    "subThematic": "Football",
-    "level": "Très Difficile",
-    "points": 19,
-    "times": 23
-  },
-  {
     "id": 14,
-    "question": "Au football, quelle Coupe du Monde a accueilli le plus de spectateurs à ce jour ?",
-    "answer": ["Etats-Unis, 1994"],
+    "question": "Quel joueur portugais a reçu le premier Ballon d'Or avant celui de Luis Figo en 2000 ?",
+    "answer": ["Eusébio"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Difficile",
-    "points": 16,
+    "points": 10,
     "times": 19
   },
   {
     "id": 15,
+    "question": "Au football, quelle est à ce jour la Coupe du Monde qui a accueilli le plus de spectateurs ?",
+    "answer": ["États-Unis, 1994"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Difficile",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 16,
     "question": "Dans quel pays se déroulent actuellement les championnats du monde de rugby ?",
     "answer": ["Nouvelle-Zélande"],
     "thematic": "Sports",
     "subThematic": "Rugby",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
-  },
-  {
-    "id": 16,
-    "question": "À quelle date doit prendre fin le championnat d'Europe de Basket en Lituanie qui a débuté le 31 Août ?",
-    "answer": ["18 Septembre"],
-    "thematic": "Sports",
-    "subThematic": "Basket-ball",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "level": "Difficile",
+    "points": 10,
+    "times": 19
   },
   {
     "id": 17,
-    "question": "Aux derniers championnats du monde d'athlétisme, dans quelle discipline la Brésilienne Anna Murer a-t-elle été sacrée Championne du monde ?",
+    "question": "À quelle date doit prendre fin le Championnat d'Europe de Basket en Lituanie qui a débuté le 31 août ?",
+    "answer": ["18 septembre"],
+    "thematic": "Sports",
+    "subThematic": "Basket-ball",
+    "level": "Moyen",
+    "points": 10,
+    "times": 17
+  },
+  {
+    "id": 18,
+    "question": "Aux derniers championnats du monde d'athlétisme, dans quelle discipline la Brésilienne Anna Murer a-t-elle été sacrée Championne du Monde ?",
     "answer": ["Saut à la perche"],
     "thematic": "Sports",
     "subThematic": "Athlétisme",
     "level": "Difficile",
-    "points": 17,
-    "times": 20
+    "points": 10,
+    "times": 21
   },
   {
-    "id": 18,
+    "id": 19,
     "question": "En 2000, Lance Armstrong a remporté le Tour de France après avoir vaincu quelle grave maladie ?",
     "answer": ["Cancer des testicules"],
     "thematic": "Sports",
     "subThematic": "Cyclisme",
-    "level": "Très Difficile",
-    "points": 19,
-    "times": 23
+    "level": "Difficile",
+    "points": 10,
+    "times": 22
   },
   {
-    "id": 19,
+    "id": 20,
     "question": "Au basket, combien de temps l'équipe qui attaque a-t-elle le droit de rester dans la raquette ?",
     "answer": ["3s"],
     "thematic": "Sports",
     "subThematic": "Basket-ball",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 16
   },
   {
-    "id": 20,
+    "id": 21,
     "question": "Quel tennisman a remporté 2 tournois de Grand Chelem (US Open 2022 et Wimbledon 2023) et a été classé n°2 mondial au classement ATP en 2023 ?",
     "answer": ["Carlos Alcaraz"],
     "thematic": "Sports",
     "subThematic": "Tennis",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
-  },
-  {
-    "id": 21,
-    "question": "Quel ancien champion de l’UFC a failli créer la sensation en mettant à terre Tyson Fury, mais a perdu par une décision partagée controversée à Riyad en 2023 ?",
-    "answer": ["Francis N'gannou"],
-    "thematic": "Sports",
-    "subThematic": "Boxe",
     "level": "Difficile",
-    "points": 17,
-    "times": 23
+    "points": 10,
+    "times": 20
   },
   {
     "id": 22,
+    "question": "Quel ancien champion de l'UFC a failli créer la sensation en mettant à terre Tyson Fury, mais a perdu par une décision partagée controversée à Riyad en 2023 ?",
+    "answer": ["Francis Ngannou"],
+    "thematic": "Sports",
+    "subThematic": "UFC",
+    "level": "Difficile",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 23,
     "question": "Qui a été élu meilleur joueur de la Liga pour la saison 2022-2023 ?",
     "answer": ["Ter Stegen"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Difficile",
-    "points": 17,
-    "times": 23
-  },
-  {
-    "id": 23,
-    "question": "Qui a été le 1er choix de la draft NBA 2023 ?",
-    "answer": ["Victor Wembanyama"],
-    "thematic": "Sports",
-    "subThematic": "Basket-ball",
-    "level": "Moyen",
-    "points": 15,
+    "points": 10,
     "times": 18
   },
   {
     "id": 24,
+    "question": "Qui a été le 1er choix de la draft NBA 2023 ?",
+    "answer": ["Victor Wembanyama"],
+    "thematic": "Sports",
+    "subThematic": "Basket-ball",
+    "level": "Difficile",
+    "points": 10,
+    "times": 19
+  },
+  {
+    "id": 25,
     "question": "Quel était le nom de naissance de Mohamed Ali ?",
     "answer": ["Cassius Marcellus Clay Jr"],
     "thematic": "Sports",
     "subThematic": "Boxe",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
-  },
-  {
-    "id": 25,
-    "question": "Qui a été le plus jeune joueur à marquer 10 000 points en NBA ?",
-    "answer": ["Lebron James"],
-    "thematic": "Sports",
-    "subThematic": "Basket-ball",
-    "level": "Difficile",
-    "points": 17,
-    "times": 21
+    "points": 10,
+    "times": 23
   },
   {
     "id": 26,
-    "question": "Que signifient les lettres BMX ?",
-    "answer": ["Bike Moto X (Vélo moto X)"],
+    "question": "Qui a été le plus jeune joueur à marquer 10 000 points en NBA ?",
+    "answer": ["LeBron James"],
     "thematic": "Sports",
-    "subThematic": "BMX",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "subThematic": "Basket-ball",
+    "level": "Difficile",
+    "points": 10,
+    "times": 18
   },
   {
     "id": 27,
+    "question": "Que signifient les lettres BMX ?",
+    "answer": ["Bike Moto X"],
+    "thematic": "Sports",
+    "subThematic": "Cyclisme",
+    "level": "Facile",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 28,
     "question": "Qui a été le premier joueur britannique à remporter des titres de champion dans quatre pays ?",
     "answer": ["David Beckham"],
     "thematic": "Sports",
     "subThematic": "Football",
-    "level": "Moyen",
-    "points": 16,
-    "times": 19
-  },
-  {
-    "id": 28,
-    "question": "Quelle est la distance officielle du Marathon ?",
-    "answer": ["42,195 kilomètres"],
-    "thematic": "Sports",
-    "subThematic": "Athlétisme",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "level": "Difficile",
+    "points": 10,
+    "times": 21
   },
   {
     "id": 29,
+    "question": "Quelle est la distance officielle du Marathon ?",
+    "answer": ["42,195 kilomètres"],
+    "thematic": "Sports",
+    "subThematic": "Course à pied",
+    "level": "Facile",
+    "points": 10,
+    "times": 25
+  },
+  {
+    "id": 30,
     "question": "Quel est le sport national du Japon ?",
     "answer": ["Le Sumo"],
     "thematic": "Sports",
     "subThematic": "Sumo",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 20
   },
   {
-    "id": 30,
+    "id": 31,
     "question": "Quel sport est le moins pratiqué au monde ?",
     "answer": ["Le jeu de Shinty, dérivé du sport irlandais du hurling."],
     "thematic": "Sports",
     "subThematic": "Divers",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
   },
   {
-    "id": 31,
-    "question": "Quel est le pays d'origine du Volley-ball ?",
+    "id": 32,
+    "question": "Quel est le pays d’origine du Volley-ball ?",
     "answer": ["USA"],
     "thematic": "Sports",
     "subThematic": "Volley-ball",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 18
   },
   {
-    "id": 32,
-    "question": "Qui a éliminé le Sénégal en huitième de finale en Coupe du Monde 2022 ?",
+    "id": 33,
+    "question": "Qui a éliminé le Sénégal en huitième de finale en coupe du monde 2022 ?",
     "answer": ["Angleterre"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
+    "points": 10,
+    "times": 22
   },
   {
-    "id": 33,
-    "question": "Qui a remporté la Coupe du Monde de Rugby 2023 ?",
+    "id": 34,
+    "question": "Qui a remporté la coupe du monde de rugby 2023 ?",
     "answer": ["Afrique du Sud"],
     "thematic": "Sports",
     "subThematic": "Rugby",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
-  },
-  {
-    "id": 34,
-    "question": "Quelle équipe nationale a perdu le plus de points lors de la Coupe du Monde de Rugby France 2023 ?",
-    "answer": ["Namibie"],
-    "thematic": "Sports",
-    "subThematic": "Rugby",
-    "level": "Difficile",
-    "points": 17,
+    "points": 10,
     "times": 21
   },
   {
     "id": 35,
+    "question": "Quelle équipe nationale a perdu le plus de points lors de la coupe de monde de Rugby France 2023 ?",
+    "answer": ["Namibie"],
+    "thematic": "Sports",
+    "subThematic": "Rugby",
+    "level": "Difficile",
+    "points": 10,
+    "times": 25
+  },
+  {
+    "id": 36,
     "question": "Quelle est la durée du match le plus long au tennis ?",
     "answer": ["11h 05min"],
     "thematic": "Sports",
     "subThematic": "Tennis",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
+    "points": 10,
+    "times": 28
   },
   {
-    "id": 36,
-    "question": "Quel est ce sport de salle se jouant avec des raquettes caoutchoutées et une balle en celloïd que l’on renvoie sur une table en bois munie d’un filet ?",
+    "id": 37,
+    "question": "Quel est ce sport de salle se jouant avec des raquettes caoutchoutées et une balle en celloid que l’on renvoie sur une table en bois munie d’un filet ?",
     "answer": ["Tennis de table"],
     "thematic": "Sports",
     "subThematic": "Tennis de table",
     "level": "Facile",
-    "points": 12,
-    "times": 17
-  },
-  {
-    "id": 37,
-    "question": "Quel sport a pour signification la voie du sabre ?",
-    "answer": ["KENDO"],
-    "thematic": "Sports",
-    "subThematic": "Arts martiaux",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 26
   },
   {
     "id": 38,
-    "question": "Quel est le surnom de l’équipe nationale du GHANA ?",
-    "answer": ["LES BLACK STARS"],
+    "question": "Quel sport a pour signification la voie du sabre ?",
+    "answer": ["KENDO"],
     "thematic": "Sports",
-    "subThematic": "Football",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "subThematic": "Kendo",
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
   },
   {
     "id": 39,
-    "question": "Originaire de l’Amérique du Nord, ce sport a été codifié en 1867 par le Canadien William George Beers.",
-    "answer": ["La Crosse"],
+    "question": "Quel est le surnom de l’équipe nationale du GHANA ?",
+    "answer": ["LES BLACKS STARS"],
     "thematic": "Sports",
-    "subThematic": "Sports nord-américains",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
+    "subThematic": "Football",
+    "level": "Facile",
+    "points": 10,
+    "times": 23
   },
   {
     "id": 40,
+    "question": "Originaire de l’Amérique du Nord, ce sport a été codifié en 1867 par le Canadien William George Beers.",
+    "answer": ["La Crosse"],
+    "thematic": "Sports",
+    "subThematic": "La Crosse",
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
+  },
+  {
+    "id": 41,
     "question": "Quel est le meilleur club de foot au monde ?",
     "answer": ["Le Réal Madrid"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
+    "points": 10,
+    "times": 28
   },
   {
-    "id": 41,
+    "id": 42,
     "question": "Quel pays est le n°1 au classement FIFA en 2023 ?",
     "answer": ["L’Argentine"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Difficile",
-    "points": 17,
-    "times": 21
+    "points": 10,
+    "times": 25
   },
   {
-    "id": 42,
+    "id": 43,
     "question": "Dans quelle ville ont eu lieu les Jeux Olympiques d’hiver 2006 ?",
     "answer": ["Turin, Italie"],
     "thematic": "Sports",
     "subThematic": "Jeux Olympiques",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 20
   },
   {
-    "id": 43,
-    "question": "Quelle est la tenue du sumo ?",
+    "id": 44,
+    "question": "Quel est la tenue du sumo ?",
     "answer": ["Mawashi"],
     "thematic": "Sports",
     "subThematic": "Sumo",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 18
   },
   {
-    "id": 44,
+    "id": 45,
     "question": "Quel nom porte la tenue du Judo ?",
     "answer": ["Judogi ou kimono de Judo"],
     "thematic": "Sports",
     "subThematic": "Judo",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 25
   },
   {
-    "id": 45,
+    "id": 46,
     "question": "Qui est le champion en titre du Taekwondo ?",
     "answer": ["Shohei Ono"],
     "thematic": "Sports",
     "subThematic": "Taekwondo",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
+    "level": "Difficile",
+    "points": 10,
+    "times": 23
   },
   {
-    "id": 46,
+    "id": 47,
     "question": "Quel sport Gareth Bale pratique actuellement ?",
     "answer": ["Golf"],
     "thematic": "Sports",
     "subThematic": "Golf",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 20
   },
   {
-    "id": 47,
+    "id": 48,
     "question": "Quel sport de combat japonais signifie « la voie de la souplesse » ?",
     "answer": ["Le Judo"],
     "thematic": "Sports",
     "subThematic": "Judo",
     "level": "Facile",
-    "points": 12,
-    "times": 17
+    "points": 10,
+    "times": 19
   },
   {
-    "id": 48,
+    "id": 49,
     "question": "Quel sport de combat inspiré du Ju-Jistsu fut inventé par Jigoro KANO en 1877 ?",
     "answer": ["Le Judo"],
     "thematic": "Sports",
     "subThematic": "Judo",
-    "level": "Facile",
-    "points": 12,
-    "times": 17
+    "level": "Difficile",
+    "points": 10,
+    "times": 22
   },
   {
-    "id": 49,
+    "id": 50,
     "question": "Quel nom porte l’espace gazonné aménagé autour de chaque trou de golf ?",
     "answer": ["Green"],
     "thematic": "Sports",
     "subThematic": "Golf",
     "level": "Facile",
-    "points": 12,
-    "times": 17
-  },
-  {
-    "id": 50,
-    "question": "Quel métal blanc, dur, de densité 4,54 sert à fabriquer les raquettes ?",
-    "answer": ["Le titane"],
-    "thematic": "Sports",
-    "subThematic": "Matériaux",
-    "level": "Moyen",
-    "points": 15,
-    "times": 18
+    "points": 10,
+    "times": 21
   },
   {
     "id": 51,
+    "question": "Quel métal blanc, dur, de densité 4,54 sert à fabriquer les raquettes ?",
+    "answer": ["Le titane"],
+    "thematic": "Sports",
+    "subThematic": "Divers",
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 52,
     "question": "Sur quel stade évolue le club de football de Valence ?",
     "answer": ["La Mestalla"],
     "thematic": "Sports",
     "subThematic": "Football",
     "level": "Facile",
-    "points": 13,
-    "times": 17
+    "points": 10,
+    "times": 26
   }
 ]
+
+
