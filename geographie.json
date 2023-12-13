@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "Quel est le seul pays d’Asie à avoir reçu les Jeux Olympiques d’hiver deux fois ?",
+      "answer": ["Japon"],
+      "thematic": "Sports",
+      "subThematic": "Jeux olympiques",
+      "level": "Moyen",
+      "points": 10,
+      "times": 18
+    },
+    {
+      "id": 2,
+      "question": "En géomorphologie, c’est le processus de dégradation et de transformation du relief, et donc des roches, qui est causé par tout agent externe.",
+      "answer": ["L’érosion"],
+      "thematic": "Sciences",
+      "subThematic": "Géomorphologie",
+      "level": "Moyen",
+      "points": 10,
+      "times": 19
+    },
+    {
+      "id": 3,
+      "question": "Dans quel état américain pouvez-vous trouver les villes de South Bend, Terre Haute et Gary?",
+      "answer": ["Indiana"],
+      "thematic": "Géographie",
+      "subThematic": "États-Unis",
+      "level": "Moyen",
+      "points": 10,
+      "times": 18
+    },
+    {
+      "id": 4,
+      "question": "Quelle ville de France est la plus populeuse?",
+      "answer": ["Paris"],
+      "thematic": "Géographie",
+      "subThematic": "France",
+      "level": "Moyen",
+      "points": 10,
+      "times": 17
+    },
+    {
+      "id": 5,
+      "question": "Qui a inventé le terme « géographie » ?",
+      "answer": ["Ératosthène"],
+      "thematic": "Sciences",
+      "subThematic": "Géographie",
+      "level": "Moyen",
+      "points": 10,
+      "times": 18
+    }
+  ]
+  
