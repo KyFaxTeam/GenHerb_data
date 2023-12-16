@@ -131,7 +131,7 @@
       },
       {
         "id": 14,
-        "question": "Le film de 1996 Mars Attack! mettant en plusieurs vedettes tel que Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker et Tom Jones a été réalisé par quel américain ?",
+        "question": "Le film de 1996 Mars Attack! mettant en scène plusieurs vedettes tel que Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker et Tom Jones a été réalisé par quel américain ?",
         "answer": ["Tim Burton"],
         "thematic": "Cinéma",
         "subThematic": "Réalisateurs",
@@ -232,7 +232,7 @@
       {
         "id": 24,
         "question": "Quel film d’horreur a le budget le plus élevé de toute l’histoire?",
-        "answer": ["It", "35 000 000$"],
+        "answer": ["It"],
         "thematic": "Cinéma",
         "subThematic": "Films d'horreur",
         "level": "Difficile",
@@ -302,7 +302,7 @@
       {
         "id": 31,
         "question": "Quels sont les trois acteurs qui ont incarné le personnage de Spider-Man ?",
-        "answer": ["Tobey Maguire", "Andrew Garfield", "Tom Holland"],
+        "answer": ["Tobey Maguire, Andrew Garfield, Tom Holland"],
         "thematic": "Cinéma",
         "subThematic": "Acteurs",
         "level": "Moyen",
@@ -342,7 +342,7 @@
       {
         "id": 35,
         "question": "Quelle a été la durée du plus long film documentaire ?",
-        "answer": ["14h33min", "Le Voyage"],
+        "answer": ["14h33min"],
         "thematic": "Cinéma",
         "subThematic": "Durée des films documentaires",
         "level": "Difficile",

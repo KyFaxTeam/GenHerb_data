@@ -48,6 +48,46 @@
       "level": "Moyen",
       "points": 10,
       "times": 18
-    }
+    },
+    {
+        "id": 6,
+        "question": "Quel est le nom du fleuve le plus long d'Afrique ?",
+        "answer": ["Le Nil"],
+        "thematic": "Géographie",
+        "subThematic": "Rivières",
+        "level": "Moyen",
+        "points": 10,
+        "times": 20
+      },
+      {
+        "id": 7,
+        "question": "Quel est le nom de la capitale de la Chine ?",
+        "answer": ["Pékin"],
+        "thematic": "Géographie",
+        "subThematic": "Villes",
+        "level": "Facile",
+        "points": 10,
+        "times": 20
+      },
+      {
+        "id": 8,
+        "question": "Quel est le nom du fleuve le plus long du monde ?",
+        "answer": ["Le Nil"],
+        "thematic": "Géographie",
+        "subThematic": "Rivières",
+        "level": "Moyen",
+        "points": 10,
+        "times": 20
+      },
+      {
+        "id": 9,
+        "question": "Quel est le nom du plus haut sommet de l'Himalaya ?",
+        "answer": ["Le mont Everest"],
+        "thematic": "Géographie",
+        "subThematic": "Montagnes",
+        "level": "Moyen",
+        "points": 10,
+        "times": 20
+      }
   ]
   

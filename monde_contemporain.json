@@ -2,7 +2,7 @@
     {
       "id": 1,
       "question": "Quel traité, signé en 1763, met fin à la guerre de 7 ans ?",
-      "answer": "Traité de Paris",
+      "answer": ["Traité de Paris"],
       "thematic": "Histoire",
       "subThematic": "Guerres",
       "level": "Moyen",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "question": "Quel pays d’Afrique obtint son indépendance en 1993 ?",
-      "answer": "L’Érythrée",
+      "answer": ["L’Érythrée"],
       "thematic": "Géographie",
       "subThematic": "Afrique",
       "level": "Moyen",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "question": "Quel homme politique portugais est président de la Commission européenne depuis 2004 ?",
-      "answer": "José Manuel Durão Barroso",
+      "answer": ["José Manuel Durão Barroso"],
       "thematic": "Politique",
       "subThematic": "Union européenne",
       "level": "Moyen",
@@ -32,7 +32,7 @@
     {
       "id": 4,
       "question": "Quel homme politique est le premier amérindien élu à la tête de la Bolivie ?",
-      "answer": "Evo Morales",
+      "answer": ["Evo Morales"],
       "thematic": "Politique",
       "subThematic": "Bolivie",
       "level": "Moyen",
@@ -42,7 +42,7 @@
     {
       "id": 5,
       "question": "Le 21 avril 2002, Jean-Marie Le Pen accédait au second tour de l’élection présidentielle française, inquiétant ainsi une bonne partie du pays. Battu du même coup, quel homme a tout de suite annoncé qu’il se retirait de la vie politique ?",
-      "answer": "Lionel Jospin",
+      "answer": ["Lionel Jospin"],
       "thematic": "Politique",
       "subThematic": "France",
       "level": "Moyen",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "question": "Dans quel célèbre discours prononcé le 5 Mars 1946, Churchill dénonçait l’attitude de Staline en affirmant que “ de Stettin, dans la Baltique, à Trieste dans l'Adriatique, un rideau de fer est descendu à travers le continent“ ?",
-        "answer": "Discours de Fulton",
+        "answer": ["Discours de Fulton"],
         "thematic": "Histoire",
         "subThematic": "Guerre froide",
         "level": "Difficile",
@@ -62,7 +62,7 @@
       {
         "id": 7,
         "question": "Combien de présidents américains ont été au pouvoir durant la guerre froide ?",
-        "answer": "8 (Truman, Eisenhower, Kennedy, Johnson, Nixon, Ford, Carter et Reagan)",
+        "answer": ["8"],
         "thematic": "Histoire",
         "subThematic": "Guerre froide",
         "level": "Moyen",
@@ -72,7 +72,7 @@
       {
         "id": 8,
         "question": "Donnez les noms et prénoms des deux signataires des accords SALT II ?",
-        "answer": "Jimmy Carter et Léonid Brejnev",
+        "answer": ["Jimmy Carter et Léonid Brejnev"],
         "thematic": "Histoire",
         "subThematic": "Guerre froide",
         "level": "Moyen",
@@ -82,7 +82,7 @@
       {
         "id": 9,
         "question": "Quelle est la première grande défaite de Staline dans la guerre froide ?",
-        "answer": "Blocus de Berlin (qui échoua à cause du pont aérien)",
+        "answer": ["Blocus de Berlin"],
         "thematic": "Histoire",
         "subThematic": "Guerre froide",
         "level": "Difficile",
@@ -92,7 +92,7 @@
       {
         "id": 10,
         "question": "Qui ordonna en 1961 la construction du mur de Berlin ?",
-        "answer": "Nikita Krouchtchev",
+        "answer": ["Nikita Krouchtchev"],
         "thematic": "Histoire",
         "subThematic": "Guerre froide",
         "level": "Difficile",
@@ -102,7 +102,7 @@
       {
         "id": 11,
         "question": "De quelle nationalité est l’actuelle Miss Univers 2011 ?",
-        "answer": "Angola",
+        "answer": ["Angola"],
         "thematic": "Culture",
         "subThematic": "Miss Univers",
         "level": "Moyen",
@@ -112,7 +112,7 @@
       {
         "id": 12,
         "question": "Quel club de NBA est actuellement la propriété de Michael Jordan ?",
-        "answer": "Charlotte Bobcats",
+        "answer": ["Charlotte Bobcats"],
         "thematic": "Sport",
         "subThematic": "Basket-ball",
         "level": "Moyen",
@@ -122,7 +122,7 @@
       {
         "id": 13,
         "question": "Quand a eu lieu le séisme à Haïti ?",
-        "answer": "12 Janvier 2010",
+        "answer": ["12 Janvier 2010"],
         "thematic": "Géographie",
         "subThematic": "Amérique",
         "level": "Moyen",
@@ -132,7 +132,7 @@
       {
         "id": 14,
         "question": "Qui était Directeur du contre terrorisme aux USA au moment des attentats du 11 Septembre 2001 ?",
-        "answer": "Richard Clark",
+        "answer": ["Richard Clark"],
         "thematic": "Politique",
         "subThematic": "États-Unis",
         "level": "Moyen",
@@ -142,7 +142,7 @@
       {
         "id": 15,
         "question": "Quel socialiste a été élu président de l’Uruguay en octobre 2004, devenant ainsi le premier politicien de gauche à gouverner ce pays ?",
-        "answer": "Tabaré Vázquez",
+        "answer": ["Tabaré Vázquez"],
         "thematic": "Politique",
         "subThematic": "Uruguay",
         "level": "Moyen",
@@ -152,7 +152,7 @@
       {
         "id": 16,
         "question": "Quel homme politique tchèque est le leader du « printemps de Prague » en 1968 ?",
-        "answer": "Alexander Dubček",
+        "answer": ["Alexander Dubček"],
         "thematic": "Histoire",
         "subThematic": "Europe de l'Est",
         "level": "Difficile",
@@ -162,7 +162,7 @@
       {
         "id": 17,
         "question": "Quelle reine d’Angleterre fut la dernière de la lignée des Tudors ?",
-        "answer": "Elizabeth Ier",
+        "answer": ["Elizabeth Ier"],
         "thematic": "Histoire",
         "subThematic": "Angleterre",
         "level": "Moyen",
@@ -172,7 +172,7 @@
       {
         "id": 18,
         "question": "Quel était le surnom du général et dictateur espagnol Franco ?",
-        "answer": "Caudillo",
+        "answer": ["Caudillo"],
         "thematic": "Histoire",
         "subThematic": "Espagne",
         "level": "Moyen",
@@ -182,17 +182,18 @@
       {
         "id": 19,
         "question": "Comment s’appelait la mère d’Hitler ?",
-        "answer": "Clara Pötzl",
+        "answer": ["Clara Pötzl"],
         "thematic": "Histoire",
         "subThematic": "Allemagne",
         "level": "Moyen",
         "points": 10,
         "times": 20
       },
+
       {
         "id": 20,
         "question": "Sous quel nom désigne-t-on le pillage des magasins et synagogues juifs organisés par Goebbels le 10 novembre 1938 ?",
-        "answer": "La nuit de cristal",
+        "answer": ["La nuit de cristal"],
         "thematic": "Histoire",
         "subThematic": "Shoah",
         "level": "Difficile",
@@ -201,48 +202,20 @@
       },
       {
         "id": 21,
-        "question": "Sous quel nom désigne-t-on le pillage des magasins et synagogues juifs organisés par Goebbels le 10 novembre 1938 ?",
-        "answer": "La nuit de cristal",
-        "thematic": "Histoire",
-        "subThematic": "Shoah",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 22,
         "question": "Quel nom a-t-on donné à l’exécution des chefs SA ordonnée par Hitler le 1er Juillet 1934 ?",
-        "answer": "La nuit des longs couteaux",
+        "answer": ["La nuit des longs couteaux"],
         "thematic": "Histoire",
         "subThematic": "Troisième Reich",
         "level": "Difficile",
         "points": 10,
         "times": 21
       },
+      
+      
       {
-        "id": 23,
-        "question": "Quel est le nom du plus haut sommet de l'Himalaya ?",
-        "answer": "Le mont Everest",
-        "thematic": "Géographie",
-        "subThematic": "Montagnes",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 24,
-        "question": "Quel est le nom du fleuve le plus long du monde ?",
-        "answer": "Le Nil",
-        "thematic": "Géographie",
-        "subThematic": "Rivières",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 25,
+        "id": 22,
         "question": "Quel est le nom de la capitale de la France ?",
-        "answer": "Paris",
+        "answer": ["Paris"],
         "thematic": "Géographie",
         "subThematic": "Villes",
         "level": "Facile",
@@ -250,9 +223,9 @@
         "times": 20
       },
       {
-        "id": 26,
+        "id": 23,
         "question": "Quel est le nom du président actuel des États-Unis ?",
-        "answer": "Joe Biden",
+        "answer": ["Joe Biden"],
         "thematic": "Politique",
         "subThematic": "États-Unis",
         "level": "Facile",
@@ -260,9 +233,9 @@
         "times": 20
       },
       {
-        "id": 27,
+        "id": 24,
         "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-        "answer": "Neil Armstrong",
+        "answer": ["Neil Armstrong"],
         "thematic": "Science",
         "subThematic": "Astronomie",
         "level": "Difficile",
@@ -270,34 +243,15 @@
         "times": 21
       },
       {
-        "id": 28,
+        "id": 25,
         "question": "Quel est le nom de la formule chimique de l'eau ?",
-        "answer": "H2O",
+        "answer": ["H2O"],
         "thematic": "Science",
         "subThematic": "Chimie",
         "level": "Facile",
         "points": 10,
         "times": 20
-      },
-      {
-        "id": 29,
-        "question": "Quel est le nom de la capitale de la Chine ?",
-        "answer": "Pékin",
-        "thematic": "Géographie",
-        "subThematic": "Villes",
-        "level": "Facile",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 30,
-        "question": "Quel est le nom du fleuve le plus long d'Afrique ?",
-        "answer": "Le Nil",
-        "thematic": "Géographie",
-        "subThematic": "Rivières",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
       }
+      
   ]
   

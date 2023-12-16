@@ -15,7 +15,7 @@
     "answer": ["Sheffield FC"],
     "thematic": "Sports",
     "subThematic": "Football",
-    "level": "Très Facile",
+    "level": "Facile",
     "points": 10,
     "times": 16
   },
@@ -412,7 +412,7 @@
   {
     "id": 43,
     "question": "Dans quelle ville ont eu lieu les Jeux Olympiques d’hiver 2006 ?",
-    "answer": ["Turin, Italie"],
+    "answer": ["Turin"],
     "thematic": "Sports",
     "subThematic": "Jeux Olympiques",
     "level": "Facile",
