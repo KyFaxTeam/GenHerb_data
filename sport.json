@@ -432,7 +432,7 @@
   {
     "id": 45,
     "question": "Quel nom porte la tenue du Judo ?",
-    "answer": ["Judogi ou kimono de Judo"],
+    "answer": ["Judogi","Kimono de Judo"],
     "thematic": "Sports",
     "subThematic": "Judo",
     "level": "Facile",
