@@ -1,0 +1,749 @@
+[
+    {
+      "id": 7,
+      "question": "Quelle est la langue officielle de l’Afrique du Sud ?",
+      "answer": ["Anglais", "Afrikaans"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 22
+    },
+    {  
+      "id": 7,
+      "question": "Quelles sont la langue officielle de l’Algérie ?",
+      "answer": ["Arabe", "Français"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 24
+    },
+    {
+      "id": 7,
+      "question": "Quelles sont les langues officielles du Portugal ?",
+      "answer": ["Portugais"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 20
+    },
+    {
+      "id": 7,
+      "question": "Quelle est la langue officielle du Bénin ?",
+      "answer": ["Français"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique", 
+      "level": "Facile",
+      "points": 10,
+      "times": 18
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la langue officielle du Botswana ?",
+      "answer": ["Anglais"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 18
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la langue officielle du Burkina Faso ?",
+      "answer": ["Français"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 20
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la langue officielle du Burundi ?",
+      "answer": ["Français"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 18
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la langue officielle du Portugal ?",
+      "answer": ["Portugais"],
+      "thematic": "Langues",
+      "subThematic": "Langues officielles en Afrique",
+      "level": "Facile",
+      "points": 10,
+      "times": 18
+    },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale de la Corée du nord ?", 
+    "answer": ["Pyongyang"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale du Kenya ?",
+    "answer": ["Nairobi"],
+    "thematic": "Géographie", 
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale de la Turquie ?",
+    "answer": ["Ankara"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale du Pérou ?",
+    "answer": ["Lima"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 14
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de l’Iran ?",
+    "answer": ["Téhéran"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile", 
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de la Belgique ?",
+    "answer": ["Bruxelles"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de l’Egypte ?",
+    "answer": ["Caire"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 14
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de Cuba ?",
+    "answer": ["Havane"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+
+  {
+    "id": 9,
+    "question": "Quelle est la capitale de la Corée du nord ?", 
+    "answer": ["Pyongyang"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale du Kenya ?",
+    "answer": ["Nairobi"],
+    "thematic": "Géographie", 
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale de la Turquie ?",
+    "answer": ["Ankara"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la capitale du Pérou ?",
+    "answer": ["Lima"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 14
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de l’Iran ?",
+    "answer": ["Téhéran"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile", 
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de la Belgique ?",
+    "answer": ["Bruxelles"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de l’Egypte ?",
+    "answer": ["Caire"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 14
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capitale de Cuba ?",
+    "answer": ["Havane"],
+    "thematic": "Géographie",
+    "subThematic": "Capitales",
+    "level": "Facile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 11,
+    "question": "Qui est le ministre de la justice et de la législation du Bénin ?",
+    "answer": ["Yvon DETCHENOU"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 11, 
+    "question": "Qui est le ministre des affaires étrangères du Bénin ?",
+    "answer": ["Olushegun Adjadi BAKARI"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 27
+  },
+  {
+    "id": 11,
+    "question": "Qui est le ministre du cadre de vie et des transports du Bénin ?",
+    "answer": ["José Didier TONATO"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 27
+  },
+  {
+    "id": 11,
+    "question": "Qui est le ministre d’état chargé du développement et de la coordination du Bénin ?",
+    "answer": ["Abdoulaye Bio TCHANE"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
+  },
+  {
+    "id": 12,
+    "question": "Qui est le ministre de l’agriculture, de l’élevage et de la pêche du Bénin ?",
+    "answer": ["Gaston DUSSOUHOUI"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 27
+  },
+  {
+    "id": 12,
+    "question": "Qui est le ministre des affaires sociales et de la Micro-Finance du Bénin ?",
+    "answer": ["Véronique TOGNIFODE "],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 27
+  },
+  {
+    "id": 12,
+    "question": "Qui est le ministre de la santé du Bénin ?",
+    "answer": ["Benjamin HOUNKPATIN"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 12,
+    "question": "Qui est le ministre des sports du Bénin ?",
+    "answer": ["Benoit M. K. DATO"],
+    "thematic": "Politique",
+    "subThematic": "Ministres du Bénin",
+    "level": "Difficile", 
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 13,
+    "question": "Quel est le nom du phénomène météorologique qui peut entrainer des turbulences lors d’un vol ?",
+    "answer": ["Cisaillement du vent"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 13,
+    "question": "Quelle est l’unité utilisée couramment pour la mesure de la vitesse d’un aéronef en vol ?",
+    "answer": ["Le nœud"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Moyen",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 13,
+    "question": "Appareil destiné à restituer les paramètres de vol et les conversations des pilotes pour l’analyse des circonstances d’un accident.",
+    "answer": ["Enregistreur de vol ou boite noire"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
+  },
+  {
+    "id": 13,
+    "question": "Nom de l’avion dessiné et construit par les frères Américains Wright",
+    "answer": ["Le Wright Flyer"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Difficile",
+    "points": 10,
+    "times": 24
+  },
+  
+  {
+    "id": 14,
+    "question": "Quel célèbre aviateur américain a été le premier à réaliser un vol sans escale transatlantique en solo en 1927 ?",
+    "answer": ["Charles Lindbergh"],
+    "thematic": "Aviation",
+    "subThematic": null, 
+    "level": "Difficile",
+    "points": 10,
+    "times": 27
+  },
+  {
+    "id": 14,
+    "question": "Quel accident d’avion a inspiré le film 'Sully' en 2016, mettant en vedette Tom Hanks ?",
+    "answer": ["Accident du vol US Airways 1549, connu sous le nom de ‘Miracle sur l’Hudson’"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
+  },
+  {  
+    "id": 14,
+    "question": "En quelle année a-t-on réalisé le premier vol commercial ?",
+    "answer": ["1914"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Moyen",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 14,
+    "question": "Quel est le plus grand constructeur d’avions ?",
+    "answer": ["Airbus (depuis 2019)"],
+    "thematic": "Aviation",
+    "subThematic": null,
+    "level": "Moyen",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 15, 
+    "question": "Comment nomme-t-on 3 ans de noces ?",
+    "answer": ["Froment"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 15,
+    "question": "Comment nomme-t-on 13 ans de noces ?",
+    "answer": ["Muguet"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 15,
+    "question": "Comment nomme-t-on 23 ans de noces ?",
+    "answer": ["Béryl"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 15,
+    "question": "Comment nomme-t-on 33 ans de noces ?",
+    "answer": ["Porphyre"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 15,
+    "question": "Comment nomme-t-on 43 ans de noces ?", 
+    "answer": ["Flanelle"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 22
+  },
+  
+  {
+    "id": 16,
+    "question": "Comment nomme-t-on 7 ans de noces ?",
+    "answer": ["Laine"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 16,
+    "question": "Comment nomme-t-on 17 ans de noces ?",
+    "answer": ["Rose"], 
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 16,
+    "question": "Comment nomme-t-on 27 ans de noces ?",
+    "answer": ["Acajou"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 16,
+    "question": "Comment nomme-t-on 37 ans de noces ?",
+    "answer": ["Papier"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 16,
+    "question": "Comment nomme-t-on 47 ans de noces ?",
+    "answer": ["Cachemire"],
+    "thematic": "Mariage",
+    "subThematic": "Noms des anniversaires",
+    "level": "Difficile",
+    "points": 10, 
+    "times": 22
+  },
+  {
+    "id": 17,
+    "question": "Quelle est la langue officielle du Cuba ?",
+    "answer": ["Espagnol"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 17,
+    "question": "Quelle est la langue officielle du Kenya ?",
+    "answer": ["Anglais", "Swahili"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 17,
+    "question": "Quelle est la langue officielle de la Guinée Equatoriale ?",
+    "answer": ["Espagnol", "Français"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 17,
+    "question": "Quelle est la langue officielle de la Namibie ?",
+    "answer": ["Anglais"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  
+  {
+    "id": 18,
+    "question": "Quelle est la langue officielle de l’Autriche ?",
+    "answer": ["Allemand"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 18,
+    "question": "Quelle est la langue officielle du Paraguay ?",
+    "answer": ["Espagnol", "Guarani"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 18,
+    "question": "Quelle est la langue officielle du Cap-Vert ?",
+    "answer": ["Portugais"], 
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 18,
+    "question": "Quelle est la langue officielle de l’Ukraine ?",
+    "answer": ["Ukrainien"],
+    "thematic": "Langues",
+    "subThematic": "Langues officielles dans le monde",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 19, 
+    "question": "Quel est l'indicatif téléphonique international de l'Angola ?",
+    "answer": ["244"],
+    "thematic": "Géographie", 
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 19,
+    "question": "Quel est l'indicatif téléphonique international de la Namibie ?",
+    "answer": ["264"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 19,
+    "question": "Quel est l'indicatif téléphonique international du Luxembourg ?",
+    "answer": ["352"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 19, 
+    "question": "Quel est l'indicatif téléphonique international de la Corée du Nord ?",
+    "answer": ["850"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 20
+  },
+  
+  {
+    "id": 20,
+    "question": "Quel est l'indicatif téléphonique international de la Corée du Sud ?",
+    "answer": ["82"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 20,
+    "question": "Quel est l'indicatif téléphonique international des États-Unis ?",
+    "answer": ["1"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 20,
+    "question": "Quel est l'indicatif téléphonique international de la Jamaïque ?",
+    "answer": ["1876"],
+    "thematic": "Géographie",
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 20
+  },
+  {
+    "id": 20,
+    "question": "Quel est l'indicatif téléphonique international de la Thaïlande ?",
+    "answer": ["66"],
+    "thematic": "Géographie", 
+    "subThematic": "Indicatifs téléphoniques",
+    "level": "Moyen",
+    "points": 10,
+    "times": 16
+  },
+  {
+    "id": 21,
+    "question": "Quel club est le plus titré de l’histoire du football ?",
+    "answer": ["Real Madrid"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 21,
+    "question": "Quel défenseur professionnel de football a marqué 101 buts en carrière ?",
+    "answer": ["Sergio Ramos"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Moyen",
+    "points": 10, 
+    "times": 24
+  },
+  {
+    "id": 21,
+    "question": "Combien de buts Karim Benzema a-t-il marqué en Ligue des Champions ?",
+    "answer": ["72 buts"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Moyen",
+    "points": 10,
+    "times": 22
+  },
+  {
+    "id": 21,
+    "question": "Qui a marqué le deuxième but lors de la finale de la Ligue des Champions 2018 entre le Real Madrid et Liverpool ?",
+    "answer": ["Gareth Bale"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Difficile",
+    "points": 10,
+    "times": 30
+  },
+  
+  {
+    "id": 22,
+    "question": "Quel pays a remporté le plus de Coupes du Monde de rugby ?",
+    "answer": ["Nouvelle-Zélande"],
+    "thematic": "Sports",
+    "subThematic": "Rugby",
+    "level": "Moyen",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 22, 
+    "question": "Combien de fois l'équipe du Bénin s'est qualifiée pour la Coupe d'Afrique des Nations de football ?",
+    "answer": ["4 fois"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Moyen",
+    "points": 10,
+    "times": 24
+  },
+  {
+    "id": 22,
+    "question": "Quel pays a remporté le plus de Coupes d'Afrique des Nations de football ?",
+    "answer": ["Egypte"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Facile",
+    "points": 10,
+    "times": 18
+  },
+  {
+    "id": 22,
+    "question": "Quel jeune joueur sénégalais a marqué un doublé contre l’Argentine en Coupe du monde U17 2023 ?",
+    "answer": ["Amara Diouf"],
+    "thematic": "Sports",
+    "subThematic": "Football",
+    "level": "Difficile",
+    "points": 10,
+    "times": 26
+  }
+
+]
