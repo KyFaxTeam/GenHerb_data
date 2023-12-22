@@ -1,0 +1,118 @@
+question,answer,thematic,subThematic,level,points,times
+Centre urbain plus grand qu’un village et plus petite qu’une métropole :,"""{Ville}""",Géographie,Villes Africaines,Très Facile,5,21
+Quelle est la ville la plus polluée d’Afrique ?,"""{Onitsha}""",Géographie,Villes Africaines,Difficile,10,21
+"Quelle ville est surnommée Kin la Belle, capitale de l’Allemagne d’Afrique ?","""{Kinshasa}""",Géographie,Villes Africaines,Moyen,10,20
+Quelle est la ville la plus chère d’Afrique ?,"""{Dakar}""",Géographie,Villes Africaines,Moyen,10,16
+Quelle est la ville la plus sûre d’Afrique ?,"""{Kigali}""",Géographie,Villes Africaines,Moyen,10,16
+Quelle ville est la capitale commerciale d’Afrique ?,"""{Accra}""",Géographie,Villes Africaines,Facile,10,16
+Quelle est la ville la plus peuplée d’Afrique ?,"""{Lagos}""",Géographie,Villes Africaines,Difficile,10,21
+Quelle est la ville la plus paisible d’Afrique ?,"""{Gaborone}""",Géographie,Villes Africaines,Moyen,10,16
+Quelle est la ville la plus chère pour les étrangers d’Afrique ?,"""{Bangui}""",Géographie,Villes Africaines,Moyen,10,16
+Nom philosophique de l’élément premier :,"""{Archè}""",Philosophie,Éléments Premiers,Très Facile,5,21
+Quel est l’archè selon Thalès ?,"""{Eau}""",Philosophie,Éléments Premiers,Difficile,10,21
+Quel est l’archè selon Anaximandre ?,"""{Infini}""",Philosophie,Éléments Premiers,Moyen,10,20
+Quel est l’archè selon Anaximène ?,"""{Air}""",Philosophie,Éléments Premiers,Moyen,10,16
+Quel est l’archè selon les pythagoriciens ?,"""{Nombre}""",Philosophie,Éléments Premiers,Facile,10,16
+Quel est l’archè selon les stoïciens ?,"""{Feu}""",Philosophie,Éléments Premiers,Difficile,10,21
+"Aussi appelé 3ème art, il désigne une suggestion du monde visible ou imaginaire sur une surface plane au moyen des couleurs :","""{Peinture}""",Art,Peinture,Très Facile,5,21
+Qui a peint La Cène ?,"""{Léonard de Vinci}""",Art,Peinture,Difficile,10,21
+Qui a peint La nuit étoilée ?,"""{Vincent Van Gogh}""",Art,Peinture,Moyen,10,20
+Qui a peint Guernica ?,"""{Pablo Picasso}""",Art,Peinture,Moyen,10,16
+Qui a peint Persistance de la Mémoire ?,"""{Salvador Dali}""",Art,Peinture,Facile,10,16
+"Ensembles des histoires fabuleuses des dieux de tel ou tel peuple, civilisation, ou région :","""{Mythologie}""",Culture Générale,Mythologie,Très Facile,5,21
+Dieu de la foudre dans la mythologie nordique,"""{Thor}""",Culture Générale,Mythologie,Difficile,10,21
+Dieu hindou de la destruction et de la régénération,"""{Shiva}""",Culture Générale,Mythologie,Moyen,10,20
+"Héros dans la mythologie grec, il a tué la créature mi-homme mi-taureau","""{Thésée}""",Culture Générale,Mythologie,Moyen,10,16
+Dieu du tonnerre dans la mythologie japonaise,"""{Raijin}""",Culture Générale,Mythologie,Facile,10,16
+"Dans l'univers d'Harry Potter, quelle est la célèbre école de sorcellerie où Harry et ses amis étudient la magie ?","""{Poudlard}""",Littérature,Harry Potter,Facile,5,21
+Nommer le titre du cinquième des six romans de JK Rowling qui met en vedette Harry Potter :,"""{Harry Potter et l'ordre du phénix}""",Littérature,Harry Potter,Difficile,10,21
+En quelle année serait-il né selon JK Rowling ?,"""{1981}""",Littérature,Harry Potter,Moyen,10,20
+Quelle maison d'édition traduit-elle en français les livres mettant en vedette Albus Dumbledore ?,"""{Gallimard}""",Littérature,Harry Potter,Moyen,10,16
+Je suis une élève de la maison de Serdaigle et une attrapeuse pour mon équipe de Quidditch. Harry Potter est aussi amoureux de moi. Qui suis-je ?,"""{Cho Chang}""",Littérature,Harry Potter,Facile,10,16
+De quoi la baguette magique de Harry Potter est-elle faite ?,"""{Plume d'un phénix}""",Littérature,Harry Potter,Difficile,10,21
+Quel est le nom du fondateur de l'école Poudlard dans la série Harry Potter ?,"""{Godric Gryffondor}""",Littérature,Harry Potter,Moyen,10,20
+Quelle événement fut déclenché par l'assassinat de l'archiduc François Ferdinand par de jeunes nationalistes serbes ?,"""{La Première Guerre mondiale}""",Histoire,Première Guerre mondiale,Difficile,5,21
+En quelle année a commencé la Première Guerre mondiale ?,"""{1914}""",Histoire,Première Guerre mondiale,Moyen,10,20
+Quelle est la durée de la Première Guerre mondiale ?,"""{4 ans}""",Histoire,Première Guerre mondiale,Moyen,10,16
+Combien de traités ont été signés au lendemain de la Première Guerre mondiale ?,"""{6}""",Histoire,Première Guerre mondiale,Facile,10,16
+Quelles sont les deux alliances qui s'opposent en 1914 ?,"""{Triple Alliance / Triple Entente}""",Histoire,Première Guerre mondiale,Difficile,10,21
+Qui était le président des États-Unis pendant une partie de la Première Guerre mondiale ?,"""{Woodrow Wilson}""",Histoire,Première Guerre mondiale,Moyen,10,20
+"Thème à découvrir : Maladie - Entité opposée à la santé, dont l’effet est dû à une altération","""{Maladie}""",Médecine,Maladie,Facile,5,21
+Que veut dire SIDA ?,"""{Syndrome Immunodéficience Acquise}""",Médecine,SIDA,Difficile,10,21
+De quelle maladie souffrait Ste Thérèse de l’Enfant Jésus ?,"""{Tuberculose}""",Médecine,Tuberculose,Moyen,10,20
+À quelle maladie est due une carence en vitamines B12 ?,"""{Anémie ou lésion du système nerveux}""",Médecine,Vitamines B12,Moyen,10,16
+Que peut provoquer une carence en Magnésium ?,"""{Vertiges, nausées, étourdissement}""",Médecine,Magnésium,Difficile,10,16
+Quelle est la maladie caractérisée par une inflammation des poumons ?,"""{Pneumonie}""",Médecine,Poumons,Moyen,10,21
+Période de l’histoire du monde située entre l’Antiquité et l’époque moderne,"""{Moyen-âge}""",Histoire,Périodes historiques,Facile,5,36
+Principale institution religieuse du Moyen Âge en Europe,"""{Église Catholique}""",Histoire,Moyen Âge,Facile,5,21
+Quel évènement a marqué le début du Moyen Âge ?,"""{Chute de l’Empire Romain d’Occident en 476}""",Histoire,Moyen Âge,Difficile,10,21
+Qui était Charlemagne ?,"""{C’était un roi franc qui a établi un vaste empire en Europe occidentale au VIIIe siècle}""",Histoire,Charlemagne,Moyen,10,20
+Quelle période a succédé au Moyen Âge ?,"""{La Renaissance française}""",Histoire,Renaissance,Moyen,10,16
+Quelle est la signification de l'acronyme « Moyen Âge » ?,"""{Cela signifie la période intermédiaire entre l'Antiquité et l'époque moderne}""",Histoire,Moyen Âge,Difficile,10,16
+Quel est l'événement marquant la fin du Moyen Âge ?,"""{La chute de Constantinople en 1453}""",Histoire,Moyen Âge,Difficile,10,21
+"Attention publique dont bénéficie une personne, un groupe, une œuvre, bénéficiaire de cette attention.","""{Célébrité}""",Culture,Célébrité,Facile,5,21
+Qui est la célébrité la plus influente de l’année aux USA en 2023 ?,"""{Taylor Swift}""",Culture,Célébrité,Difficile,10,21
+Quel célèbre artiste est le meilleur artiste sud-africain en 2023 ?,"""{Diamond Platinumz}""",Culture,Célébrité,Moyen,10,20
+Qui est le peintre le plus célèbre du monde ?,"""{Léonard de Vinci}""",Culture,Peinture,Moyen,10,16
+Quel célèbre groupe est le plus connu de tous les temps ?,"""{Les Beatles}""",Culture,Musique,Difficile,10,16
+Quel est le film le plus attendu de l'année 2023 ?,"""{Avatar: The Way of Water}""",Culture,Cinéma,Difficile,10,21
+Quel film sorti en 2022 aborde le thème des Amazones du Bénin au temps du roi Ghézo ?,"""{The Woman King}""",Cinéma,Amazones du Bénin,Facile,5,21
+Dans quel pays a été tourné le film « THE WOMAN KING » ?,"""{Afrique du Sud}""",Cinéma,The Woman King,Difficile,10,21
+Quel est le vrai nom de l’actrice jouant le rôle de Nanisca ?,"""{Viola Davis}""",Cinéma,Nanisca,Moyen,10,20
+"Dans le film, par quel nom désigne ces femmes guerrières surnommées les « Amazones » par les Européens, ont constitué l’élite de l’armée du royaume d’Abomey aux XVIIIe et XIXe siècles ?","""{Les Agodjiés}""",Cinéma,Amazones du Bénin,Moyen,10,16
+Quel est le nom de la meilleure guerrière des Agodjiés et aussi la fille de Nanisca ?,"""{Nawi}""",Cinéma,Amazones du Bénin,Difficile,10,16
+"Qui joue le rôle de la Meunon, la conseillère spirituelle du roi et aussi compositrice de la musique originale du film ?","""{Angélique Kidjo}""",Cinéma,Meunon,Difficile,10,21
+Question disciplinaire : Quel écrivain béninois a écrit « Les tresseurs de corde » ?,"""{Jean Pliya}""",Littérature,Jean Pliya,Facile,5,21
+Quel genre littéraire Jean Pliya a-t-il principalement pratiqué dans ses œuvres ?,"""{Le théâtre}""",Littérature,Jean Pliya,Difficile,10,21
+Quel est le nom du roi béninois dont Jean Pliya a consacré un roman historique en 1981 ?,"""{Béhanzin}""",Littérature,Jean Pliya,Moyen,10,20
+Quel est le titre de la pièce de théâtre de Jean Pliya qui met en scène un personnage qui se prétend dévot mais qui n’est en fait un hypocrite ?,"""{Tartuffe ou l’imposteur}""",Littérature,Jean Pliya,Moyen,10,16
+Quel est le titre de la nouvelle qui a valu à Jean Pliya le Grand Prix littéraire d’Afrique Noire en 1967 ?,"""{L’arbre fétiche}""",Littérature,Jean Pliya,Difficile,10,16
+"Quel est le titre du livre de prière que Jean Pliya a publié en 2010 pour aider le chrétien à expérimenter la présence, la bénédiction et la puissance de Dieu ?","""{Dix étapes de grâce et de Bonheur}""",Littérature,Jean Pliya,Difficile,10,21
+"Sous-genre musical du hip-hop et du gangsta rap originaire de Chicago dans les années 2010, caractérisé par ses paroles choquantes ou au contraire irréprochables mais posé sur un rythme irrégulier et qui a connu une ascension fulgurante en 2019 grâce au défunt rappeur Pop Smoke ?","""{La Drill}""",Musique,Drill,Facile,5,21
+Quel est le titre de la chanson de Pop Smoke sorti en décembre 2019 qui a popularisé la drill dans le monde entier ?,"""{Dior}""",Musique,Drill,Difficile,10,21
+Quel est le nom du rappeur français qui a sorti l’album Drill Fr en 2020 ?,"""{Gazo}""",Musique,Drill,Moyen,10,20
+Quel est le titre du morceau de drill sorti en 2020 du rappeur londonien Central Cee qui a popularisé la drill en Angleterre et qui a reçu le prix du meilleur single drill aux MOBO Awards 2021 ?,"""{Loading}""",Musique,Drill,Moyen,10,16
+"Quel est le titre du morceau de drill sorti en 2021 par le rappeur ghanéen Black Shérif dans lequel il raconte son parcours, ses difficultés et ses ambitions, dont le clip a atteint 100 millions de vues sur YouTube, classé 1er dans les charts de plusieurs pays et nommé dans la catégorie Best Hip-hop aux Grammy Awards en 2022 ?","""{Kwaku the Traveller}""",Musique,Drill,Difficile,10,16
+Quel est le titre du dernier album de drill sorti en 2022 par un artiste émergent dans ce genre musical ?,"""{Rising Drillstar}""",Musique,Drill,Difficile,10,21
+"Mot ayant trait au temps, il désigne une année de la vie, le début ou le renouveau de quelque chose.","""{Printemps}""",Politique,Printemps politiques,Facile,5,21
+Date exacte de la mort du Colonel Mouammar Khadafi.,"""{20 Octobre 2011}""",Politique,Printemps politiques,Moyen,10,21
+Nom donné à la vaste vague révolutionnaire qui traversa l’Europe en 1848-1849.,"""{Printemps des peuples}""",Politique,Printemps politiques,Difficile,10,20
+"Quelle ville, par le suicide de Mouhamed Bouazizi, fut le point de départ du printemps arabe ?","""{Sidibouzid}""",Politique,Printemps politiques,Moyen,10,16
+"Quel chef politique était au pouvoir en Tchécoslovaquie lors du Printemps de Prague, en 1968 ?","""{Alexander Dubček}""",Politique,Printemps politiques,Difficile,10,16
+Quatrième pays du monde par ma superficie et premier producteur mondial de porcs.,"""{Chine}""",Géographie,Chine,Facile,5,21
+En quelle année fut fondée la République Populaire de Chine ?,"""{1949}""",Histoire,Chine,Moyen,10,21
+Quelle est la plus grande ville du pays ?,"""{Shanghaï}""",Géographie,Chine,Moyen,10,20
+C’est la première ethnie du pays.,"""{Han}""",Culture,Chine,Moyen,10,16
+Ville dans laquelle fut signé le traité mettant fin à la première guerre de l’opium en 1842 et devenue capitale de la Chine en 1912.,"""{Nankin}""",Histoire,Chine,Difficile,10,16
+"Quelle est cette très forte dépression qui prend naissance au-dessus des eaux chaudes des océans de la zone intertropicale, et qui s’accompagne de vents très violents et de pluies torrentielles ?","""{Ouragan, Cyclone, Hurricane, Typhon}""",Météorologie,Cyclones,Moyen,5,21
+Selon quelle échelle les cyclones sont-ils classés par intensité ?,"""{Saffir-Simpson}""",Météorologie,Cyclones,Moyen,10,21
+"Quand (mois et année), Katrina a-t-elle frappé le Sud-ouest des USA ?","""{Aout 2005}""",Météorologie,Ouragan Katrina,Moyen,10,20
+Quels sont les trois états les plus durement frappés par Katrina ?,"""{Louisiane, Mississipi, Alabama}""",Météorologie,Ouragan Katrina,Moyen,10,16
+Quel est le nom de l’ouragan qui a récemment frappé ?,"""{Irène}""",Météorologie,Cyclones,Moyen,10,16
+A quelle occasion Usain Bolt établit-il son record du monde de 9s58 au 100m ?,"""{Championnat du monde d’athlétisme de Berlin 2009 (16 Août)}""",Athlétisme,100m Record,Difficile,5,25
+Qui détient le record du monde féminin du 100m ?,"""{Florence Griffith-Joyner (10s49 le 16 juillet 1988 à Indianapolis)}""",Athlétisme,100m Record,Moyen,10,22
+Qui est le premier blanc à courir le 100 m en moins de 10 s ?,"""{Christophe Lemaître}""",Athlétisme,100m,Moyen,10,20
+"Trois sprinters détiennent à eux seuls les dix meilleures performances de tous les temps, qui sont-ils ?","""{Usain Bolt, Asafa Powell, Tyson Gay}""",Athlétisme,Sprint,Difficile,10,20
+Qui est l’actuelle championne du monde féminine ?,"""{Carmelita Jeter (américaine en 10 s 49)}""",Athlétisme,Championnat du Monde,Moyen,10,18
+Sculpture ou ouvrage architectural permettant de rappeler un évènement ou une personne. Sa signification première est tombeau : Monument,"""{Monument}""",Architecture,Monument,Très Facile,5,18
+Où se trouve le Colisée ?,"""{Italie}""",Architecture,Colisée,Facile,10,20
+Quel pays abrite le Taj Mahal ?,"""{Inde}""",Architecture,Taj Mahal,Facile,10,22
+Où se trouve la Machu Picchu ?,"""{Pérou}""",Architecture,Machu Picchu,Moyen,10,24
+Où se trouve le Grand Canyon ?,"""{USA}""",Architecture,Grand Canyon,Moyen,10,26
+Où se trouve le temple de Karnak ?,"""{En Egypte}""",Architecture,Temple de Karnak,Moyen,10,28
+Où se trouvent les tombeaux royaux de Méroé ?,"""{Soudan}""",Architecture,Tombeaux royaux de Méroé,Moyen,10,30
+Partie d’une plante produite après floraison et contenant une ou plusieurs graines : FRUIT,"""{Fruit}""",Botanique,Fruit,Très Facile,5,16
+Quel est ce fruit fréquent en Afrique à la chair orange avec des graines noires pouvant être avalées ?,"""{Papaye}""",Botanique,Fruits d'Afrique,Facile,10,20
+"Quel est le fruit, souvent considéré comme un légume, le plus consommé au monde ?","""{Tomate}""",Botanique,Fruits dans la cuisine,Facile,10,24
+Quel est le fruit qui abrite la maison de Bob l’éponge ?,"""{Ananas}""",Botanique,Fruits dans la culture populaire,Moyen,10,28
+Quel est le fruit souvent placé sur un gâteau dans une expression célèbre ?,"""{Cerise}""",Botanique,Fruits dans la cuisine,Moyen,10,32
+"Chose qui cause une grande admiration par sa beauté, sa grandeur, sa valeur.","""{Merveille}""",Culture générale,Merveilles,Très Facile,5,16
+3ème merveille du monde antique,"""{Statue chryséléphantine de Zeus}""",Histoire,Merveilles du Monde Antique,Facile,10,20
+6ème merveille du monde antique,"""{Le Colosse de Rhodes}""",Histoire,Merveilles du Monde Antique,Facile,10,24
+1ère merveille du monde antique,"""{La pyramide de Khéops}""",Histoire,Merveilles du Monde Antique,Moyen,10,28
+2ème merveille du monde antique,"""{Les jardins suspendus de Babylone}""",Histoire,Merveilles du Monde Antique,Moyen,10,32
+"Quelle science étude la matière et ses transformations, les atomes et les molécules ?","""{Chimie}""",Sciences,Chimie,Très Facile,5,16
+Qui est le père de la chimie moderne ?,"""{Antoine Lavoisier}""",Histoire,Chimie,Facile,10,20
+Quel chimiste Suédois découvre l’acide tartrique ?,"""{Carl Wilhelm Scheele}""",Personnalités,Chimie,Moyen,10,24
+Quelles sont les trois grandes branches de la chimie ?,"""{Chimie générale, Chimie descriptive, Chimie analytique}""",Sciences,Chimie,Moyen,10,28
+Quel est le nom commercial de l’acide acétylsalicylique ?,"""{Aspirine}""",Sciences,Chimie,Moyen,10,32
