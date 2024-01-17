@@ -1,1043 +1,939 @@
-[ 
-    {
-        "id": 1,
-        "question": "A 5 lettres, Quelle substance odorante est utilisée pour donner du goût ou de l'odeur ?",
-        "answer": ["Arôme"],
-        "thematic": "Cuisine",
-        "subThematic": "Arômes",
-        "level": "Facile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 2,
-        "question": "L 8 lettres : Quel tissu fibreux relie les os entre eux et permet de stabiliser les articulations ?",
-        "answer": ["Ligament"],
-        "thematic": "Anatomie",
-        "subThematic": "Système musculo-squelettique",
-        "level": "Moyen",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 3,
-        "question": "L 7 lettres : Quelle plante aromatique de la famille des Lamiacées, originaire de la région méditerranéenne ?",
-        "answer": ["Lavande"],
-        "thematic": "Botanique",
-        "subThematic": "Plantes aromatiques",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 4,
-        "question": "F 7 lettres : Quel mouvement permet de plier une partie des membres ?",
-        "answer": ["Flexion"],
-        "thematic": "Anatomie",
-        "subThematic": "Mouvements corporels",
-        "level": "Facile",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 5,
-        "question": "C 9 lettres : Quelle punition inflige-t-on à une personne pour un acte jugé répréhensible ?",
-        "answer": ["Châtiment"],
-        "thematic": "Droit",
-        "subThematic": "Justice",
-        "level": "Facile",
-        "points": 10,
-        "times": 19
-      },
-    {
-        "id": 6,
-        "question": "S 9 lettres : Quelle composition musicale pour orchestre se compose généralement de plusieurs mouvements ?",
-        "answer": ["Symphonie"],
-        "thematic": "Musique",
-        "subThematic": "Composition musicale",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-      {
-        "id": 7,
-        "question": "M 6 lettres : Quelle roche métamorphique est composée principalement de calcite, de dolomite ou de serpentine, et est utilisée pour la sculpture, la construction et d’autres usages décoratifs ?",
-        "answer": ["Marbre"],
-        "thematic": "Sciences",
-        "subThematic": "Géologie",
-        "level": "Facile",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 8,
-        "question": "M 7 lettres : Quelque chose qui est malsain ou anormal, souvent associé à la maladie ou à la mort ?",
-        "answer": ["Morbide"],
-        "thematic": "Médecine",
-        "subThematic": "Terminologie médicale",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 9,
-        "question": "V 12 lettres : Quels sont les changements imprévus et souvent malheureux dans la vie ou les circonstances ?",
-        "answer": ["Vicissitudes"],
-        "thematic": "Vie quotidienne",
-        "subThematic": "Épreuves de la vie",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-      {
-        "id": 10,
-        "question": "V 9 lettres : Quels sont les os individuels qui forment la colonne vertébrale ?",
-        "answer": ["Vertèbres"],
-        "thematic": "Anatomie",
-        "subThematic": "Squelette humain",
-        "level": "Moyen",
-        "points": 10,
-        "times": 23
-      },
-      {
-        "id": 11,
-        "question": "F 6 lettres : Quelle déformation lente subit un matériau soumis à une contrainte permanente ?",
-        "answer": ["Fluage"],
-        "thematic": "Physique",
-        "subThematic": "Matériaux",
-        "level": "Moyen",
-        "points": 10,
-        "times": 18
-      },
-    {
-        "id": 12,
-        "question": "E 8 lettres : Quel petit requin comestible est contenu dans l’Atlantique et la Méditerranée ?",
-        "answer": ["Enissolé"],
-        "thematic": "Cuisine",
-        "subThematic": "Poissons",
-        "level": "Difficile",
-        "points": 10,
-        "times": 24
-      },
-      {
-        "id": 13,
-        "question": "D 5 lettres : Quel mollusque gastéropode marin, sans coquille, dont la partie postérieure est entourée de branchies ?",
-        "answer": ["Doris"],
-        "thematic": "Biologie marine",
-        "subThematic": "Mollusques",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 14,
-        "question": "D 9 lettres : Quel est l'état d’extrême pauvreté ?",
-        "answer": ["Dénuement"],
-        "thematic": "Société",
-        "subThematic": "Pauvreté",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-      {
-        "id": 15,
-        "question": "O 8 lettres : Quelle concrétion minérale est contenue à l’état normal dans l’organe de l’équilibration ?",
-        "answer": ["Otolithe"],
-        "thematic": "Anatomie",
-        "subThematic": "Organes sensoriels",
-        "level": "Difficile",
-        "points": 10,
-        "times": 26
-      },
-      {
-        "id": 16,
-        "question": "D 6 lettres : Quelle maladie affecte le pied de mouton ?",
-        "answer": ["Dietin"],
-        "thematic": "Médecine vétérinaire",
-        "subThematic": "Maladies animales",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 17,
-        "question": "S 12 lettres : Qu'est-ce que l'ablation chirurgicale de la membrane synoviale d’une articulation ?",
-        "answer": ["Synovectomie"],
-        "thematic": "Médecine",
-        "subThematic": "Chirurgie orthopédique",
-        "level": "Difficile",
-        "points": 10,
-        "times": 30
-      },
-      {
-        "id": 18,
-        "question": "R 6 lettres : Quel palmier de l’Afrique tropicale, de Madagascar et de l’Amérique, fournit une fibre très solide utilisée en vannerie et pour la confection des liens ?",
-        "answer": ["Raphie"],
-        "thematic": "Botanique",
-        "subThematic": "Plantes exotiques",
-        "level": "Moyen",
-        "points": 10,
-        "times": 23
-      },
-    {
-        "id": 19,
-        "question": "T 6 lettres : Quel travail ou métier est représenté par le mot Turbin ?",
-        "answer": ["Turbin"],
-        "thematic": "Emploi",
-        "subThematic": "Métiers divers",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 20,
-        "question": "L 7 lettres : Quel dictionnaire succinct est représenté par le mot Lexique ?",
-        "answer": ["Lexique"],
-        "thematic": "Linguistique",
-        "subThematic": "Dictionnaires",
-        "level": "Facile",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 21,
-        "question": "E 6 lettres : Quel adjectif qualifie une personne qui a un grand savoir ?",
-        "answer": ["Érudit"],
-        "thematic": "Éducation",
-        "subThematic": "Qualités intellectuelles",
-        "level": "Facile",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 22,
-        "question": "A 7 lettres : Quel verbe signifie aider ou soutenir ?",
-        "answer": ["Adjuver"],
-        "thematic": "Langue française",
-        "subThematic": "Verbes",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 23,
-        "question": "Q 8 lettres : Quel mot signifie paix et tranquillité ?",
-        "answer": ["Quiétude"],
-        "thematic": "Émotions",
-        "subThematic": "États d'esprit",
-        "level": "Facile",
-        "points": 10,
-        "times": 22
-      },
-      {
-        "id": 24,
-        "question": "A 8 lettres : Quel est le terme pour désigner un homme vivant de la prostitution ?",
-        "answer": ["Alphonse"],
-        "thematic": "Société",
-        "subThematic": "Prostituée masculine",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-      {
-        "id": 25,
-        "question": "L 9 lettres : Quel adjectif qualifie quelque chose qui taraude l’esprit et qui obsède ?",
-        "answer": ["Lancinant"],
-        "thematic": "Psychologie",
-        "subThematic": "Émotions persistantes",
-        "level": "Difficile",
-        "points": 10,
-        "times": 28
-      },
-      {
-        "id": 26,
-        "question": "G 9 lettres : Quel est le terme pour désigner une petite poule ou poulette ?",
-        "answer": ["Galinette"],
-        "thematic": "Animaux",
-        "subThematic": "Oiseaux de basse-cour",
-        "level": "Moyen",
-        "points": 10,
-        "times": 23
-      },
-    {
-        "id": 27,
-        "question": "L 5 lettres : Quel est le terme désignant le bord intérieur ou extérieur de la vulve ?",
-        "answer": ["Lèvre"],
-        "thematic": "Anatomie",
-        "subThematic": "Parties du corps",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 28,
-        "question": "B 8 lettres : Quel est l'ensemble de la matière organique pouvant fournir de l’énergie par dégradation ?",
-        "answer": ["Biomasse"],
-        "thematic": "Écologie",
-        "subThematic": "Énergie renouvelable",
-        "level": "Difficile",
-        "points": 10,
-        "times": 23
-      },
-      {
-        "id": 29,
-        "question": "H 7 lettres : Quel est le terme désignant un vieux lambeau de toile ou d’étoffe guenille ?",
-        "answer": ["Haillon"],
-        "thematic": "Textiles",
-        "subThematic": "Vêtements usagés",
-        "level": "Moyen",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 30,
-        "question": "L 7 lettres : Quel est le terme désignant des morceaux de chair déchirés ?",
-        "answer": ["Lambeau"],
-        "thematic": "Médecine",
-        "subThematic": "Chirurgie",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 31,
-        "question": "F 4 lettres : Quel domaine noble dont le détenteur, le vassal, devait l’hommage et ordinairement aussi quelque redevance, quelque service au seigneur, possesseur du domaine ?",
-        "answer": ["Fief"],
-        "thematic": "Histoire",
-        "subThematic": "Féodalité",
-        "level": "Difficile",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 32,
-        "question": "E 7 lettres : Quelle large bande d’étoffe, que l’on porte de la droite à la gauche en forme de baudrier et qu’on porte encore en forme de ceinture ?",
-        "answer": ["Écharpe"],
-        "thematic": "Mode",
-        "subThematic": "Accessoires",
-        "level": "Facile",
-        "points": 10,
-        "times": 19
-      }, 
-    {
-        "id": 33,
-        "question": "P 7 lettres : Quel est le terme désignant un petit clou court, à tête plate et large, dont on se sert pour fixer au mur ou sur une planche des feuilles de papier, des images, des affiches ?",
-        "answer": ["Punaise"],
-        "thematic": "Bricolage",
-        "subThematic": "Fixation",
-        "level": "Facile",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 34,
-        "question": "A 9 lettres : Quel mot désigne quelque chose qui se produit par hasard ?",
-        "answer": ["Aléatoire"],
-        "thematic": "Probabilités",
-        "subThematic": "Événements aléatoires",
-        "level": "Moyen",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 35,
-        "question": "H 4 lettres : Que signifie émettre des cris de dérision à l’encontre de quelqu’un pour marquer son opposition ?",
-        "answer": ["Huer"],
-        "thematic": "Comportement",
-        "subThematic": "Communication non verbale",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 36,
-        "question": "V 6 lettres : Quel adjectif qualifie la première huile qui sort des olives sans qu’on les ait pressées ?",
-        "answer": ["Vierge"],
-        "thematic": "Cuisine",
-        "subThematic": "Huiles",
-        "level": "Facile",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 37,
-        "question": "L 11 lettres : Comment appelle-t-on une créature humanoïde qui a la capacité de se transformer en homme ou en homme-animal ?",
-        "answer": ["Lycanthrope"],
-        "thematic": "Mythologie",
-        "subThematic": "Créatures fantastiques",
-        "level": "Difficile",
-        "points": 10,
-        "times": 26
-      },
-      {
-        "id": 38,
-        "question": "K 8 lettres : Comment nomme-t-on une suite interminable de paroles ou de mots ?",
-        "answer": ["Kyrielle"],
-        "thematic": "Langue française",
-        "subThematic": "Expressions",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-    {
-        "id": 39,
-        "question": "L 11 lettres : Quel terme désigne quelque chose qui provoque la sécrétion de larmes ?",
-        "answer": ["Lacrymogène"],
-        "thematic": "Santé",
-        "subThematic": "Effets sur le corps",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-      {
-        "id": 40,
-        "question": "L 5 lettres : Comment nomme-t-on une fantaisie soudaine, un caprice extravagant ?",
-        "answer": ["Lubie"],
-        "thematic": "Comportement",
-        "subThematic": "Caprices",
-        "level": "Facile",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 41,
-        "question": "G 7 lettres : Comment appelle-t-on une créature fantastique malfaisante représentée sous les traits d’une femme à la chevelure constituée de serpents ?",
-        "answer": ["Gorgone"],
-        "thematic": "Mythologie",
-        "subThematic": "Créatures fantastiques",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 42,
-        "question": "R 10 lettres : Comment nomme-t-on le mouvement artistique, philosophique et littéraire européen privilégiant l’imagination et la sensibilité en s’opposant à l’universalisme des Lumières ?",
-        "answer": ["Romantisme"],
-        "thematic": "Art",
-        "subThematic": "Mouvements artistiques",
-        "level": "Difficile",
-        "points": 10,
-        "times": 24
-      },
-    {
-        "id": 43,
-        "question": "I 7 lettres : Comment appelle-t-on une parole injurieuse à l’honneur, à la réputation ?",
-        "answer": ["Infamie"],
-        "thematic": "Langue française",
-        "subThematic": "Insultes",
-        "level": "Moyen",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 44,
-        "question": "O 8 lettres : Quel est le synonyme de honte ?",
-        "answer": ["Opprobre"],
-        "thematic": "Sentiments",
-        "subThematic": "Honte",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 45,
-        "question": "F 7 lettres : Comment nomme-t-on une suite d’œuvres consacrées à un même sujet ?",
-        "answer": ["Fresque"],
-        "thematic": "Art",
-        "subThematic": "Œuvres",
-        "level": "Facile",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 46,
-        "question": "D 8 lettres : Comment appelle-t-on une fissure, une cassure de la pierre dans le plan de sédimentation ?",
-        "answer": ["Délitage"],
-        "thematic": "Géologie",
-        "subThematic": "Roches",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 47,
-        "question": "E 9 lettres : Comment nomme-t-on une bande de dentelle, de broderie qui sépare ou qui réunit les deux parties d’un tissu ?",
-        "answer": ["Entredeux"],
-        "thematic": "Textiles",
-        "subThematic": "Dentelle",
-        "level": "Moyen",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 48,
-        "question": "B 6 lettres : Comment dit-on d'une personne quand elle va bien ?",
-        "answer": ["Boumer"],
-        "thematic": "Expressions",
-        "subThematic": "Bien-être",
-        "level": "Facile",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 49,
-        "question": "E 5 lettres : Quelle est la partie la plus subtile et la plus élevée de l’atmosphère ?",
-        "answer": ["Ether"],
-        "thematic": "Sciences",
-        "subThematic": "Atmosphère",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 50,
-        "question": "M 5 lettres : Comment qualifie-t-on quelque chose qui possède des cloisons longitudinales et transversales ?",
-        "answer": ["Mural"],
-        "thematic": "Architecture",
-        "subThematic": "Structures",
-        "level": "Facile",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 51,
-        "question": "M 12 lettres : Comment nomme-t-on le phénomène physiologique caractérisé par un écoulement sanguin périodique dû à l’élimination de la muqueuse utérine se produisant chez la femme lorsqu’il n'y a pas de fécondation ?",
-        "answer": ["Menstruation"],
-        "thematic": "Médecine",
-        "subThematic": "Gynécologie",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-    {
-        "id": 52,
-        "question": "I 8 lettres : Qui est célèbre par le mérite, par la noblesse, par quelque chose de louable et d’extraordinaire ?",
-        "answer": ["Illustre"],
-        "thematic": "Reconnaissance",
-        "subThematic": "Célébrité",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-      {
-        "id": 53,
-        "question": "I 5 lettres : Comment appelle-t-on une fausse information délivrée en connaissance de cause ?",
-        "answer": ["Intox"],
-        "thematic": "Médias",
-        "subThematic": "Désinformation",
-        "level": "Facile",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 54,
-        "question": "R 8 lettres : Comment s'appelle une arme à feu portative dont le barillet rotatif permet de tirer plusieurs coups sans interruption ?",
-        "answer": ["Revolver"],
-        "thematic": "Armement",
-        "subThematic": "Armes à feu",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 55,
-        "question": "D 11 lettres : Quelle science étudie les interactions mutuelles des unités écologiques ?",
-        "answer": ["Écologie"],
-        "thematic": "Sciences",
-        "subThematic": "Études écologiques",
-        "level": "Difficile",
-        "points": 10,
-        "times": 24
-      },
-      {
-        "id": 56,
-        "question": "G 4 lettres : Comment appelle-t-on une personne prise par une passion, à l’origine dans le domaine du high-tech, puis par extension dans n’importe quel domaine ?",
-        "answer": ["Geek"],
-        "thematic": "Personnalités",
-        "subThematic": "Passions",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 57,
-        "question": "X 12 lettres : Comment nomme-t-on le fait de donner un caractère xénophobe à quelque chose ?",
-        "answer": ["Xénophobiser"],
-        "thematic": "Société",
-        "subThematic": "Xénophobie",
-        "level": "Difficile",
-        "points": 10,
-        "times": 26
-      },
-      {
-        "id": 58,
-        "question": "I 6 lettres : Comment qualifie-t-on quelque chose qui est propre ou approprié à une situation, qui convient parfaitement ?",
-        "answer": ["Idoine"],
-        "thematic": "Adaptation",
-        "subThematic": "Aptitude",
-        "level": "Facile",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 59,
-        "question": "V 11 lettres : Quel est le terme relatif à la production de vaccin, de vaccines ?",
-        "answer": ["Vaccinogène"],
-        "thematic": "Médecine",
-        "subThematic": "Vaccins",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-    {
-        "id": 60,
-        "question": "A 7 lettres : Quelle substance naturelle odoriférante d’origine végétale, plus rarement au règne animal, est utilisée en médecine, en parfumerie, et surtout en cuisine comme condiment ?",
-        "answer": ["Aromate"],
-        "thematic": "Cuisine",
-        "subThematic": "Arômes",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 61,
-        "question": "P 10 lettres : Comment s'appelle l'instrument servant à mesurer l’intensité du son ou de la voix ?",
-        "answer": ["Phonomètre"],
-        "thematic": "Musique",
-        "subThematic": "Instruments de mesure",
-        "level": "Difficile",
-        "points": 10,
-        "times": 23
-      },
-      {
-        "id": 62,
-        "question": "E 4 lettres : Quel est le sigle de l’institution internationale d’enseignement supérieur basé au Sénégal et offrant des programmes d’études en télécommunications ?",
-        "answer": ["ESMT"],
-        "thematic": "Éducation",
-        "subThematic": "Institutions internationales",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 63,
-        "question": "R 5 lettres : Comment s'appelle la plus grande manufacture de montres de luxe ?",
-        "answer": ["Rolex"],
-        "thematic": "Mode",
-        "subThematic": "Montres",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-    {
-        "id": 64,
-        "question": "M 9 lettres : Comment s'appelle le petit du sanglier et de la laie ?",
-        "answer": ["Marcassin"],
-        "thematic": "Animaux",
-        "subThematic": "Mammifères",
-        "level": "Facile",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 65,
-        "question": "E 12 lettres : Comment s'appelle l'ouvrage où l’on expose méthodiquement dans un ordre logique ou formel les connaissances dans tous les domaines ?",
-        "answer": ["Encyclopédie"],
-        "thematic": "Éducation",
-        "subThematic": "Littérature",
-        "level": "Difficile",
-        "points": 10,
-        "times": 30
-      },
-      {
-        "id": 66,
-        "question": "E 5 lettres : Quel est le sigle de la plus grande école africaine d’architecture et d’urbanisme située à Lomé au Togo ?",
-        "answer": ["EAMAU"],
-        "thematic": "Éducation",
-        "subThematic": "Écoles africaines",
-        "level": "Moyen",
-        "points": 10,
-        "times": 16
-      },
-      {
-        "id": 67,
-        "question": "V 7 lettres : Quelle marque de luxe italienne dont le symbole est depuis 1978 la tête de Méduse ?",
-        "answer": ["Versace"],
-        "thematic": "Mode",
-        "subThematic": "Marques de luxe",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-      {
-        "id": 68,
-        "question": "G 8 lettres : Comment s'appelle le petit de la girafe ?",
-        "answer": ["Girafeau"],
-        "thematic": "Animaux",
-        "subThematic": "Mammifères",
-        "level": "Facile",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 69,
-        "question": "R 4 lettres : Quel est le synonyme de cacher, conjugué à la troisième personne du singulier ?",
-        "answer": ["cèle"],
-        "thematic": "Langue française",
-        "subThematic": "Verbes",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-    {
-        "id": 70,
-        "question": "A 4 lettres : Comment s'appelle le nid de l'aigle ?",
-        "answer": ["Aire"],
-        "thematic": "Animaux",
-        "subThematic": "Oiseaux",
-        "level": "Facile",
-        "points": 10,
-        "times": 17
-      },
-      {
-        "id": 71,
-        "question": "P 5 lettres : Comment s'appelle le premier estomac, chez les ruminants ?",
-        "answer": ["Panse"],
-        "thematic": "Animaux",
-        "subThematic": "Anatomie",
-        "level": "Facile",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 72,
-        "question": "C 5 lettres : Généralement utilisé comme synonyme de repas, ce mot vient plutôt du latin pour « visage ». Quel est ce mot ?",
-        "answer": ["Chère"],
-        "thematic": "Cuisine",
-        "subThematic": "Mots culinaires",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 73,
-        "question": "A 3 lettres : Quelle est l'unité de surface qui correspond à l'équivalent d'un carré de 10 mètres de côté ?",
-        "answer": ["Are"],
-        "thematic": "Mesures",
-        "subThematic": "Unités de surface",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 74,
-        "question": "A 14 lettres : Selon les croyances, quels sont de bons aphrodisiaques ?",
-        "answer": ["Gingembre", "Chocolat"],
-        "thematic": "Cuisine",
-        "subThematic": "Aphrodisiaques",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-      {
-        "id": 75,
-        "question": "P 10 lettres : Dans Fort Boyard, c’est le vieux sage qui posait des énigmes. Qui est-ce ?",
-        "answer": ["Père Fouras"],
-        "thematic": "Télévision",
-        "subThematic": "Émissions",
-        "level": "Moyen",
-        "points": 10,
-        "times": 22
-      },
-    {
-        "id": 76,
-        "question": "P 13 lettres : Comment s'appelle le traitement des maladies par les plantes ou ses extraits ?",
-        "answer": ["Phytothérapie"],
-        "thematic": "Médecine",
-        "subThematic": "Médecine naturelle",
-        "level": "Moyen",
-        "points": 10,
-        "times": 24
-      },
-      {
-        "id": 77,
-        "question": "B 11 lettres : Comment s'appelle l'appareil servant à amener des plongeurs dans les grandes profondeurs océaniques ?",
-        "answer": ["Bathyscaphe"],
-        "thematic": "Technologie",
-        "subThematic": "Sous-marin",
-        "level": "Difficile",
-        "points": 10,
-        "times": 23
-      },
-      {
-        "id": 78,
-        "question": "P 6 lettres : Comment s'appelle le mammifère marin ou une vulgarité monosyllabique ?",
-        "answer": ["Phoque"],
-        "thematic": "Animaux",
-        "subThematic": "Mammifères marins",
-        "level": "Facile",
-        "points": 10,
-        "times": 15
-      },
-      {
-        "id": 79,
-        "question": "C 12 lettres : Comment qualifie-t-on un vers auquel il manque le dernier demi-pied ?",
-        "answer": ["Catalectique"],
-        "thematic": "Littérature",
-        "subThematic": "Versification",
-        "level": "Difficile",
-        "points": 10,
-        "times": 26
-      },
-      {
-        "id": 80,
-        "question": "P 13 lettres : En littérature, quel adjectif veut dire à la fois niais, banal et prétentieux ?",
-        "answer": ["Prudhommesque"],
-        "thematic": "Littérature",
-        "subThematic": "Vocabulaire littéraire",
-        "level": "Difficile",
-        "points": 10,
-        "times": 28
-      },
-    {
-        "id": 81,
-        "question": "M 7 lettres : Comment s'appelle l'inflammation de la moelle épinière ?",
-        "answer": ["Myélite"],
-        "thematic": "Médecine",
-        "subThematic": "Neurologie",
-        "level": "Moyen",
-        "points": 10,
-        "times": 19
-      },
-      {
-        "id": 82,
-        "question": "H 7 lettres : À Haïti, comment s'appelle le prêtre du culte vaudou ?",
-        "answer": ["Houngan"],
-        "thematic": "Religions",
-        "subThematic": "Cultes vaudous",
-        "level": "Moyen",
-        "points": 10,
-        "times": 18
-      },
-      {
-        "id": 83,
-        "question": "B 11 lettres : Comment s'appelle le fait de voyager beaucoup et de mener une vie aventureuse ?",
-        "answer": ["Bourlinguer"],
-        "thematic": "Voyages",
-        "subThematic": "Aventure",
-        "level": "Difficile",
-        "points": 10,
-        "times": 25
-      },
-      {
-        "id": 84,
-        "question": "A 8 lettres : Comment s'appelle l'assemblage de courtes pièces de bois dans le sens de leur longueur ?",
-        "answer": ["Aboutage"],
-        "thematic": "Bricolage",
-        "subThematic": "Menuiserie",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 85,
-        "question": "H 10 lettres : En phonétique, comment s'appelle l'omission de l'une de deux articulations semblables qui se suivent ?",
-        "answer": ["Haplologie"],
-        "thematic": "Linguistique",
-        "subThematic": "Phonétique",
-        "level": "Difficile",
-        "points": 10,
-        "times": 28
-      },
-      {
-        "id": 86,
-        "question": "P 7 lettres : Comment s'appelle la coiffure des pharaons, symbole de leur souveraineté sur la Haute- et la Basse-Égypte ?",
-        "answer": ["Pschent"],
-        "thematic": "Histoire",
-        "subThematic": "Égypte ancienne",
-        "level": "Difficile",
-        "points": 10,
-        "times": 22
-      },
-{
+[
+  {
+    "id": 1,
+    "question": "A 5 lettres, Quelle substance odorante est utilisée pour donner du goût ou de l'odeur ?",
+    "answer": [
+      "Arôme"
+    ],
+    "subThematic": "Arômes",
+    "times": 21
+  },
+  {
+    "id": 2,
+    "question": "L 8 lettres : Quel tissu fibreux relie les os entre eux et permet de stabiliser les articulations ?",
+    "answer": [
+      "Ligament"
+    ],
+    "subThematic": "Système musculo-squelettique",
+    "times": 17
+  },
+  {
+    "id": 3,
+    "question": "L 7 lettres : Quelle plante aromatique de la famille des Lamiacées, originaire de la région méditerranéenne ?",
+    "answer": [
+      "Lavande"
+    ],
+    "subThematic": "Plantes aromatiques",
+    "times": 20
+  },
+  {
+    "id": 4,
+    "question": "F 7 lettres : Quel mouvement permet de plier une partie des membres ?",
+    "answer": [
+      "Flexion"
+    ],
+    "subThematic": "Mouvements corporels",
+    "times": 18
+  },
+  {
+    "id": 5,
+    "question": "C 9 lettres : Quelle punition inflige-t-on à une personne pour un acte jugé répréhensible ?",
+    "answer": [
+      "Châtiment"
+    ],
+    "subThematic": "Justice",
+    "times": 19
+  },
+  {
+    "id": 6,
+    "question": "S 9 lettres : Quelle composition musicale pour orchestre se compose généralement de plusieurs mouvements ?",
+    "answer": [
+      "Symphonie"
+    ],
+    "subThematic": "Composition musicale",
+    "times": 22
+  },
+  {
+    "id": 7,
+    "question": "M 6 lettres : Quelle roche métamorphique est composée principalement de calcite, de dolomite ou de serpentine, et est utilisée pour la sculpture, la construction et d’autres usages décoratifs ?",
+    "answer": [
+      "Marbre"
+    ],
+    "subThematic": "Géologie",
+    "times": 20
+  },
+  {
+    "id": 8,
+    "question": "M 7 lettres : Quelque chose qui est malsain ou anormal, souvent associé à la maladie ou à la mort ?",
+    "answer": [
+      "Morbide"
+    ],
+    "subThematic": "Terminologie médicale",
+    "times": 19
+  },
+  {
+    "id": 9,
+    "question": "V 12 lettres : Quels sont les changements imprévus et souvent malheureux dans la vie ou les circonstances ?",
+    "answer": [
+      "Vicissitudes"
+    ],
+    "subThematic": "Épreuves de la vie",
+    "times": 25
+  },
+  {
+    "id": 10,
+    "question": "V 9 lettres : Quels sont les os individuels qui forment la colonne vertébrale ?",
+    "answer": [
+      "Vertèbres"
+    ],
+    "subThematic": "Squelette humain",
+    "times": 23
+  },
+  {
+    "id": 11,
+    "question": "F 6 lettres : Quelle déformation lente subit un matériau soumis à une contrainte permanente ?",
+    "answer": [
+      "Fluage"
+    ],
+    "subThematic": "Matériaux",
+    "times": 18
+  },
+  {
+    "id": 12,
+    "question": "E 8 lettres : Quel petit requin comestible est contenu dans l’Atlantique et la Méditerranée ?",
+    "answer": [
+      "Enissolé"
+    ],
+    "subThematic": "Poissons",
+    "times": 24
+  },
+  {
+    "id": 13,
+    "question": "D 5 lettres : Quel mollusque gastéropode marin, sans coquille, dont la partie postérieure est entourée de branchies ?",
+    "answer": [
+      "Doris"
+    ],
+    "subThematic": "Mollusques",
+    "times": 20
+  },
+  {
+    "id": 14,
+    "question": "D 9 lettres : Quel est l'état d’extrême pauvreté ?",
+    "answer": [
+      "Dénuement"
+    ],
+    "subThematic": "Pauvreté",
+    "times": 22
+  },
+  {
+    "id": 15,
+    "question": "O 8 lettres : Quelle concrétion minérale est contenue à l’état normal dans l’organe de l’équilibration ?",
+    "answer": [
+      "Otolithe"
+    ],
+    "subThematic": "Organes sensoriels",
+    "times": 26
+  },
+  {
+    "id": 16,
+    "question": "D 6 lettres : Quelle maladie affecte le pied de mouton ?",
+    "answer": [
+      "Dietin"
+    ],
+    "subThematic": "Maladies animales",
+    "times": 19
+  },
+  {
+    "id": 17,
+    "question": "S 12 lettres : Qu'est-ce que l'ablation chirurgicale de la membrane synoviale d’une articulation ?",
+    "answer": [
+      "Synovectomie"
+    ],
+    "subThematic": "Chirurgie orthopédique",
+    "times": 30
+  },
+  {
+    "id": 18,
+    "question": "R 6 lettres : Quel palmier de l’Afrique tropicale, de Madagascar et de l’Amérique, fournit une fibre très solide utilisée en vannerie et pour la confection des liens ?",
+    "answer": [
+      "Raphie"
+    ],
+    "subThematic": "Plantes exotiques",
+    "times": 23
+  },
+  {
+    "id": 19,
+    "question": "T 6 lettres : Quel travail ou métier est représenté par le mot Turbin ?",
+    "answer": [
+      "Turbin"
+    ],
+    "subThematic": "Métiers divers",
+    "times": 19
+  },
+  {
+    "id": 20,
+    "question": "L 7 lettres : Quel dictionnaire succinct est représenté par le mot Lexique ?",
+    "answer": [
+      "Lexique"
+    ],
+    "subThematic": "Dictionnaires",
+    "times": 18
+  },
+  {
+    "id": 21,
+    "question": "E 6 lettres : Quel adjectif qualifie une personne qui a un grand savoir ?",
+    "answer": [
+      "Érudit"
+    ],
+    "subThematic": "Qualités intellectuelles",
+    "times": 17
+  },
+  {
+    "id": 22,
+    "question": "A 7 lettres : Quel verbe signifie aider ou soutenir ?",
+    "answer": [
+      "Adjuver"
+    ],
+    "subThematic": "Verbes",
+    "times": 20
+  },
+  {
+    "id": 23,
+    "question": "Q 8 lettres : Quel mot signifie paix et tranquillité ?",
+    "answer": [
+      "Quiétude"
+    ],
+    "subThematic": "États d'esprit",
+    "times": 22
+  },
+  {
+    "id": 24,
+    "question": "A 8 lettres : Quel est le terme pour désigner un homme vivant de la prostitution ?",
+    "answer": [
+      "Alphonse"
+    ],
+    "subThematic": "Prostituée masculine",
+    "times": 25
+  },
+  {
+    "id": 25,
+    "question": "L 9 lettres : Quel adjectif qualifie quelque chose qui taraude l’esprit et qui obsède ?",
+    "answer": [
+      "Lancinant"
+    ],
+    "subThematic": "Émotions persistantes",
+    "times": 28
+  },
+  {
+    "id": 26,
+    "question": "G 9 lettres : Quel est le terme pour désigner une petite poule ou poulette ?",
+    "answer": [
+      "Galinette"
+    ],
+    "subThematic": "Oiseaux de basse-cour",
+    "times": 23
+  },
+  {
+    "id": 27,
+    "question": "L 5 lettres : Quel est le terme désignant le bord intérieur ou extérieur de la vulve ?",
+    "answer": [
+      "Lèvre"
+    ],
+    "subThematic": "Parties du corps",
+    "times": 15
+  },
+  {
+    "id": 28,
+    "question": "B 8 lettres : Quel est l'ensemble de la matière organique pouvant fournir de l’énergie par dégradation ?",
+    "answer": [
+      "Biomasse"
+    ],
+    "subThematic": "Énergie renouvelable",
+    "times": 23
+  },
+  {
+    "id": 29,
+    "question": "H 7 lettres : Quel est le terme désignant un vieux lambeau de toile ou d’étoffe guenille ?",
+    "answer": [
+      "Haillon"
+    ],
+    "subThematic": "Vêtements usagés",
+    "times": 18
+  },
+  {
+    "id": 30,
+    "question": "L 7 lettres : Quel est le terme désignant des morceaux de chair déchirés ?",
+    "answer": [
+      "Lambeau"
+    ],
+    "subThematic": "Chirurgie",
+    "times": 20
+  },
+  {
+    "id": 31,
+    "question": "F 4 lettres : Quel domaine noble dont le détenteur, le vassal, devait l’hommage et ordinairement aussi quelque redevance, quelque service au seigneur, possesseur du domaine ?",
+    "answer": [
+      "Fief"
+    ],
+    "subThematic": "Féodalité",
+    "times": 16
+  },
+  {
+    "id": 32,
+    "question": "E 7 lettres : Quelle large bande d’étoffe, que l’on porte de la droite à la gauche en forme de baudrier et qu’on porte encore en forme de ceinture ?",
+    "answer": [
+      "Écharpe"
+    ],
+    "subThematic": "Accessoires",
+    "times": 19
+  },
+  {
+    "id": 33,
+    "question": "P 7 lettres : Quel est le terme désignant un petit clou court, à tête plate et large, dont on se sert pour fixer au mur ou sur une planche des feuilles de papier, des images, des affiches ?",
+    "answer": [
+      "Punaise"
+    ],
+    "subThematic": "Fixation",
+    "times": 17
+  },
+  {
+    "id": 34,
+    "question": "A 9 lettres : Quel mot désigne quelque chose qui se produit par hasard ?",
+    "answer": [
+      "Aléatoire"
+    ],
+    "subThematic": "Événements aléatoires",
+    "times": 21
+  },
+  {
+    "id": 35,
+    "question": "H 4 lettres : Que signifie émettre des cris de dérision à l’encontre de quelqu’un pour marquer son opposition ?",
+    "answer": [
+      "Huer"
+    ],
+    "subThematic": "Communication non verbale",
+    "times": 15
+  },
+  {
+    "id": 36,
+    "question": "V 6 lettres : Quel adjectif qualifie la première huile qui sort des olives sans qu’on les ait pressées ?",
+    "answer": [
+      "Vierge"
+    ],
+    "subThematic": "Huiles",
+    "times": 18
+  },
+  {
+    "id": 37,
+    "question": "L 11 lettres : Comment appelle-t-on une créature humanoïde qui a la capacité de se transformer en homme ou en homme-animal ?",
+    "answer": [
+      "Lycanthrope"
+    ],
+    "subThematic": "Créatures fantastiques",
+    "times": 26
+  },
+  {
+    "id": 38,
+    "question": "K 8 lettres : Comment nomme-t-on une suite interminable de paroles ou de mots ?",
+    "answer": [
+      "Kyrielle"
+    ],
+    "subThematic": "Expressions",
+    "times": 22
+  },
+  {
+    "id": 39,
+    "question": "L 11 lettres : Quel terme désigne quelque chose qui provoque la sécrétion de larmes ?",
+    "answer": [
+      "Lacrymogène"
+    ],
+    "subThematic": "Effets sur le corps",
+    "times": 25
+  },
+  {
+    "id": 40,
+    "question": "L 5 lettres : Comment nomme-t-on une fantaisie soudaine, un caprice extravagant ?",
+    "answer": [
+      "Lubie"
+    ],
+    "subThematic": "Caprices",
+    "times": 16
+  },
+  {
+    "id": 41,
+    "question": "G 7 lettres : Comment appelle-t-on une créature fantastique malfaisante représentée sous les traits d’une femme à la chevelure constituée de serpents ?",
+    "answer": [
+      "Gorgone"
+    ],
+    "subThematic": "Créatures fantastiques",
+    "times": 20
+  },
+  {
+    "id": 42,
+    "question": "R 10 lettres : Comment nomme-t-on le mouvement artistique, philosophique et littéraire européen privilégiant l’imagination et la sensibilité en s’opposant à l’universalisme des Lumières ?",
+    "answer": [
+      "Romantisme"
+    ],
+    "subThematic": "Mouvements artistiques",
+    "times": 24
+  },
+  {
+    "id": 43,
+    "question": "I 7 lettres : Comment appelle-t-on une parole injurieuse à l’honneur, à la réputation ?",
+    "answer": [
+      "Infamie"
+    ],
+    "subThematic": "Insultes",
+    "times": 18
+  },
+  {
+    "id": 44,
+    "question": "O 8 lettres : Quel est le synonyme de honte ?",
+    "answer": [
+      "Opprobre"
+    ],
+    "subThematic": "Honte",
+    "times": 20
+  },
+  {
+    "id": 45,
+    "question": "F 7 lettres : Comment nomme-t-on une suite d’œuvres consacrées à un même sujet ?",
+    "answer": [
+      "Fresque"
+    ],
+    "subThematic": "Œuvres",
+    "times": 17
+  },
+  {
+    "id": 46,
+    "question": "D 8 lettres : Comment appelle-t-on une fissure, une cassure de la pierre dans le plan de sédimentation ?",
+    "answer": [
+      "Délitage"
+    ],
+    "subThematic": "Roches",
+    "times": 19
+  },
+  {
+    "id": 47,
+    "question": "E 9 lettres : Comment nomme-t-on une bande de dentelle, de broderie qui sépare ou qui réunit les deux parties d’un tissu ?",
+    "answer": [
+      "Entredeux"
+    ],
+    "subThematic": "Dentelle",
+    "times": 21
+  },
+  {
+    "id": 48,
+    "question": "B 6 lettres : Comment dit-on d'une personne quand elle va bien ?",
+    "answer": [
+      "Boumer"
+    ],
+    "subThematic": "Bien-être",
+    "times": 16
+  },
+  {
+    "id": 49,
+    "question": "E 5 lettres : Quelle est la partie la plus subtile et la plus élevée de l’atmosphère ?",
+    "answer": [
+      "Ether"
+    ],
+    "subThematic": "Atmosphère",
+    "times": 15
+  },
+  {
+    "id": 50,
+    "question": "M 5 lettres : Comment qualifie-t-on quelque chose qui possède des cloisons longitudinales et transversales ?",
+    "answer": [
+      "Mural"
+    ],
+    "subThematic": "Structures",
+    "times": 16
+  },
+  {
+    "id": 51,
+    "question": "M 12 lettres : Comment nomme-t-on le phénomène physiologique caractérisé par un écoulement sanguin périodique dû à l’élimination de la muqueuse utérine se produisant chez la femme lorsqu’il n'y a pas de fécondation ?",
+    "answer": [
+      "Menstruation"
+    ],
+    "subThematic": "Gynécologie",
+    "times": 25
+  },
+  {
+    "id": 52,
+    "question": "I 8 lettres : Qui est célèbre par le mérite, par la noblesse, par quelque chose de louable et d’extraordinaire ?",
+    "answer": [
+      "Illustre"
+    ],
+    "subThematic": "Célébrité",
+    "times": 22
+  },
+  {
+    "id": 53,
+    "question": "I 5 lettres : Comment appelle-t-on une fausse information délivrée en connaissance de cause ?",
+    "answer": [
+      "Intox"
+    ],
+    "subThematic": "Désinformation",
+    "times": 16
+  },
+  {
+    "id": 54,
+    "question": "R 8 lettres : Comment s'appelle une arme à feu portative dont le barillet rotatif permet de tirer plusieurs coups sans interruption ?",
+    "answer": [
+      "Revolver"
+    ],
+    "subThematic": "Armes à feu",
+    "times": 20
+  },
+  {
+    "id": 55,
+    "question": "D 11 lettres : Quelle science étudie les interactions mutuelles des unités écologiques ?",
+    "answer": [
+      "Écologie"
+    ],
+    "subThematic": "Études écologiques",
+    "times": 24
+  },
+  {
+    "id": 56,
+    "question": "G 4 lettres : Comment appelle-t-on une personne prise par une passion, à l’origine dans le domaine du high-tech, puis par extension dans n’importe quel domaine ?",
+    "answer": [
+      "Geek"
+    ],
+    "subThematic": "Passions",
+    "times": 15
+  },
+  {
+    "id": 57,
+    "question": "X 12 lettres : Comment nomme-t-on le fait de donner un caractère xénophobe à quelque chose ?",
+    "answer": [
+      "Xénophobiser"
+    ],
+    "subThematic": "Xénophobie",
+    "times": 26
+  },
+  {
+    "id": 58,
+    "question": "I 6 lettres : Comment qualifie-t-on quelque chose qui est propre ou approprié à une situation, qui convient parfaitement ?",
+    "answer": [
+      "Idoine"
+    ],
+    "subThematic": "Aptitude",
+    "times": 17
+  },
+  {
+    "id": 59,
+    "question": "V 11 lettres : Quel est le terme relatif à la production de vaccin, de vaccines ?",
+    "answer": [
+      "Vaccinogène"
+    ],
+    "subThematic": "Vaccins",
+    "times": 25
+  },
+  {
+    "id": 60,
+    "question": "A 7 lettres : Quelle substance naturelle odoriférante d’origine végétale, plus rarement au règne animal, est utilisée en médecine, en parfumerie, et surtout en cuisine comme condiment ?",
+    "answer": [
+      "Aromate"
+    ],
+    "subThematic": "Arômes",
+    "times": 19
+  },
+  {
+    "id": 61,
+    "question": "P 10 lettres : Comment s'appelle l'instrument servant à mesurer l’intensité du son ou de la voix ?",
+    "answer": [
+      "Phonomètre"
+    ],
+    "subThematic": "Instruments de mesure",
+    "times": 23
+  },
+  {
+    "id": 62,
+    "question": "E 4 lettres : Quel est le sigle de l’institution internationale d’enseignement supérieur basé au Sénégal et offrant des programmes d’études en télécommunications ?",
+    "answer": [
+      "ESMT"
+    ],
+    "subThematic": "Institutions internationales",
+    "times": 15
+  },
+  {
+    "id": 63,
+    "question": "R 5 lettres : Comment s'appelle la plus grande manufacture de montres de luxe ?",
+    "answer": [
+      "Rolex"
+    ],
+    "subThematic": "Montres",
+    "times": 15
+  },
+  {
+    "id": 64,
+    "question": "M 9 lettres : Comment s'appelle le petit du sanglier et de la laie ?",
+    "answer": [
+      "Marcassin"
+    ],
+    "subThematic": "Mammifères",
+    "times": 18
+  },
+  {
+    "id": 65,
+    "question": "E 12 lettres : Comment s'appelle l'ouvrage où l’on expose méthodiquement dans un ordre logique ou formel les connaissances dans tous les domaines ?",
+    "answer": [
+      "Encyclopédie"
+    ],
+    "subThematic": "Littérature",
+    "times": 30
+  },
+  {
+    "id": 66,
+    "question": "E 5 lettres : Quel est le sigle de la plus grande école africaine d’architecture et d’urbanisme située à Lomé au Togo ?",
+    "answer": [
+      "EAMAU"
+    ],
+    "subThematic": "Écoles africaines",
+    "times": 16
+  },
+  {
+    "id": 67,
+    "question": "V 7 lettres : Quelle marque de luxe italienne dont le symbole est depuis 1978 la tête de Méduse ?",
+    "answer": [
+      "Versace"
+    ],
+    "subThematic": "Marques de luxe",
+    "times": 22
+  },
+  {
+    "id": 68,
+    "question": "G 8 lettres : Comment s'appelle le petit de la girafe ?",
+    "answer": [
+      "Girafeau"
+    ],
+    "subThematic": "Mammifères",
+    "times": 19
+  },
+  {
+    "id": 69,
+    "question": "R 4 lettres : Quel est le synonyme de cacher, conjugué à la troisième personne du singulier ?",
+    "answer": [
+      "cèle"
+    ],
+    "subThematic": "Verbes",
+    "times": 15
+  },
+  {
+    "id": 70,
+    "question": "A 4 lettres : Comment s'appelle le nid de l'aigle ?",
+    "answer": [
+      "Aire"
+    ],
+    "subThematic": "Oiseaux",
+    "times": 17
+  },
+  {
+    "id": 71,
+    "question": "P 5 lettres : Comment s'appelle le premier estomac, chez les ruminants ?",
+    "answer": [
+      "Panse"
+    ],
+    "subThematic": "Anatomie",
+    "times": 18
+  },
+  {
+    "id": 72,
+    "question": "C 5 lettres : Généralement utilisé comme synonyme de repas, ce mot vient plutôt du latin pour « visage ». Quel est ce mot ?",
+    "answer": [
+      "Chère"
+    ],
+    "subThematic": "Mots culinaires",
+    "times": 20
+  },
+  {
+    "id": 73,
+    "question": "A 3 lettres : Quelle est l'unité de surface qui correspond à l'équivalent d'un carré de 10 mètres de côté ?",
+    "answer": [
+      "Are"
+    ],
+    "subThematic": "Unités de surface",
+    "times": 15
+  },
+  {
+    "id": 74,
+    "question": "A 14 lettres : Selon les croyances, quels sont de bons aphrodisiaques ?",
+    "answer": [
+      "Gingembre",
+      "Chocolat"
+    ],
+    "subThematic": "Aphrodisiaques",
+    "times": 25
+  },
+  {
+    "id": 75,
+    "question": "P 10 lettres : Dans Fort Boyard, c’est le vieux sage qui posait des énigmes. Qui est-ce ?",
+    "answer": [
+      "Père Fouras"
+    ],
+    "subThematic": "Émissions",
+    "times": 22
+  },
+  {
+    "id": 76,
+    "question": "P 13 lettres : Comment s'appelle le traitement des maladies par les plantes ou ses extraits ?",
+    "answer": [
+      "Phytothérapie"
+    ],
+    "subThematic": "Médecine naturelle",
+    "times": 24
+  },
+  {
+    "id": 77,
+    "question": "B 11 lettres : Comment s'appelle l'appareil servant à amener des plongeurs dans les grandes profondeurs océaniques ?",
+    "answer": [
+      "Bathyscaphe"
+    ],
+    "subThematic": "Sous-marin",
+    "times": 23
+  },
+  {
+    "id": 78,
+    "question": "P 6 lettres : Comment s'appelle le mammifère marin ou une vulgarité monosyllabique ?",
+    "answer": [
+      "Phoque"
+    ],
+    "subThematic": "Mammifères marins",
+    "times": 15
+  },
+  {
+    "id": 79,
+    "question": "C 12 lettres : Comment qualifie-t-on un vers auquel il manque le dernier demi-pied ?",
+    "answer": [
+      "Catalectique"
+    ],
+    "subThematic": "Versification",
+    "times": 26
+  },
+  {
+    "id": 80,
+    "question": "P 13 lettres : En littérature, quel adjectif veut dire à la fois niais, banal et prétentieux ?",
+    "answer": [
+      "Prudhommesque"
+    ],
+    "subThematic": "Vocabulaire littéraire",
+    "times": 28
+  },
+  {
+    "id": 81,
+    "question": "M 7 lettres : Comment s'appelle l'inflammation de la moelle épinière ?",
+    "answer": [
+      "Myélite"
+    ],
+    "subThematic": "Neurologie",
+    "times": 19
+  },
+  {
+    "id": 82,
+    "question": "H 7 lettres : À Haïti, comment s'appelle le prêtre du culte vaudou ?",
+    "answer": [
+      "Houngan"
+    ],
+    "subThematic": "Cultes vaudous",
+    "times": 18
+  },
+  {
+    "id": 83,
+    "question": "B 11 lettres : Comment s'appelle le fait de voyager beaucoup et de mener une vie aventureuse ?",
+    "answer": [
+      "Bourlinguer"
+    ],
+    "subThematic": "Aventure",
+    "times": 25
+  },
+  {
+    "id": 84,
+    "question": "A 8 lettres : Comment s'appelle l'assemblage de courtes pièces de bois dans le sens de leur longueur ?",
+    "answer": [
+      "Aboutage"
+    ],
+    "subThematic": "Menuiserie",
+    "times": 20
+  },
+  {
+    "id": 85,
+    "question": "H 10 lettres : En phonétique, comment s'appelle l'omission de l'une de deux articulations semblables qui se suivent ?",
+    "answer": [
+      "Haplologie"
+    ],
+    "subThematic": "Phonétique",
+    "times": 28
+  },
+  {
+    "id": 86,
+    "question": "P 7 lettres : Comment s'appelle la coiffure des pharaons, symbole de leur souveraineté sur la Haute- et la Basse-Égypte ?",
+    "answer": [
+      "Pschent"
+    ],
+    "subThematic": "Égypte ancienne",
+    "times": 22
+  },
+  {
     "id": 87,
     "question": "C 8 lettres : Comment s'appelle le petit coffre où l’on range ordinairement des objets précieux, de l’argent ?",
-    "answer": ["Cassette"],
-    "thematic": "Objets",
+    "answer": [
+      "Cassette"
+    ],
     "subThematic": "Rangement",
-    "level": "Facile",
-    "points": 10,
     "times": 18
   },
   {
     "id": 88,
     "question": "7 lettres : Comment s'appelle un être chétif et mal fait ; une personne ou un animal qui n’a pas atteint un développement normal ?",
-    "answer": ["Avorton"],
-    "thematic": "Biologie",
+    "answer": [
+      "Avorton"
+    ],
     "subThematic": "Anomalies physiques",
-    "level": "Facile",
-    "points": 10,
     "times": 17
   },
   {
     "id": 89,
     "question": "J 9 lettres : Comment s'appelle une plainte fréquente et importante ?",
-    "answer": ["Jeremiade"],
-    "thematic": "Langue française",
+    "answer": [
+      "Jeremiade"
+    ],
     "subThematic": "Expressions",
-    "level": "Difficile",
-    "points": 10,
     "times": 25
   },
   {
     "id": 90,
     "question": "P 16 lettres : Quel est le synonyme de prostituée ?",
-    "answer": ["Peripateticienne"],
-    "thematic": "Société",
+    "answer": [
+      "Peripateticienne"
+    ],
     "subThematic": "Prostituées",
-    "level": "Très Difficile",
-    "points": 10,
     "times": 33
   },
   {
     "id": 91,
     "question": "G 5 lettres : Comment s'appellent les petits lézards d’Afrique se déplaçant vite ?",
-    "answer": ["Gecko"],
-    "thematic": "Animaux",
+    "answer": [
+      "Gecko"
+    ],
     "subThematic": "Reptiles",
-    "level": "Facile",
-    "points": 10,
     "times": 15
   },
   {
     "id": 92,
     "question": "G 6 lettres : Comment qualifier une personne maladroite, ou quelque chose fait de travers, mal fait, étrange ?",
-    "answer": ["Gauche"],
-    "thematic": "Langue française",
+    "answer": [
+      "Gauche"
+    ],
     "subThematic": "Expressions",
-    "level": "Facile",
-    "points": 10,
     "times": 16
   },
   {
     "id": 93,
     "question": "G 7 lettres : Comment s'appelle la peinture où l’on emploie des pigments détrempés avec de l’eau mêlée de gomme ?",
-    "answer": ["Gouache"],
-    "thematic": "Art",
+    "answer": [
+      "Gouache"
+    ],
     "subThematic": "Peinture",
-    "level": "Moyen",
-    "points": 10,
     "times": 20
-  }, 
-   {
+  },
+  {
     "id": 94,
     "question": "A 8 lettres : Comment s'appelle une sorte de rapport, de ressemblance dans l’ordre physique, intellectuel ou moral qui existe entre deux ou plusieurs choses différentes ?",
-    "answer": ["Analogie"],
-    "thematic": "Langue française",
+    "answer": [
+      "Analogie"
+    ],
     "subThematic": "Mots difficiles",
-    "level": "Moyen",
-    "points": 10,
     "times": 22
   },
   {
     "id": 95,
     "question": "G 6 lettres : Comment s'appelle la partie intérieure de la gorge qui fait communiquer la bouche avec l’œsophage ?",
-    "answer": ["Gosier"],
-    "thematic": "Anatomie",
+    "answer": [
+      "Gosier"
+    ],
     "subThematic": "Gorge",
-    "level": "Facile",
-    "points": 10,
     "times": 17
   },
   {
     "id": 96,
     "question": "T 7 lettres : Comment s'appelle l'action de rechercher avec détermination et minutie ?",
-    "answer": ["Traquer"],
-    "thematic": "Verbes d'action",
+    "answer": [
+      "Traquer"
+    ],
     "subThematic": "Recherche",
-    "level": "Moyen",
-    "points": 10,
     "times": 20
   },
   {
     "id": 97,
     "question": "D 8 lettres : Comment s'appelle la dispersion d’une communauté ethnique ou d’un peuple à travers le monde ?",
-    "answer": ["Diaspora"],
-    "thematic": "Société",
+    "answer": [
+      "Diaspora"
+    ],
     "subThematic": "Migration",
-    "level": "Moyen",
-    "points": 10,
     "times": 21
   },
   {
     "id": 98,
     "question": "C 9 lettres : Comment s'appelle le couvre-chef de tissu, cuir ou matière synthétique, pourvu d’une visière, à la mode depuis le début du 19ème siècle ?",
-    "answer": ["Casquette"],
-    "thematic": "Mode",
+    "answer": [
+      "Casquette"
+    ],
     "subThematic": "Accessoires",
-    "level": "Facile",
-    "points": 10,
     "times": 19
   },
   {
     "id": 99,
     "question": "S 13 lettres : Quel est le synonyme de typique ?",
-    "answer": ["Symptomatique"],
-    "thematic": "Langue française",
+    "answer": [
+      "Symptomatique"
+    ],
     "subThematic": "Mots difficiles",
-    "level": "Difficile",
-    "points": 10,
     "times": 25
   },
   {
     "id": 100,
     "question": "U 10 lettres : Comment s'appelle un établissement public d’enseignement supérieur dépendant d’une académie ?",
-    "answer": ["Université"],
-    "thematic": "Éducation",
+    "answer": [
+      "Université"
+    ],
     "subThematic": "Enseignement supérieur",
-    "level": "Facile",
-    "points": 10,
     "times": 23
-  }, 
-    {
-      "id": 101,
-      "question": "P 11 lettres : Quel est le nom du discours ou de l'écrit visant à défendre, à justifier, et par extension à louer une personne, une doctrine ?",
-      "answer": ["Panégyrique"],
-      "thematic": "Langue française",
-      "subThematic": "Rhétorique",
-      "level": "Difficile",
-      "points": 10,
-      "times": 28
-    },
-    {
-      "id": 102,
-      "question": "O 7 lettres : Comment s'appelle la figure de style signifiant l’association étroite de deux mots de sens contraires pour renforcer une idée ?",
-      "answer": ["Oxymore"],
-      "thematic": "Langue française",
-      "subThematic": "Figures de style",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-      "id": 103,
-      "question": "P 9 lettres : Comment s'appelle le nom de famille transmis par le père ?",
-      "answer": ["Patronyme"],
-      "thematic": "Généalogie",
-      "subThematic": "Noms de famille",
-      "level": "Moyen",
-      "points": 10,
-      "times": 23
-    },
-    {
-      "id": 104,
-      "question": "A 8 lettres : Comment s'appelle la grande inquiétude, anxiété profonde née du sentiment d’une menace imminente mais vague ?",
-      "answer": ["Angoisse"],
-      "thematic": "Émotions",
-      "subThematic": "Anxiété",
-      "level": "Facile",
-      "points": 10,
-      "times": 25
-    }
-  ]
-  
+  },
+  {
+    "id": 101,
+    "question": "P 11 lettres : Quel est le nom du discours ou de l'écrit visant à défendre, à justifier, et par extension à louer une personne, une doctrine ?",
+    "answer": [
+      "Panégyrique"
+    ],
+    "subThematic": "Rhétorique",
+    "times": 28
+  },
+  {
+    "id": 102,
+    "question": "O 7 lettres : Comment s'appelle la figure de style signifiant l’association étroite de deux mots de sens contraires pour renforcer une idée ?",
+    "answer": [
+      "Oxymore"
+    ],
+    "subThematic": "Figures de style",
+    "times": 20
+  },
+  {
+    "id": 103,
+    "question": "P 9 lettres : Comment s'appelle le nom de famille transmis par le père ?",
+    "answer": [
+      "Patronyme"
+    ],
+    "subThematic": "Noms de famille",
+    "times": 23
+  },
+  {
+    "id": 104,
+    "question": "A 8 lettres : Comment s'appelle la grande inquiétude, anxiété profonde née du sentiment d’une menace imminente mais vague ?",
+    "answer": [
+      "Angoisse"
+    ],
+    "subThematic": "Anxiété",
+    "times": 25
+  }
+]

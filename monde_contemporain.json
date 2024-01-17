@@ -1,257 +1,227 @@
 [
-    {
-      "id": 1,
-      "question": "Quel traité, signé en 1763, met fin à la guerre de 7 ans ?",
-      "answer": ["Traité de Paris"],
-      "thematic": "Histoire",
-      "subThematic": "Guerres",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-      "id": 2,
-      "question": "Quel pays d’Afrique obtint son indépendance en 1993 ?",
-      "answer": ["L’Érythrée"],
-      "thematic": "Géographie",
-      "subThematic": "Afrique",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-      "id": 3,
-      "question": "Quel homme politique portugais est président de la Commission européenne depuis 2004 ?",
-      "answer": ["José Manuel Durão Barroso"],
-      "thematic": "Politique",
-      "subThematic": "Union européenne",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-      "id": 4,
-      "question": "Quel homme politique est le premier amérindien élu à la tête de la Bolivie ?",
-      "answer": ["Evo Morales"],
-      "thematic": "Politique",
-      "subThematic": "Bolivie",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-      "id": 5,
-      "question": "Le 21 avril 2002, Jean-Marie Le Pen accédait au second tour de l’élection présidentielle française, inquiétant ainsi une bonne partie du pays. Battu du même coup, quel homme a tout de suite annoncé qu’il se retirait de la vie politique ?",
-      "answer": ["Lionel Jospin"],
-      "thematic": "Politique",
-      "subThematic": "France",
-      "level": "Moyen",
-      "points": 10,
-      "times": 20
-    },
-    {
-        "id": 6,
-        "question": "Dans quel célèbre discours prononcé le 5 Mars 1946, Churchill dénonçait l’attitude de Staline en affirmant que “ de Stettin, dans la Baltique, à Trieste dans l'Adriatique, un rideau de fer est descendu à travers le continent“ ?",
-        "answer": ["Discours de Fulton"],
-        "thematic": "Histoire",
-        "subThematic": "Guerre froide",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 7,
-        "question": "Combien de présidents américains ont été au pouvoir durant la guerre froide ?",
-        "answer": ["8"],
-        "thematic": "Histoire",
-        "subThematic": "Guerre froide",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 8,
-        "question": "Donnez les noms et prénoms des deux signataires des accords SALT II ?",
-        "answer": ["Jimmy Carter et Léonid Brejnev"],
-        "thematic": "Histoire",
-        "subThematic": "Guerre froide",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 9,
-        "question": "Quelle est la première grande défaite de Staline dans la guerre froide ?",
-        "answer": ["Blocus de Berlin"],
-        "thematic": "Histoire",
-        "subThematic": "Guerre froide",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 10,
-        "question": "Qui ordonna en 1961 la construction du mur de Berlin ?",
-        "answer": ["Nikita Krouchtchev"],
-        "thematic": "Histoire",
-        "subThematic": "Guerre froide",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 11,
-        "question": "De quelle nationalité est l’actuelle Miss Univers 2011 ?",
-        "answer": ["Angola"],
-        "thematic": "Culture",
-        "subThematic": "Miss Univers",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 12,
-        "question": "Quel club de NBA est actuellement la propriété de Michael Jordan ?",
-        "answer": ["Charlotte Bobcats"],
-        "thematic": "Sport",
-        "subThematic": "Basket-ball",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 13,
-        "question": "Quand a eu lieu le séisme à Haïti ?",
-        "answer": ["12 Janvier 2010"],
-        "thematic": "Géographie",
-        "subThematic": "Amérique",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 14,
-        "question": "Qui était Directeur du contre terrorisme aux USA au moment des attentats du 11 Septembre 2001 ?",
-        "answer": ["Richard Clark"],
-        "thematic": "Politique",
-        "subThematic": "États-Unis",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 15,
-        "question": "Quel socialiste a été élu président de l’Uruguay en octobre 2004, devenant ainsi le premier politicien de gauche à gouverner ce pays ?",
-        "answer": ["Tabaré Vázquez"],
-        "thematic": "Politique",
-        "subThematic": "Uruguay",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 16,
-        "question": "Quel homme politique tchèque est le leader du « printemps de Prague » en 1968 ?",
-        "answer": ["Alexander Dubček"],
-        "thematic": "Histoire",
-        "subThematic": "Europe de l'Est",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 17,
-        "question": "Quelle reine d’Angleterre fut la dernière de la lignée des Tudors ?",
-        "answer": ["Elizabeth Ier"],
-        "thematic": "Histoire",
-        "subThematic": "Angleterre",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 18,
-        "question": "Quel était le surnom du général et dictateur espagnol Franco ?",
-        "answer": ["Caudillo"],
-        "thematic": "Histoire",
-        "subThematic": "Espagne",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 19,
-        "question": "Comment s’appelait la mère d’Hitler ?",
-        "answer": ["Clara Pötzl"],
-        "thematic": "Histoire",
-        "subThematic": "Allemagne",
-        "level": "Moyen",
-        "points": 10,
-        "times": 20
-      },
-
-      {
-        "id": 20,
-        "question": "Sous quel nom désigne-t-on le pillage des magasins et synagogues juifs organisés par Goebbels le 10 novembre 1938 ?",
-        "answer": ["La nuit de cristal"],
-        "thematic": "Histoire",
-        "subThematic": "Shoah",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 21,
-        "question": "Quel nom a-t-on donné à l’exécution des chefs SA ordonnée par Hitler le 1er Juillet 1934 ?",
-        "answer": ["La nuit des longs couteaux"],
-        "thematic": "Histoire",
-        "subThematic": "Troisième Reich",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      
-      
-      {
-        "id": 22,
-        "question": "Quel est le nom de la capitale de la France ?",
-        "answer": ["Paris"],
-        "thematic": "Géographie",
-        "subThematic": "Villes",
-        "level": "Facile",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 23,
-        "question": "Quel est le nom du président actuel des États-Unis ?",
-        "answer": ["Joe Biden"],
-        "thematic": "Politique",
-        "subThematic": "États-Unis",
-        "level": "Facile",
-        "points": 10,
-        "times": 20
-      },
-      {
-        "id": 24,
-        "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-        "answer": ["Neil Armstrong"],
-        "thematic": "Science",
-        "subThematic": "Astronomie",
-        "level": "Difficile",
-        "points": 10,
-        "times": 21
-      },
-      {
-        "id": 25,
-        "question": "Quel est le nom de la formule chimique de l'eau ?",
-        "answer": ["H2O"],
-        "thematic": "Science",
-        "subThematic": "Chimie",
-        "level": "Facile",
-        "points": 10,
-        "times": 20
-      }
-      
-  ]
-  
+  {
+    "id": 1,
+    "question": "Quel traité, signé en 1763, met fin à la guerre de 7 ans ?",
+    "answer": [
+      "Traité de Paris"
+    ],
+    "subThematic": "Guerres",
+    "times": 20
+  },
+  {
+    "id": 2,
+    "question": "Quel pays d’Afrique obtint son indépendance en 1993 ?",
+    "answer": [
+      "L’Érythrée"
+    ],
+    "subThematic": "Afrique",
+    "times": 20
+  },
+  {
+    "id": 3,
+    "question": "Quel homme politique portugais est président de la Commission européenne depuis 2004 ?",
+    "answer": [
+      "José Manuel Durão Barroso"
+    ],
+    "subThematic": "Union européenne",
+    "times": 20
+  },
+  {
+    "id": 4,
+    "question": "Quel homme politique est le premier amérindien élu à la tête de la Bolivie ?",
+    "answer": [
+      "Evo Morales"
+    ],
+    "subThematic": "Bolivie",
+    "times": 20
+  },
+  {
+    "id": 5,
+    "question": "Le 21 avril 2002, Jean-Marie Le Pen accédait au second tour de l’élection présidentielle française, inquiétant ainsi une bonne partie du pays. Battu du même coup, quel homme a tout de suite annoncé qu’il se retirait de la vie politique ?",
+    "answer": [
+      "Lionel Jospin"
+    ],
+    "subThematic": "France",
+    "times": 20
+  },
+  {
+    "id": 6,
+    "question": "Dans quel célèbre discours prononcé le 5 Mars 1946, Churchill dénonçait l’attitude de Staline en affirmant que “ de Stettin, dans la Baltique, à Trieste dans l'Adriatique, un rideau de fer est descendu à travers le continent“ ?",
+    "answer": [
+      "Discours de Fulton"
+    ],
+    "subThematic": "Guerre froide",
+    "times": 21
+  },
+  {
+    "id": 7,
+    "question": "Combien de présidents américains ont été au pouvoir durant la guerre froide ?",
+    "answer": [
+      "8"
+    ],
+    "subThematic": "Guerre froide",
+    "times": 20
+  },
+  {
+    "id": 8,
+    "question": "Donnez les noms et prénoms des deux signataires des accords SALT II ?",
+    "answer": [
+      "Jimmy Carter et Léonid Brejnev"
+    ],
+    "subThematic": "Guerre froide",
+    "times": 20
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la première grande défaite de Staline dans la guerre froide ?",
+    "answer": [
+      "Blocus de Berlin"
+    ],
+    "subThematic": "Guerre froide",
+    "times": 21
+  },
+  {
+    "id": 10,
+    "question": "Qui ordonna en 1961 la construction du mur de Berlin ?",
+    "answer": [
+      "Nikita Krouchtchev"
+    ],
+    "subThematic": "Guerre froide",
+    "times": 21
+  },
+  {
+    "id": 11,
+    "question": "De quelle nationalité est l’actuelle Miss Univers 2011 ?",
+    "answer": [
+      "Angola"
+    ],
+    "subThematic": "Miss Univers",
+    "times": 20
+  },
+  {
+    "id": 12,
+    "question": "Quel club de NBA est actuellement la propriété de Michael Jordan ?",
+    "answer": [
+      "Charlotte Bobcats"
+    ],
+    "subThematic": "Basket-ball",
+    "times": 20
+  },
+  {
+    "id": 13,
+    "question": "Quand a eu lieu le séisme à Haïti ?",
+    "answer": [
+      "12 Janvier 2010"
+    ],
+    "subThematic": "Amérique",
+    "times": 20
+  },
+  {
+    "id": 14,
+    "question": "Qui était Directeur du contre terrorisme aux USA au moment des attentats du 11 Septembre 2001 ?",
+    "answer": [
+      "Richard Clark"
+    ],
+    "subThematic": "États-Unis",
+    "times": 20
+  },
+  {
+    "id": 15,
+    "question": "Quel socialiste a été élu président de l’Uruguay en octobre 2004, devenant ainsi le premier politicien de gauche à gouverner ce pays ?",
+    "answer": [
+      "Tabaré Vázquez"
+    ],
+    "subThematic": "Uruguay",
+    "times": 20
+  },
+  {
+    "id": 16,
+    "question": "Quel homme politique tchèque est le leader du « printemps de Prague » en 1968 ?",
+    "answer": [
+      "Alexander Dubček"
+    ],
+    "subThematic": "Europe de l'Est",
+    "times": 21
+  },
+  {
+    "id": 17,
+    "question": "Quelle reine d’Angleterre fut la dernière de la lignée des Tudors ?",
+    "answer": [
+      "Elizabeth Ier"
+    ],
+    "subThematic": "Angleterre",
+    "times": 20
+  },
+  {
+    "id": 18,
+    "question": "Quel était le surnom du général et dictateur espagnol Franco ?",
+    "answer": [
+      "Caudillo"
+    ],
+    "subThematic": "Espagne",
+    "times": 20
+  },
+  {
+    "id": 19,
+    "question": "Comment s’appelait la mère d’Hitler ?",
+    "answer": [
+      "Clara Pötzl"
+    ],
+    "subThematic": "Allemagne",
+    "times": 20
+  },
+  {
+    "id": 20,
+    "question": "Sous quel nom désigne-t-on le pillage des magasins et synagogues juifs organisés par Goebbels le 10 novembre 1938 ?",
+    "answer": [
+      "La nuit de cristal"
+    ],
+    "subThematic": "Shoah",
+    "times": 21
+  },
+  {
+    "id": 21,
+    "question": "Quel nom a-t-on donné à l’exécution des chefs SA ordonnée par Hitler le 1er Juillet 1934 ?",
+    "answer": [
+      "La nuit des longs couteaux"
+    ],
+    "subThematic": "Troisième Reich",
+    "times": 21
+  },
+  {
+    "id": 22,
+    "question": "Quel est le nom de la capitale de la France ?",
+    "answer": [
+      "Paris"
+    ],
+    "subThematic": "Villes",
+    "times": 20
+  },
+  {
+    "id": 23,
+    "question": "Quel est le nom du président actuel des États-Unis ?",
+    "answer": [
+      "Joe Biden"
+    ],
+    "subThematic": "États-Unis",
+    "times": 20
+  },
+  {
+    "id": 24,
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": [
+      "Neil Armstrong"
+    ],
+    "subThematic": "Astronomie",
+    "times": 21
+  },
+  {
+    "id": 25,
+    "question": "Quel est le nom de la formule chimique de l'eau ?",
+    "answer": [
+      "H2O"
+    ],
+    "subThematic": "Chimie",
+    "times": 20
+  }
+]
