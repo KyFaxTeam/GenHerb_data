@@ -1,842 +1,564 @@
 [
-  {
-    "id": 1,
-    "question": "Né le 21 Juillet 1931 à Djougou, au Dahomey et mort le 15 Mai 2015 à Abidjan, je suis un enseignant, écrivain et homme politique béninois.",
-    "answer": [
-      "Jean PLIYA"
-    ],
-    "subThematic": "Ecrivains béninois",
-    "times": 25
-  },
-  {
-    "id": 1,
-    "question": "En 1967 je reçois le prix littéraire d’Afrique, en 1995 je suis devenu le chevalier de l’ordre national du Dahomey",
-    "answer": [
-      "Jean PLIYA"
-    ],
-    "subThematic": "Ecrivains béninois",
-    "times": 20
-  },
-  {
-    "id": 1,
-    "question": "Marié et père de sept enfants, ma première épouse est morte",
-    "answer": [
-      "Jean PLIYA"
-    ],
-    "subThematic": "Ecrivains béninois",
-    "times": 18
-  },
-  {
-    "id": 1,
-    "question": "Je suis le Berger émérite du Renouveau Charismatique Catholique au Bénin",
-    "answer": [
-      "Jean PLIYA"
-    ],
-    "subThematic": "Ecrivains béninois",
-    "times": 16
-  },
-  {
-    "id": 2,
-    "question": "né Milwaukee le 21Mai 1960 d’un alchimiste et de Joyce Annette, c’est un célèbre serial killer",
-    "answer": [
-      "JEFFREY DAHMER"
-    ],
-    "subThematic": "Tueurs en série américains",
-    "times": 25
-  },
-  {
-    "id": 2,
-    "question": "surnommé le cannibale de Milwaukee, il a avoué avoir assassiné dix-sept jeunes hommes gays entre 1978 et 1991",
-    "answer": [
-      "JEFFREY DAHMER"
-    ],
-    "subThematic": "Tueurs en série américains",
-    "times": 30
-  },
-  {
-    "id": 2,
-    "question": "il est condamné à la perpétuité après avoir été arrêté le 22 Juillet 1991 à Milwaukee et sera assassiné par un autre prisonnier",
-    "answer": [
-      "JEFFREY DAHMER"
-    ],
-    "subThematic": "Tueurs en série américains",
-    "times": 25
-  },
-  {
-    "id": 2,
-    "question": "Une série documentaire a été produite et diffusée sur lui racontant, créant une polémique au sein de la société car elle capitalise le traumatisme des victimes",
-    "answer": [
-      "JEFFREY DAHMER"
-    ],
-    "subThematic": "Tueurs en série américains",
-    "times": 30
-  },
-  {
-    "id": 3,
-    "question": "Footballeur international anglais né le 2 Mai 1975 évoluant au poste de milieu offensif. ",
-    "answer": [
-      "David Beckham"
-    ],
-    "subThematic": "Football",
-    "times": 30
-  },
-  {
-    "id": 3,
-    "question": "Il débute sa carrière lorsqu’il signe à Manchester United et fait son apparition dans l’équipe première en 1992.",
-    "answer": [
-      "David Beckham"
-    ],
-    "subThematic": "Football",
-    "times": 16
-  },
-  {
-    "id": 3,
-    "question": "Il a été 2ème au ballon d’or 1999 derrière Rivaldo.",
-    "answer": [
-      "David Beckham"
-    ],
-    "subThematic": "Football",
-    "times": 20
-  },
-  {
-    "id": 3,
-    "question": "Il est président du club ou joue l’homme qui a remporté 8 ballons d’or.",
-    "answer": [
-      "David Beckham"
-    ],
-    "subThematic": "Football",
-    "times": 25
-  },
-  {
-    "id": 4,
-    "question": "Né le 29 Aout 1958 à Gary dans l’Indiana aux USA. Auteur – Compositeur – interprète, acteur américain il mourut le 25 juin 2009, à Los Angeles aux USA. Il remporta le prix grammy Awards de l’album de l’année en 1984, 1986. Il est surnommée « The King of pop ».",
-    "answer": [
-      "Mickael Jackson"
-    ],
-    "subThematic": "Pop/Rock",
-    "times": 40
-  },
-  {
-    "id": 4,
-    "question": "Mickael Jackson",
-    "answer": [
-      "Mickael Jackson"
-    ],
-    "subThematic": "Pop/Rock",
-    "times": 16
-  },
-  {
-    "id": 4,
-    "question": "Mickael Jackson",
-    "answer": [
-      "Mickael Jackson"
-    ],
-    "subThematic": "Pop/Rock",
-    "times": 16
-  },
-  {
-    "id": 4,
-    "question": "Mickael Jackson",
-    "answer": [
-      "Mickael Jackson"
-    ],
-    "subThematic": "Pop/Rock",
-    "times": 16
-  },
-  {
-    "id": 5,
-    "question": "De son vrai nom Fabien Marsaud, il est né le 31 juillet 1977 dans le département de la Seine-Saint-Denis en France. Il vécut avec sa mère bibliothécaire, son père Jacques Marsaud haut fonctionnaire territorial et sa sœur ainée jusqu’en 1981",
-    "answer": [
-      "Grand Corps Malade"
-    ],
-    "subThematic": "Slam",
-    "times": 30
-  },
-  {
-    "id": 5,
-    "question": "Passionné de sport surtout de basket ball dans lequel il est très doué, il faisait partie de l’équipe de basket d’Aubervilliers jusqu’à ce qu’un grave accident à la tête le prive de ses jambes",
-    "answer": [
-      "Grand Corps Malade"
-    ],
-    "subThematic": "Slam",
-    "times": 25
-  },
-  {
-    "id": 5,
-    "question": "Forcé de se réorienter après son accident, il découvre le slam lors d’une scène ouverte dans un bar de la place et choisit un nom de scène par référence à son handicap",
-    "answer": [
-      "Grand Corps Malade"
-    ],
-    "subThematic": "Slam",
-    "times": 25
-  },
-  {
-    "id": 5,
-    "question": "Abrégé GCM, il a vendu plusieurs millions d’exemplaires d’albums dans le monde. Ses titres célèbres sont : « Je dors sur mes deux oreilles »,  « Enfant de la ville »,  « Mais je t’aime », « Derrière le brouillard »",
-    "answer": [
-      "Grand Corps Malade"
-    ],
-    "subThematic": "Slam",
-    "times": 30
-  },
-  {
-    "id": 6,
-    "question": "Type de nuage pouvant s’étendre verticalement sur plusieurs kilomètres dans l’atmosphère, créant une structure imposante.",
-    "answer": [
-      "Le cumulonimbus"
-    ],
-    "subThematic": "Météorologie",
-    "times": 25
-  },
-  {
-    "id": 6,
-    "question": "Atteignant une certaine altitude, ce nuage peut développer une enclume à son sommet",
-    "answer": [
-      "Le cumulonimbus"
-    ],
-    "subThematic": "Météorologie",
-    "times": 20
-  },
-  {
-    "id": 6,
-    "question": "C’est un nuage qui peut apporter de la grêle, du tonnerre et des éclairs. Il est souvent associé à des phénomènes météorologiques violents tels que la pluie intense et même la foudre.",
-    "answer": [
-      "Le cumulonimbus"
-    ],
-    "subThematic": "Météorologie",
-    "times": 30
-  },
-  {
-    "id": 6,
-    "question": "Son nom est une combinaison de termes signifiant « cumulus » (amas) et  « nimbus » (pluie), soulignant son association avec les précipitations.",
-    "answer": [
-      "Le cumulonimbus"
-    ],
-    "subThematic": "Météorologie",
-    "times": 25
-  },
-  {
-    "id": 7,
-    "question": "Footballeur austro-allemand né le 23 décembre 2005 à Dornbirn en Autriche.",
-    "answer": [
-      "Paul Wanner"
-    ],
-    "subThematic": "Football",
-    "times": 40
-  },
-  {
-    "id": 7,
-    "question": " Il joue pour le FV Ravensburg avant de rejoindre le centre de formation du Bayern Munich. Il est très vite considéré comme l’un les talents les plus prometteurs du club.",
-    "answer": [
-      "Paul Wanner"
-    ],
-    "subThematic": "Football",
-    "times": 16
-  },
-  {
-    "id": 7,
-    "question": "Il représente l’équipe d’Allemagne des moins de 17ans depuis 2021 et fait sa première apparition en professionnel le 7 janvier 2022 lors d’une rencontre de championnat face au Borussia Mönchengladblach.",
-    "answer": [
-      "Paul Wanner"
-    ],
-    "subThematic": "Football",
-    "times": 30
-  },
-  {
-    "id": 7,
-    "question": "Le 1er Septembre 2023, il est prêté pour une saison au SV Elversberg et évolue au poste de milieu offensif.",
-    "answer": [
-      "Paul Wanner"
-    ],
-    "subThematic": "Football",
-    "times": 25
-  },
-  {
-    "id": 8,
-    "question": "Né le 19 août 1946, je suis diplômé de l’Université d’Oxford (Angleterre) en politique internationale",
-    "answer": [
-      "Bill Clinton"
-    ],
-    "subThematic": "Présidents américains",
-    "times": 25
-  },
-  {
-    "id": 8,
-    "question": "Après mes études brillantes à Oxford et Yale, je deviens professeur de droit.",
-    "answer": [
-      "Bill Clinton"
-    ],
-    "subThematic": "Présidents américains",
-    "times": 20
-  },
-  {
-    "id": 8,
-    "question": "En 1976, je suis élu procureur d’Arkansas puis gouverneur en 1978. A 32ans, je suis le plus jeune gouverneur du pays.",
-    "answer": [
-      "Bill Clinton"
-    ],
-    "subThematic": "Présidents américains",
-    "times": 25
-  },
-  {
-    "id": 8,
-    "question": "Réélu en 1996, mon 2ème mandat est notamment marqué par l’affaire Lewinski. Acquitté, je quitte le pouvoir en 2000. Je crée en 2004 un organisme qui lutte notamment contre le SIDA.",
-    "answer": [
-      "Bill Clinton"
-    ],
-    "subThematic": "Présidents américains",
-    "times": 30
-  },
-  {
-    "id": 9,
-    "question": "Romancière et scénariste britannique, elle est née le 31 juillet 1965 dans l’agglomération de Yate.",
-    "answer": [
-      "Joanne Kathleen Rowling",
-      "J.K. Rowling"
-    ],
-    "subThematic": "Auteurs britanniques contemporains",
-    "times": 30
-  },
-  {
-    "id": 9,
-    "question": "Après des études à l’Université d’Exeter ainsi qu’à la Sorbonne où elle a obtenu un diplôme en littérature française et en philologie, elle a travaillé un temps au sein d’Amnesty International, puis a enseigné l’anglais à Porto en 1990.",
-    "answer": [
-      "Joanne Kathleen Rowling",
-      "J.K. Rowling"
-    ],
-    "subThematic": "Auteurs britanniques contemporains",
-    "times": 40
-  },
-  {
-    "id": 9,
-    "question": "Elle est réputée pour aborder des idées et des thèmes profonds avec accessibilités et humour, et s’attacher régulièrement à des personnages placés en marge de la société.",
-    "answer": [
-      "Joanne Kathleen Rowling",
-      "J.K. Rowling"
-    ],
-    "subThematic": "Auteurs britanniques contemporains",
-    "times": 30
-  },
-  {
-    "id": 9,
-    "question": "Elle doit sa notoriété à la série Harry Potter, dont les romans traduits en près de 80 langues ont été vendus à plus de 500 millions d’exemplaires dans le monde.",
-    "answer": [
-      "Joanne Kathleen Rowling",
-      "J.K. Rowling"
-    ],
-    "subThematic": "Auteurs britanniques contemporains",
-    "times": 30
-  },
-  {
-    "id": 10,
-    "question": "Née le 26 août 1910 Skopje en Macédoine du Nord et elle est décédée le 5 septembre 1997 à Calcutta en Inde",
-    "answer": [
-      "Mère Teresa",
-      "Anjezë Gonxhe Bojahiu"
-    ],
-    "subThematic": "Catholicisme",
-    "times": 30
-  },
-  {
-    "id": 10,
-    "question": "Elle est béatifiée le 19 octobre 2003 par le pape Jean-Paul II et canonisé le 4 septembre 2016 par le pape François",
-    "answer": [
-      "Mère Teresa",
-      "Anjezë Gonxhe Bojahiu"
-    ],
-    "subThematic": "Catholicisme",
-    "times": 25
-  },
-  {
-    "id": 10,
-    "question": "Pendant plus de 40ans elle consacre sa vie aux pauvres, aux malades, aux laissés pour compte et aux mourants, d’abord en Inde puis dans d’autres pays.",
-    "answer": [
-      "Mère Teresa",
-      "Anjezë Gonxhe Bojahiu"
-    ],
-    "subThematic": "Catholicisme",
-    "times": 30
-  },
-  {
-    "id": 10,
-    "question": "Elle est la fondatrice de la congrégation religieuse, les Missionnaires de la Charité.",
-    "answer": [
-      "Mère Teresa",
-      "Anjezë Gonxhe Bojahiu"
-    ],
-    "subThematic": "Catholicisme",
-    "times": 20
-  },
-  {
-    "id": 11,
-    "question": "Né en 1646 à Honovre et mort en 1716, je suis philosophe, savant et mathématicien allemand",
-    "answer": [
-      "LEIBNIZ"
-    ],
-    "subThematic": "Mathématiques",
-    "times": 30
-  },
-  {
-    "id": 11,
-    "question": "Employé comme juriste, diplomate, historiographe, je fus en relation avec toute l’Europe savante",
-    "answer": [
-      "LEIBNIZ"
-    ],
-    "subThematic": "Mathématiques",
-    "times": 25
-  },
-  {
-    "id": 11,
-    "question": "En 1676, il inventa le calcul infinitésimal et créa une symbolique universelle et efficace, notations de la différentielle et le l’intégral",
-    "answer": [
-      "LEIBNIZ"
-    ],
-    "subThematic": "Mathématiques",
-    "times": 30
-  },
-  {
-    "id": 11,
-    "question": "Sa physique dynamique rompt avec le mécanisme cartésien",
-    "answer": [
-      "LEIBNIZ"
-    ],
-    "subThematic": "Mathématiques",
-    "times": 20
-  },
-  {
-    "id": 12,
-    "question": "Plante succulente originaire d’Afrique et d’Arabie, dont les feuilles charnues contiennent un gel clair et épais",
-    "answer": [
-      "ALOES VERRA"
-    ],
-    "subThematic": "Botanique",
-    "times": 25
-  },
-  {
-    "id": 12,
-    "question": "Elle est souvent utilisée dans les cosmétiques et les produits de soin de la propreté pour ses propriétés hydratante et apaisante",
-    "answer": [
-      "ALOES VERRA"
-    ],
-    "subThematic": "Botanique",
-    "times": 25
-  },
-  {
-    "id": 12,
-    "question": "Elle est également riche en antioxydants et en vitamines qui peuvent aider à renforcer le système immunitaire",
-    "answer": [
-      "ALOES VERRA"
-    ],
-    "subThematic": "Botanique",
-    "times": 25
-  },
-  {
-    "id": 12,
-    "question": "Elle améliore la digestion grâce aux vitamines et aux antioxydants",
-    "answer": [
-      "ALOES VERRA"
-    ],
-    "subThematic": "Botanique",
-    "times": 20
-  },
-  {
-    "id": 13,
-    "question": "Né ne 7 Avril 1975 à Cotonou, il est médecin de profession et succède à Alassane Seidou dans sa profession publique",
-    "answer": [
-      "Benjamin HOUNKPATIN"
-    ],
-    "subThematic": "Hommes politiques béninois",
-    "times": 30
-  },
-  {
-    "id": 13,
-    "question": "En 1993, il obtient son BAC puis étudie à l’UAC où il obtient son diplôme de docteur en médecine en 2004",
-    "answer": [
-      "Benjamin HOUNKPATIN"
-    ],
-    "subThematic": "Hommes politiques béninois",
-    "times": 30
-  },
-  {
-    "id": 13,
-    "question": "Il poursuit ses études à Parakou où il obtient une maitrise en santé publique en 2009",
-    "answer": [
-      "Benjamin HOUNKPATIN"
-    ],
-    "subThematic": "Hommes politiques béninois",
-    "times": 25
-  },
-  {
-    "id": 13,
-    "question": "En 2016, je deviens le ministre de la santé du Bénin",
-    "answer": [
-      "Benjamin HOUNKPATIN"
-    ],
-    "subThematic": "Hommes politiques béninois",
-    "times": 20
-  },
-  {
-    "id": 14,
-    "question": "Je suis un poète et écrivain guinéen et je suis né le 1er Janvier 1928",
-    "answer": [
-      "Camara Laye"
-    ],
-    "subThematic": "Ecrivains africains",
-    "times": 25
-  },
-  {
-    "id": 14,
-    "question": "Je fus limitant pour l’indépendance du Guinée auprès des nations unies",
-    "answer": [
-      "Camara Laye"
-    ],
-    "subThematic": "Ecrivains africains",
-    "times": 20
-  },
-  {
-    "id": 14,
-    "question": "Je fus connu pour mon humilité et ma gentillesse dans l’ordre public",
-    "answer": [
-      "Camara Laye"
-    ],
-    "subThematic": "Ecrivains africains",
-    "times": 20
-  },
-  {
-    "id": 14,
-    "question": "Je suis connu pour mon livre « Enfant noir »",
-    "answer": [
-      "Camara Laye"
-    ],
-    "subThematic": "Ecrivains africains",
-    "times": 16
-  },
-  {
-    "id": 15,
-    "question": "Animal sauvages, mammifères de la famille des SUIDAE qui comprend deux sous espèces, il mesure 1.6 m de long et de 60 à 80 cm au garrot.",
-    "answer": [
-      "Le phacochère",
-      "le sanglier des savanes"
-    ],
-    "subThematic": "Zoologie",
-    "times": 35
-  },
-  {
-    "id": 15,
-    "question": "Vivant dans les savanes d’Afrique australe, de l’ouest, il est essentiellement herbivore mais peut également suivre un régime omnivore.",
-    "answer": [
-      "Le phacochère",
-      "le sanglier des savanes"
-    ],
-    "subThematic": "Zoologie",
-    "times": 30
-  },
-  {
-    "id": 15,
-    "question": "Il a une longue crinière sur le haut du dos et deux défenses dirigées vers le haut, atteignant60cm chez les adultes. Elles lui servent à déterrer des racines et à se défendre.",
-    "answer": [
-      "Le phacochère",
-      "le sanglier des savanes"
-    ],
-    "subThematic": "Zoologie",
-    "times": 35
-  },
-  {
-    "id": 15,
-    "question": "Il est souvent appelé cochon sauvage.",
-    "answer": [
-      "Le phacochère",
-      "le sanglier des savanes"
-    ],
-    "subThematic": "Zoologie",
-    "times": 20
-  },
-  {
-    "id": 16,
-    "question": "Élément métallique, je suis isolé et purifié pour la première fois en 1807 par Humphry Davy.",
-    "answer": [
-      "SODIUM"
-    ],
-    "subThematic": "Chimie",
-    "times": 25
-  },
-  {
-    "id": 16,
-    "question": "Métal alcalin très mou de couleur blanc argenté, on ne me trouve dans la nature qu’à l’état combiné dans des composants et je constitue le sixième élément le plus abondant sur Terre.",
-    "answer": [
-      "SODIUM"
-    ],
-    "subThematic": "Chimie",
-    "times": 30
-  },
-  {
-    "id": 16,
-    "question": "Employé sous forme de vapeur dans des lampes à décharge électrique, à l’état de chlorure je donne le sel.",
-    "answer": [
-      "SODIUM"
-    ],
-    "subThematic": "Chimie",
-    "times": 25
-  },
-  {
-    "id": 16,
-    "question": "Élément présent dans la soude, mon symbole chimique est Na et de numéro atomique 11, je suis...",
-    "answer": [
-      "SODIUM"
-    ],
-    "subThematic": "Chimie",
-    "times": 20
-  },
-  {
-    "id": 17,
-    "question": "Rappeur américain né le 2 décembre 1998 a Chicago dont le nom de naissance est Jarad Higgins connu pour sa musique qui mélangeait le rap et le genre mélo",
-    "answer": [
-      "Juice WRLD"
-    ],
-    "subThematic": "Rap/Hip-hop",
-    "times": 40
-  },
-  {
-    "id": 17,
-    "question": "Il a atteint la renommée mondiale grâce a des chansons à succès comme « Lucid Dreams » et « All Girls Are The Same »",
-    "answer": [
-      "Juice WRLD"
-    ],
-    "subThematic": "Rap/Hip-hop",
-    "times": 25
-  },
-  {
-    "id": 17,
-    "question": "Tragiquement, sa carrière a été interrompue par sa disparition prématurée a l’âge de 21 ans le 8 décembre 2019 a Oak Laws d’une overdose d’opiacés",
-    "answer": [
-      "Juice WRLD"
-    ],
-    "subThematic": "Rap/Hip-hop",
-    "times": 35
-  },
-  {
-    "id": 17,
-    "question": "Son nom de scène comprend un mot lié a la durée de vie des fruits et un mot qui signifie « MONDE » en français",
-    "answer": [
-      "Juice WRLD"
-    ],
-    "subThematic": "Rap/Hip-hop",
-    "times": 30
-  },
-  {
-    "id": 18,
-    "question": "Acteur et mannequin britannique et hollywoodienne née en le 26 Juillet 1967 a Shirebrook en Angleterre d’une mère danseuse renommée et d’un père marchand ambulant",
-    "answer": [
-      "Jason Statham"
-    ],
-    "subThematic": "Acteurs britanniques",
-    "times": 40
-  },
-  {
-    "id": 18,
-    "question": "Membre de l’équipe de plongeon pendant 12 ans, il a participé et classé 8e aux jeux du Commonwealth de 1990",
-    "answer": [
-      "Jason Statham"
-    ],
-    "subThematic": "Acteurs britanniques",
-    "times": 30
-  },
-  {
-    "id": 18,
-    "question": "Repéré par le réalisateur Guy Ritchie,il a débuté le role d’acteur a partir de 1998 dans les films comme Arnaques,Crime et Botanique ; Snatch et Revolver",
-    "answer": [
-      "Jason Statham"
-    ],
-    "subThematic": "Acteurs britanniques",
-    "times": 40
-  },
-  {
-    "id": 18,
-    "question": "Surtout connu pour son role de Frank Martin dans la saga a succès Le Transporteur ainsi que pour ses collaborations avec Sylvester Stallone dans la série de films « Expendables » et avec Vin Diesel dans la série Fast and Furious",
-    "answer": [
-      "Jason Statham"
-    ],
-    "subThematic": "Acteurs britanniques",
-    "times": 40
-  },
-  {
-    "id": 19,
-    "question": "Ce Russe est né à Riazan le 14 septembre 1849.",
-    "answer": [
-      "Ivan Pavlov"
-    ],
-    "subThematic": "Médecine",
-    "times": 25
-  },
-  {
-    "id": 19,
-    "question": "Destiné à être prêtre comme son père, le jeune garçon préférait les sciences naturelles à ses études au séminaire.",
-    "answer": [
-      "Ivan Pavlov"
-    ],
-    "subThematic": "Médecine",
-    "times": 30
-  },
-  {
-    "id": 19,
-    "question": "Il s’inscrivit à la faculté de Physique et de Mathématiques de SaintPétersbourg où il se spécialisa en physiologie animale.",
-    "answer": [
-      "Ivan Pavlov"
-    ],
-    "subThematic": "Médecine",
-    "times": 30
-  },
-  {
-    "id": 19,
-    "question": "Prix Nobel de médecine de 1904, on le connaît mieux pour ses recherches sur les réflexes conditionnés avec le chien qu’on surnomma de son nom.",
-    "answer": [
-      "Ivan Pavlov"
-    ],
-    "subThematic": "Médecine",
-    "times": 25
-  },
-  {
-    "id": 20,
-    "question": "Née en 1898 à Kiev et morte à Jérusalem en 1978.",
-    "answer": [
-      "Golda Meir"
-    ],
-    "subThematic": "Hommes et femmes politiques israéliens",
-    "times": 25
-  },
-  {
-    "id": 20,
-    "question": "Elle a participé à la création de l’État d’Israël.",
-    "answer": [
-      "Golda Meir"
-    ],
-    "subThematic": "Hommes et femmes politiques israéliens",
-    "times": 20
-  },
-  {
-    "id": 20,
-    "question": "Troisième femme, après Indira Gandhi et Sirimavo Bandaranaike, à obtenir un poste politique d’importance.",
-    "answer": [
-      "Golda Meir"
-    ],
-    "subThematic": "Hommes et femmes politiques israéliens",
-    "times": 30
-  },
-  {
-    "id": 20,
-    "question": "Première ministre de l’État d’Israël entre 1969 et 1974, elle fut surnommée la Dame de Fer de la politique israélienne.",
-    "answer": [
-      "Golda Meir"
-    ],
-    "subThematic": "Hommes et femmes politiques israéliens",
-    "times": 25
-  },
-  {
-    "id": 21,
-    "question": "Monument européen dont la construction débuta en 1173 et se termina en 1372.",
-    "answer": [
-      "Tour de Pise"
-    ],
-    "subThematic": "Monuments historiques",
-    "times": 30
-  },
-  {
-    "id": 21,
-    "question": "Situé en Italie, une légende veut que Galilée y ait testé la chute de corps pour en conclure qu'ils tombaient tous à la même vitesse.",
-    "answer": [
-      "Tour de Pise"
-    ],
-    "subThematic": "Monuments historiques",
-    "times": 30
-  },
-  {
-    "id": 21,
-    "question": "Ce campanile de Toscane était supposé recevoir les cloches de la cathédrale située tout près, mais accueille plutôt des milliers de visiteurs chaque année.",
-    "answer": [
-      "Tour de Pise"
-    ],
-    "subThematic": "Monuments historiques",
-    "times": 35
-  },
-  {
-    "id": 21,
-    "question": "Situé à Pise, son inclinaison est actuellement de 5,5° vers le sud.",
-    "answer": [
-      "Tour de Pise"
-    ],
-    "subThematic": "Monuments historiques",
-    "times": 20
-  },
-  {
-    "id": 22,
-    "question": "Né Près de Liré en 1522 et mort à Paris en 1560, je suis un poète français ;",
-    "answer": [
-      "Joachim Du Bellay"
-    ],
-    "subThematic": "Poésie française",
-    "times": 30
-  },
-  {
-    "id": 22,
-    "question": "Ami et collaborateur de Ronsard, je rédige le manifeste de la pléiade ayant pour titre Défense et Illustration de la langue française ;",
-    "answer": [
-      "Joachim Du Bellay"
-    ],
-    "subThematic": "Poésie française",
-    "times": 30
-  },
-  {
-    "id": 22,
-    "question": "De mon séjour à Rome comme secrétaire de mon cousin, je rapporte deux recueils : Les antiquités de Rome et Les regrets ;",
-    "answer": [
-      "Joachim Du Bellay"
-    ],
-    "subThematic": "Poésie française",
-    "times": 30
-  },
-  {
-    "id": 22,
-    "question": "Cousin de Jean Du Bellay, lui-même frère de Guillaume Du Bellay et protecteur de Rabelais, je suis :",
-    "answer": [
-      "Joachim Du Bellay"
-    ],
-    "subThematic": "Poésie française",
-    "times": 25
-  },
-  {
-    "id": 23,
-    "question": "Je suis un mot désignant un costume d’enfant en laine combinant veste et culotte formant guêtres ;",
-    "answer": [
-      "Esquimau"
-    ],
-    "subThematic": "Langue française",
-    "times": 30
-  },
-  {
-    "id": 23,
-    "question": "Je désigne aussi un chien de forte taille, à robe fournie, utilisé pour le trait ;",
-    "answer": [
-      "Esquimau"
-    ],
-    "subThematic": "Langue française",
-    "times": 25
-  },
-  {
-    "id": 23,
-    "question": "Je désigne aussi une glace généralement enrobée de chocolat qu’on tient par un bâton comme une sucette ;",
-    "answer": [
-      "Esquimau"
-    ],
-    "subThematic": "Langue française",
-    "times": 30
-  },
-  {
-    "id": 23,
-    "question": "Je suis aussi un adjectif ayant rapport aux autochtones habitant le Nord Canadien et les autres terres arctiques (Alaska, Groenland, Sibérie).",
-    "answer": [
-      "Esquimau"
-    ],
-    "subThematic": "Langue française",
-    "times": 35
-  }
+    {
+        "id": 1,
+        "question": [
+            "Né le 21 Juillet 1931 à Djougou, au Dahomey et mort le 15 Mai 2015 à Abidjan, je suis un enseignant, écrivain et homme politique béninois.",
+            "En 1967 je reçois le prix littéraire d’Afrique, en 1995 je suis devenu le chevalier de l’ordre national du Dahomey",
+            "Marié et père de sept enfants, ma première épouse est morte",
+            "Je suis le Berger émérite du Renouveau Charismatique Catholique au Bénin"
+        ],
+        "answer": [
+            [
+                "Jean PLIYA"
+            ],
+            [
+                "Jean PLIYA"
+            ],
+            [
+                "Jean PLIYA"
+            ],
+            [
+                "Jean PLIYA"
+            ]
+        ],
+        "subThematic": "Ecrivains béninois",
+        "times": 25
+    },
+    {
+        "id": 2,
+        "question": [
+            "né Milwaukee le 21Mai 1960 d’un alchimiste et de Joyce Annette, c’est un célèbre serial killer",
+            "surnommé le cannibale de Milwaukee, il a avoué avoir assassiné dix-sept jeunes hommes gays entre 1978 et 1991",
+            "il est condamné à la perpétuité après avoir été arrêté le 22 Juillet 1991 à Milwaukee et sera assassiné par un autre prisonnier",
+            "Une série documentaire a été produite et diffusée sur lui racontant, créant une polémique au sein de la société car elle capitalise le traumatisme des victimes"
+        ],
+        "answer": [
+            [
+                "JEFFREY DAHMER"
+            ],
+            [
+                "JEFFREY DAHMER"
+            ],
+            [
+                "JEFFREY DAHMER"
+            ],
+            [
+                "JEFFREY DAHMER"
+            ]
+        ],
+        "subThematic": "Tueurs en série américains",
+        "times": 25
+    },
+    {
+        "id": 3,
+        "question": [
+            "Footballeur international anglais né le 2 Mai 1975 évoluant au poste de milieu offensif. ",
+            "Il débute sa carrière lorsqu’il signe à Manchester United et fait son apparition dans l’équipe première en 1992.",
+            "Il a été 2ème au ballon d’or 1999 derrière Rivaldo.",
+            "Il est président du club ou joue l’homme qui a remporté 8 ballons d’or."
+        ],
+        "answer": [
+            [
+                "David Beckham"
+            ],
+            [
+                "David Beckham"
+            ],
+            [
+                "David Beckham"
+            ],
+            [
+                "David Beckham"
+            ]
+        ],
+        "subThematic": "Football",
+        "times": 30
+    },
+    {
+        "id": 4,
+        "question": [
+            "Né le 29 Aout 1958 à Gary dans l’Indiana aux USA. Auteur – Compositeur – interprète, acteur américain il mourut le 25 juin 2009, à Los Angeles aux USA. Il remporta le prix grammy Awards de l’album de l’année en 1984, 1986. Il est surnommée « The King of pop ».",
+            "Mickael Jackson",
+            "Mickael Jackson",
+            "Mickael Jackson"
+        ],
+        "answer": [
+            [
+                "Mickael Jackson"
+            ],
+            [
+                "Mickael Jackson"
+            ],
+            [
+                "Mickael Jackson"
+            ],
+            [
+                "Mickael Jackson"
+            ]
+        ],
+        "subThematic": "Pop/Rock",
+        "times": 40
+    },
+    {
+        "id": 5,
+        "question": [
+            "De son vrai nom Fabien Marsaud, il est né le 31 juillet 1977 dans le département de la Seine-Saint-Denis en France. Il vécut avec sa mère bibliothécaire, son père Jacques Marsaud haut fonctionnaire territorial et sa sœur ainée jusqu’en 1981",
+            "Passionné de sport surtout de basket ball dans lequel il est très doué, il faisait partie de l’équipe de basket d’Aubervilliers jusqu’à ce qu’un grave accident à la tête le prive de ses jambes",
+            "Forcé de se réorienter après son accident, il découvre le slam lors d’une scène ouverte dans un bar de la place et choisit un nom de scène par référence à son handicap",
+            "Abrégé GCM, il a vendu plusieurs millions d’exemplaires d’albums dans le monde. Ses titres célèbres sont : « Je dors sur mes deux oreilles »,  « Enfant de la ville »,  « Mais je t’aime », « Derrière le brouillard »"
+        ],
+        "answer": [
+            [
+                "Grand Corps Malade"
+            ],
+            [
+                "Grand Corps Malade"
+            ],
+            [
+                "Grand Corps Malade"
+            ],
+            [
+                "Grand Corps Malade"
+            ]
+        ],
+        "subThematic": "Slam",
+        "times": 30
+    },
+    {
+        "id": 6,
+        "question": [
+            "Type de nuage pouvant s’étendre verticalement sur plusieurs kilomètres dans l’atmosphère, créant une structure imposante.",
+            "Atteignant une certaine altitude, ce nuage peut développer une enclume à son sommet",
+            "C’est un nuage qui peut apporter de la grêle, du tonnerre et des éclairs. Il est souvent associé à des phénomènes météorologiques violents tels que la pluie intense et même la foudre.",
+            "Son nom est une combinaison de termes signifiant « cumulus » (amas) et  « nimbus » (pluie), soulignant son association avec les précipitations."
+        ],
+        "answer": [
+            [
+                "Le cumulonimbus"
+            ],
+            [
+                "Le cumulonimbus"
+            ],
+            [
+                "Le cumulonimbus"
+            ],
+            [
+                "Le cumulonimbus"
+            ]
+        ],
+        "subThematic": "Météorologie",
+        "times": 25
+    },
+    {
+        "id": 7,
+        "question": [
+            "Footballeur austro-allemand né le 23 décembre 2005 à Dornbirn en Autriche.",
+            " Il joue pour le FV Ravensburg avant de rejoindre le centre de formation du Bayern Munich. Il est très vite considéré comme l’un les talents les plus prometteurs du club.",
+            "Il représente l’équipe d’Allemagne des moins de 17ans depuis 2021 et fait sa première apparition en professionnel le 7 janvier 2022 lors d’une rencontre de championnat face au Borussia Mönchengladblach.",
+            "Le 1er Septembre 2023, il est prêté pour une saison au SV Elversberg et évolue au poste de milieu offensif."
+        ],
+        "answer": [
+            [
+                "Paul Wanner"
+            ],
+            [
+                "Paul Wanner"
+            ],
+            [
+                "Paul Wanner"
+            ],
+            [
+                "Paul Wanner"
+            ]
+        ],
+        "subThematic": "Football",
+        "times": 40
+    },
+    {
+        "id": 8,
+        "question": [
+            "Né le 19 août 1946, je suis diplômé de l’Université d’Oxford (Angleterre) en politique internationale",
+            "Après mes études brillantes à Oxford et Yale, je deviens professeur de droit.",
+            "En 1976, je suis élu procureur d’Arkansas puis gouverneur en 1978. A 32ans, je suis le plus jeune gouverneur du pays.",
+            "Réélu en 1996, mon 2ème mandat est notamment marqué par l’affaire Lewinski. Acquitté, je quitte le pouvoir en 2000. Je crée en 2004 un organisme qui lutte notamment contre le SIDA."
+        ],
+        "answer": [
+            [
+                "Bill Clinton"
+            ],
+            [
+                "Bill Clinton"
+            ],
+            [
+                "Bill Clinton"
+            ],
+            [
+                "Bill Clinton"
+            ]
+        ],
+        "subThematic": "Présidents américains",
+        "times": 25
+    },
+    {
+        "id": 9,
+        "question": [
+            "Romancière et scénariste britannique, elle est née le 31 juillet 1965 dans l’agglomération de Yate.",
+            "Après des études à l’Université d’Exeter ainsi qu’à la Sorbonne où elle a obtenu un diplôme en littérature française et en philologie, elle a travaillé un temps au sein d’Amnesty International, puis a enseigné l’anglais à Porto en 1990.",
+            "Elle est réputée pour aborder des idées et des thèmes profonds avec accessibilités et humour, et s’attacher régulièrement à des personnages placés en marge de la société.",
+            "Elle doit sa notoriété à la série Harry Potter, dont les romans traduits en près de 80 langues ont été vendus à plus de 500 millions d’exemplaires dans le monde."
+        ],
+        "answer": [
+            [
+                "Joanne Kathleen Rowling",
+                "J.K. Rowling"
+            ],
+            [
+                "Joanne Kathleen Rowling",
+                "J.K. Rowling"
+            ],
+            [
+                "Joanne Kathleen Rowling",
+                "J.K. Rowling"
+            ],
+            [
+                "Joanne Kathleen Rowling",
+                "J.K. Rowling"
+            ]
+        ],
+        "subThematic": "Auteurs britanniques contemporains",
+        "times": 30
+    },
+    {
+        "id": 10,
+        "question": [
+            "Née le 26 août 1910 Skopje en Macédoine du Nord et elle est décédée le 5 septembre 1997 à Calcutta en Inde",
+            "Elle est béatifiée le 19 octobre 2003 par le pape Jean-Paul II et canonisé le 4 septembre 2016 par le pape François",
+            "Pendant plus de 40ans elle consacre sa vie aux pauvres, aux malades, aux laissés pour compte et aux mourants, d’abord en Inde puis dans d’autres pays.",
+            "Elle est la fondatrice de la congrégation religieuse, les Missionnaires de la Charité."
+        ],
+        "answer": [
+            [
+                "Mère Teresa",
+                "Anjezë Gonxhe Bojahiu"
+            ],
+            [
+                "Mère Teresa",
+                "Anjezë Gonxhe Bojahiu"
+            ],
+            [
+                "Mère Teresa",
+                "Anjezë Gonxhe Bojahiu"
+            ],
+            [
+                "Mère Teresa",
+                "Anjezë Gonxhe Bojahiu"
+            ]
+        ],
+        "subThematic": "Catholicisme",
+        "times": 30
+    },
+    {
+        "id": 11,
+        "question": [
+            "Né en 1646 à Honovre et mort en 1716, je suis philosophe, savant et mathématicien allemand",
+            "Employé comme juriste, diplomate, historiographe, je fus en relation avec toute l’Europe savante",
+            "En 1676, il inventa le calcul infinitésimal et créa une symbolique universelle et efficace, notations de la différentielle et le l’intégral",
+            "Sa physique dynamique rompt avec le mécanisme cartésien"
+        ],
+        "answer": [
+            [
+                "LEIBNIZ"
+            ],
+            [
+                "LEIBNIZ"
+            ],
+            [
+                "LEIBNIZ"
+            ],
+            [
+                "LEIBNIZ"
+            ]
+        ],
+        "subThematic": "Mathématiques",
+        "times": 30
+    },
+    {
+        "id": 12,
+        "question": [
+            "Plante succulente originaire d’Afrique et d’Arabie, dont les feuilles charnues contiennent un gel clair et épais",
+            "Elle est souvent utilisée dans les cosmétiques et les produits de soin de la propreté pour ses propriétés hydratante et apaisante",
+            "Elle est également riche en antioxydants et en vitamines qui peuvent aider à renforcer le système immunitaire",
+            "Elle améliore la digestion grâce aux vitamines et aux antioxydants"
+        ],
+        "answer": [
+            [
+                "ALOES VERRA"
+            ],
+            [
+                "ALOES VERRA"
+            ],
+            [
+                "ALOES VERRA"
+            ],
+            [
+                "ALOES VERRA"
+            ]
+        ],
+        "subThematic": "Botanique",
+        "times": 25
+    },
+    {
+        "id": 13,
+        "question": [
+            "Né ne 7 Avril 1975 à Cotonou, il est médecin de profession et succède à Alassane Seidou dans sa profession publique",
+            "En 1993, il obtient son BAC puis étudie à l’UAC où il obtient son diplôme de docteur en médecine en 2004",
+            "Il poursuit ses études à Parakou où il obtient une maitrise en santé publique en 2009",
+            "En 2016, je deviens le ministre de la santé du Bénin"
+        ],
+        "answer": [
+            [
+                "Benjamin HOUNKPATIN"
+            ],
+            [
+                "Benjamin HOUNKPATIN"
+            ],
+            [
+                "Benjamin HOUNKPATIN"
+            ],
+            [
+                "Benjamin HOUNKPATIN"
+            ]
+        ],
+        "subThematic": "Hommes politiques béninois",
+        "times": 30
+    },
+    {
+        "id": 14,
+        "question": [
+            "Je suis un poète et écrivain guinéen et je suis né le 1er Janvier 1928",
+            "Je fus limitant pour l’indépendance du Guinée auprès des nations unies",
+            "Je fus connu pour mon humilité et ma gentillesse dans l’ordre public",
+            "Je suis connu pour mon livre « Enfant noir »"
+        ],
+        "answer": [
+            [
+                "Camara Laye"
+            ],
+            [
+                "Camara Laye"
+            ],
+            [
+                "Camara Laye"
+            ],
+            [
+                "Camara Laye"
+            ]
+        ],
+        "subThematic": "Ecrivains africains",
+        "times": 25
+    },
+    {
+        "id": 15,
+        "question": [
+            "Animal sauvages, mammifères de la famille des SUIDAE qui comprend deux sous espèces, il mesure 1.6 m de long et de 60 à 80 cm au garrot.",
+            "Vivant dans les savanes d’Afrique australe, de l’ouest, il est essentiellement herbivore mais peut également suivre un régime omnivore.",
+            "Il a une longue crinière sur le haut du dos et deux défenses dirigées vers le haut, atteignant60cm chez les adultes. Elles lui servent à déterrer des racines et à se défendre.",
+            "Il est souvent appelé cochon sauvage."
+        ],
+        "answer": [
+            [
+                "Le phacochère",
+                "le sanglier des savanes"
+            ],
+            [
+                "Le phacochère",
+                "le sanglier des savanes"
+            ],
+            [
+                "Le phacochère",
+                "le sanglier des savanes"
+            ],
+            [
+                "Le phacochère",
+                "le sanglier des savanes"
+            ]
+        ],
+        "subThematic": "Zoologie",
+        "times": 35
+    },
+    {
+        "id": 16,
+        "question": [
+            "Élément métallique, je suis isolé et purifié pour la première fois en 1807 par Humphry Davy.",
+            "Métal alcalin très mou de couleur blanc argenté, on ne me trouve dans la nature qu’à l’état combiné dans des composants et je constitue le sixième élément le plus abondant sur Terre.",
+            "Employé sous forme de vapeur dans des lampes à décharge électrique, à l’état de chlorure je donne le sel.",
+            "Élément présent dans la soude, mon symbole chimique est Na et de numéro atomique 11, je suis..."
+        ],
+        "answer": [
+            [
+                "SODIUM"
+            ],
+            [
+                "SODIUM"
+            ],
+            [
+                "SODIUM"
+            ],
+            [
+                "SODIUM"
+            ]
+        ],
+        "subThematic": "Chimie",
+        "times": 25
+    },
+    {
+        "id": 17,
+        "question": [
+            "Rappeur américain né le 2 décembre 1998 a Chicago dont le nom de naissance est Jarad Higgins connu pour sa musique qui mélangeait le rap et le genre mélo",
+            "Il a atteint la renommée mondiale grâce a des chansons à succès comme « Lucid Dreams » et « All Girls Are The Same »",
+            "Tragiquement, sa carrière a été interrompue par sa disparition prématurée a l’âge de 21 ans le 8 décembre 2019 a Oak Laws d’une overdose d’opiacés",
+            "Son nom de scène comprend un mot lié a la durée de vie des fruits et un mot qui signifie « MONDE » en français"
+        ],
+        "answer": [
+            [
+                "Juice WRLD"
+            ],
+            [
+                "Juice WRLD"
+            ],
+            [
+                "Juice WRLD"
+            ],
+            [
+                "Juice WRLD"
+            ]
+        ],
+        "subThematic": "Rap/Hip-hop",
+        "times": 40
+    },
+    {
+        "id": 18,
+        "question": [
+            "Acteur et mannequin britannique et hollywoodienne née en le 26 Juillet 1967 a Shirebrook en Angleterre d’une mère danseuse renommée et d’un père marchand ambulant",
+            "Membre de l’équipe de plongeon pendant 12 ans, il a participé et classé 8e aux jeux du Commonwealth de 1990",
+            "Repéré par le réalisateur Guy Ritchie,il a débuté le role d’acteur a partir de 1998 dans les films comme Arnaques,Crime et Botanique ; Snatch et Revolver",
+            "Surtout connu pour son role de Frank Martin dans la saga a succès Le Transporteur ainsi que pour ses collaborations avec Sylvester Stallone dans la série de films « Expendables » et avec Vin Diesel dans la série Fast and Furious"
+        ],
+        "answer": [
+            [
+                "Jason Statham"
+            ],
+            [
+                "Jason Statham"
+            ],
+            [
+                "Jason Statham"
+            ],
+            [
+                "Jason Statham"
+            ]
+        ],
+        "subThematic": "Acteurs britanniques",
+        "times": 40
+    },
+    {
+        "id": 19,
+        "question": [
+            "Ce Russe est né à Riazan le 14 septembre 1849.",
+            "Destiné à être prêtre comme son père, le jeune garçon préférait les sciences naturelles à ses études au séminaire.",
+            "Il s’inscrivit à la faculté de Physique et de Mathématiques de SaintPétersbourg où il se spécialisa en physiologie animale.",
+            "Prix Nobel de médecine de 1904, on le connaît mieux pour ses recherches sur les réflexes conditionnés avec le chien qu’on surnomma de son nom."
+        ],
+        "answer": [
+            [
+                "Ivan Pavlov"
+            ],
+            [
+                "Ivan Pavlov"
+            ],
+            [
+                "Ivan Pavlov"
+            ],
+            [
+                "Ivan Pavlov"
+            ]
+        ],
+        "subThematic": "Médecine",
+        "times": 25
+    },
+    {
+        "id": 20,
+        "question": [
+            "Née en 1898 à Kiev et morte à Jérusalem en 1978.",
+            "Elle a participé à la création de l’État d’Israël.",
+            "Troisième femme, après Indira Gandhi et Sirimavo Bandaranaike, à obtenir un poste politique d’importance.",
+            "Première ministre de l’État d’Israël entre 1969 et 1974, elle fut surnommée la Dame de Fer de la politique israélienne."
+        ],
+        "answer": [
+            [
+                "Golda Meir"
+            ],
+            [
+                "Golda Meir"
+            ],
+            [
+                "Golda Meir"
+            ],
+            [
+                "Golda Meir"
+            ]
+        ],
+        "subThematic": "Hommes et femmes politiques israéliens",
+        "times": 25
+    },
+    {
+        "id": 21,
+        "question": [
+            "Monument européen dont la construction débuta en 1173 et se termina en 1372.",
+            "Situé en Italie, une légende veut que Galilée y ait testé la chute de corps pour en conclure qu'ils tombaient tous à la même vitesse.",
+            "Ce campanile de Toscane était supposé recevoir les cloches de la cathédrale située tout près, mais accueille plutôt des milliers de visiteurs chaque année.",
+            "Situé à Pise, son inclinaison est actuellement de 5,5° vers le sud."
+        ],
+        "answer": [
+            [
+                "Tour de Pise"
+            ],
+            [
+                "Tour de Pise"
+            ],
+            [
+                "Tour de Pise"
+            ],
+            [
+                "Tour de Pise"
+            ]
+        ],
+        "subThematic": "Monuments historiques",
+        "times": 30
+    },
+    {
+        "id": 22,
+        "question": [
+            "Né Près de Liré en 1522 et mort à Paris en 1560, je suis un poète français ;",
+            "Ami et collaborateur de Ronsard, je rédige le manifeste de la pléiade ayant pour titre Défense et Illustration de la langue française ;",
+            "De mon séjour à Rome comme secrétaire de mon cousin, je rapporte deux recueils : Les antiquités de Rome et Les regrets ;",
+            "Cousin de Jean Du Bellay, lui-même frère de Guillaume Du Bellay et protecteur de Rabelais, je suis :"
+        ],
+        "answer": [
+            [
+                "Joachim Du Bellay"
+            ],
+            [
+                "Joachim Du Bellay"
+            ],
+            [
+                "Joachim Du Bellay"
+            ],
+            [
+                "Joachim Du Bellay"
+            ]
+        ],
+        "subThematic": "Poésie française",
+        "times": 30
+    }
 ]

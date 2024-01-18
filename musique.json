@@ -1,353 +1,496 @@
 [
-  {
-    "id": 1,
-    "question": "Quel compositeur de jazz et saxophoniste est surnommé Bird ?",
-    "answer": [
-      "Charlie Parker"
-    ],
-    "subThematic": "Jazz",
-    "times": 18
-  },
-  {
-    "id": 2,
-    "question": "Sur quel album de Michael Jackson se trouve la chanson mythique “Beat it“ ?",
-    "answer": [
-      "Thriller"
-    ],
-    "subThematic": "Pop",
-    "times": 16
-  },
-  {
-    "id": 3,
-    "question": "Quel est le nom de la troisième symphonie de Beethoven ?",
-    "answer": [
-      "Héroïque"
-    ],
-    "subThematic": "Classique",
-    "times": 16
-  },
-  {
-    "id": 4,
-    "question": "Dans quelle ville du Mississippi est né le chanteur Elvis Presley en 1935 ?",
-    "answer": [
-      "Tupelo"
-    ],
-    "subThematic": "Culture américaine",
-    "times": 16
-  },
-  {
-    "id": 5,
-    "question": "Quel groupe de musique populaire des années 1990 s’est réuni le temps d’une tournée en 2007 ?",
-    "answer": [
-      "Les Spice Girls"
-    ],
-    "subThematic": "Pop",
-    "times": 16
-  },
-  {
-    "id": 6,
-    "question": "À quel âge maudit trois grands noms de la musique et très grands consommateurs de drogues ont-ils rendu l’âme, soit Jim Morrison, Janis Joplin et Jimi Hendrix ?",
-    "answer": [
-      "27 ans"
-    ],
-    "subThematic": "Culture américaine",
-    "times": 16
-  },
-  {
-    "id": 7,
-    "question": "En musique, que signifie l’acronyme DJ ?",
-    "answer": [
-      "Disc-Jockey"
-    ],
-    "subThematic": "Terminologie musicale",
-    "times": 12
-  },
-  {
-    "id": 8,
-    "question": "Style de musique house apparu en Afrique du Sud en 2012 qui est un mélange de deep house, de jazz et de musique louange caractérisé par des synthés, des nappes aérées et de percussions traditionnelles.",
-    "answer": [
-      "Amapiano"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  },
-  {
-    "id": 9,
-    "question": "Quel est le genre musical associé à des artistes tels que Jimmy Cliff, Peter Tosh et Bob Marley ?",
-    "answer": [
-      "Reggae"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  },
-  {
-    "id": 10,
-    "question": "Quelle artiste américaine a chanté le single dont le titre signifie en français ‘’Dieu est une femme’’ ?",
-    "answer": [
-      "Ariana Grande"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 11,
-    "question": "Chanteurs du single ‘’Symphony’’ ",
-    "answer": [
-      "Clean Bandit feat Zara Larsson"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 12,
-    "question": "En terme de musique, que signifie label ?",
-    "answer": [
-      "Maison de disques"
-    ],
-    "subThematic": "Terminologie musicale",
-    "times": 12
-  },
-  {
-    "id": 13,
-    "question": "Quel est le nom de la célèbre chanteuse pop, surnommée la’’ Reine de la Pop’ ’qui a sorti des albums à succès tels que ‘’Like a Virgin’’ et ‘’Like a Prayer’’ ?",
-    "answer": [
-      "Madonna"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 14,
-    "question": "Quel compositeur, né en 1678 et mort en 1741, écrivit près de 40 opéras et 500 concertos, dont 230 pour violons ?",
-    "answer": [
-      "Antonio Vivaldi"
-    ],
-    "subThematic": "Compositeurs",
-    "times": 16
-  },
-  {
-    "id": 15,
-    "question": "Compositeur français, on me doit l’opéra La damnation de Faust.",
-    "answer": [
-      "Hector Berlioz"
-    ],
-    "subThematic": "Compositeurs",
-    "times": 16
-  },
-  {
-    "id": 16,
-    "question": "Ce type de musique vocale et sacrée pratiquée au 17e siècle par les esclaves noirs des Etats-Unis est à l’origine du mouvement gospel.",
-    "answer": [
-      "Negro spiritual"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  },
-  {
-    "id": 17,
-    "question": "Quel compositeur et interprète français né en 1938 a chanté en 1975 L’été indien ?",
-    "answer": [
-      "Joe Dassin"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 18,
-    "question": "Nom du dernier album de Zeynab ?",
-    "answer": [
-      "Olukêmi"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 19,
-    "question": "Quelle chanteuse nous a offert Milord?",
-    "answer": [
-      "Edith Piaf"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 20,
-    "question": "A quel chanteur béninois dont-on le morceau « Akwè » ?",
-    "answer": [
-      "Alby"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 21,
-    "question": "A quel duo devons-nous le morceau « Tu veux pas danser tu fais boss » ?",
-    "answer": [
-      "X-Time et Crisba"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 22,
-    "question": "A quelle chanteuse devons-nous le morceau « Tchité » ?",
-    "answer": [
-      "Fati"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 23,
-    "question": "Le 1er Février de quelle année mourut la chanteuse Affo Love ?",
-    "answer": [
-      "2009"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 24,
-    "question": "Que signifie « BOC » un titre de Niska ?",
-    "answer": [
-      "Batard ont couru"
-    ],
-    "subThematic": "Terminologie musicale",
-    "times": 16
-  },
-  {
-    "id": 25,
-    "question": "Quel artiste Béninois a chanté « Amoureux de toi » avec Queen Fumi ?",
-    "answer": [
-      "Crisba"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 26,
-    "question": "Quel est le vrai nom de Crisba ?",
-    "answer": [
-      "Orel Thérence Guézo AHOUEHA"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 27,
-    "question": "Qui a remporté le prix de meilleur artiste panafricain en 2023 ?",
-    "answer": [
-      "Réma"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 28,
-    "question": "Quel est le nom du leader des Beatles?",
-    "answer": [
-      "John Lennon"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 29,
-    "question": "Comment se nomme la muse de la musique?",
-    "answer": [
-      "Euterpe"
-    ],
-    "subThematic": "Terminologie musicale",
-    "times": 16
-  },
-  {
-    "id": 30,
-    "question": "De quel pays nous provient la rumba?",
-    "answer": [
-      "Cuba"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  },
-  {
-    "id": 31,
-    "question": "Quelle chanteuse française a popularisé, avec les Compagnes de la Chanson, le célèbre air Les Trois Cloches?",
-    "answer": [
-      "Edith Piaf"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 32,
-    "question": "Qui était considéré comme le roi de la Pop?",
-    "answer": [
-      "Michael Jackson"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 33,
-    "question": "De quel pays est originaire le reggae ?",
-    "answer": [
-      "Jamaïque"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  },
-  {
-    "id": 34,
-    "question": "Quelle est la nationalité de Céline Dion R. ?",
-    "answer": [
-      "Canadienne"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 35,
-    "question": "Quel groupe a fait connaitre Beyoncé?",
-    "answer": [
-      "Destiny’s child"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 36,
-    "question": "Quels artistes ont chanté la chanson ‘’We don’t talk anymore’’ ?",
-    "answer": [
-      "Charlie Puth et Selena Gomez"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 37,
-    "question": "Quelle est la cinquième note de la gamme naturelle ?",
-    "answer": [
-      "Sol"
-    ],
-    "subThematic": "Terminologie musicale",
-    "times": 16
-  },
-  {
-    "id": 38,
-    "question": "Quelle chanteuse américaine était considérée comme la reine de la soul music ?",
-    "answer": [
-      "Aretha Franklin"
-    ],
-    "subThematic": "Chanteurs",
-    "times": 16
-  },
-  {
-    "id": 39,
-    "question": "Le genre musical le plus écouté au monde",
-    "answer": [
-      "La musique pop"
-    ],
-    "subThematic": "Genres musicaux",
-    "times": 16
-  }
+    {
+        "id": 1,
+        "question": [
+            "Quel compositeur de jazz et saxophoniste est surnommé Bird ?"
+        ],
+        "answer": [
+            [
+                "Charlie Parker"
+            ]
+        ],
+        "subThematic": "Jazz",
+        "times": 18
+    },
+    {
+        "id": 2,
+        "question": [
+            "Sur quel album de Michael Jackson se trouve la chanson mythique “Beat it“ ?"
+        ],
+        "answer": [
+            [
+                "Thriller"
+            ]
+        ],
+        "subThematic": "Pop",
+        "times": 16
+    },
+    {
+        "id": 3,
+        "question": [
+            "Quel est le nom de la troisième symphonie de Beethoven ?"
+        ],
+        "answer": [
+            [
+                "Héroïque"
+            ]
+        ],
+        "subThematic": "Classique",
+        "times": 16
+    },
+    {
+        "id": 4,
+        "question": [
+            "Dans quelle ville du Mississippi est né le chanteur Elvis Presley en 1935 ?"
+        ],
+        "answer": [
+            [
+                "Tupelo"
+            ]
+        ],
+        "subThematic": "Culture américaine",
+        "times": 16
+    },
+    {
+        "id": 5,
+        "question": [
+            "Quel groupe de musique populaire des années 1990 s’est réuni le temps d’une tournée en 2007 ?"
+        ],
+        "answer": [
+            [
+                "Les Spice Girls"
+            ]
+        ],
+        "subThematic": "Pop",
+        "times": 16
+    },
+    {
+        "id": 6,
+        "question": [
+            "À quel âge maudit trois grands noms de la musique et très grands consommateurs de drogues ont-ils rendu l’âme, soit Jim Morrison, Janis Joplin et Jimi Hendrix ?"
+        ],
+        "answer": [
+            [
+                "27 ans"
+            ]
+        ],
+        "subThematic": "Culture américaine",
+        "times": 16
+    },
+    {
+        "id": 7,
+        "question": [
+            "En musique, que signifie l’acronyme DJ ?"
+        ],
+        "answer": [
+            [
+                "Disc-Jockey"
+            ]
+        ],
+        "subThematic": "Terminologie musicale",
+        "times": 12
+    },
+    {
+        "id": 8,
+        "question": [
+            "Style de musique house apparu en Afrique du Sud en 2012 qui est un mélange de deep house, de jazz et de musique louange caractérisé par des synthés, des nappes aérées et de percussions traditionnelles."
+        ],
+        "answer": [
+            [
+                "Amapiano"
+            ]
+        ],
+        "subThematic": "Genres musicaux",
+        "times": 16
+    },
+    {
+        "id": 9,
+        "question": [
+            "Quel est le genre musical associé à des artistes tels que Jimmy Cliff, Peter Tosh et Bob Marley ?"
+        ],
+        "answer": [
+            [
+                "Reggae"
+            ]
+        ],
+        "subThematic": "Genres musicaux",
+        "times": 16
+    },
+    {
+        "id": 10,
+        "question": [
+            "Quelle artiste américaine a chanté le single dont le titre signifie en français ‘’Dieu est une femme’’ ?"
+        ],
+        "answer": [
+            [
+                "Ariana Grande"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 11,
+        "question": [
+            "Chanteurs du single ‘’Symphony’’ "
+        ],
+        "answer": [
+            [
+                "Clean Bandit feat Zara Larsson"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 12,
+        "question": [
+            "En terme de musique, que signifie label ?"
+        ],
+        "answer": [
+            [
+                "Maison de disques"
+            ]
+        ],
+        "subThematic": "Terminologie musicale",
+        "times": 12
+    },
+    {
+        "id": 13,
+        "question": [
+            "Quel est le nom de la célèbre chanteuse pop, surnommée la’’ Reine de la Pop’ ’qui a sorti des albums à succès tels que ‘’Like a Virgin’’ et ‘’Like a Prayer’’ ?"
+        ],
+        "answer": [
+            [
+                "Madonna"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 14,
+        "question": [
+            "Quel compositeur, né en 1678 et mort en 1741, écrivit près de 40 opéras et 500 concertos, dont 230 pour violons ?"
+        ],
+        "answer": [
+            [
+                "Antonio Vivaldi"
+            ]
+        ],
+        "subThematic": "Compositeurs",
+        "times": 16
+    },
+    {
+        "id": 15,
+        "question": [
+            "Compositeur français, on me doit l’opéra La damnation de Faust."
+        ],
+        "answer": [
+            [
+                "Hector Berlioz"
+            ]
+        ],
+        "subThematic": "Compositeurs",
+        "times": 16
+    },
+    {
+        "id": 16,
+        "question": [
+            "Ce type de musique vocale et sacrée pratiquée au 17e siècle par les esclaves noirs des Etats-Unis est à l’origine du mouvement gospel."
+        ],
+        "answer": [
+            [
+                "Negro spiritual"
+            ]
+        ],
+        "subThematic": "Genres musicaux",
+        "times": 16
+    },
+    {
+        "id": 17,
+        "question": [
+            "Quel compositeur et interprète français né en 1938 a chanté en 1975 L’été indien ?"
+        ],
+        "answer": [
+            [
+                "Joe Dassin"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 18,
+        "question": [
+            "Nom du dernier album de Zeynab ?"
+        ],
+        "answer": [
+            [
+                "Olukêmi"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 19,
+        "question": [
+            "Quelle chanteuse nous a offert Milord?"
+        ],
+        "answer": [
+            [
+                "Edith Piaf"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 20,
+        "question": [
+            "A quel chanteur béninois dont-on le morceau « Akwè » ?"
+        ],
+        "answer": [
+            [
+                "Alby"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 21,
+        "question": [
+            "A quel duo devons-nous le morceau « Tu veux pas danser tu fais boss » ?"
+        ],
+        "answer": [
+            [
+                "X-Time et Crisba"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 22,
+        "question": [
+            "A quelle chanteuse devons-nous le morceau « Tchité » ?"
+        ],
+        "answer": [
+            [
+                "Fati"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 23,
+        "question": [
+            "Le 1er Février de quelle année mourut la chanteuse Affo Love ?"
+        ],
+        "answer": [
+            [
+                "2009"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 24,
+        "question": [
+            "Que signifie « BOC » un titre de Niska ?"
+        ],
+        "answer": [
+            [
+                "Batard ont couru"
+            ]
+        ],
+        "subThematic": "Terminologie musicale",
+        "times": 16
+    },
+    {
+        "id": 25,
+        "question": [
+            "Quel artiste Béninois a chanté « Amoureux de toi » avec Queen Fumi ?"
+        ],
+        "answer": [
+            [
+                "Crisba"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 26,
+        "question": [
+            "Quel est le vrai nom de Crisba ?"
+        ],
+        "answer": [
+            [
+                "Orel Thérence Guézo AHOUEHA"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 27,
+        "question": [
+            "Qui a remporté le prix de meilleur artiste panafricain en 2023 ?"
+        ],
+        "answer": [
+            [
+                "Réma"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 28,
+        "question": [
+            "Quel est le nom du leader des Beatles?"
+        ],
+        "answer": [
+            [
+                "John Lennon"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 29,
+        "question": [
+            "Comment se nomme la muse de la musique?"
+        ],
+        "answer": [
+            [
+                "Euterpe"
+            ]
+        ],
+        "subThematic": "Terminologie musicale",
+        "times": 16
+    },
+    {
+        "id": 30,
+        "question": [
+            "De quel pays nous provient la rumba?"
+        ],
+        "answer": [
+            [
+                "Cuba"
+            ]
+        ],
+        "subThematic": "Genres musicaux",
+        "times": 16
+    },
+    {
+        "id": 31,
+        "question": [
+            "Quelle chanteuse française a popularisé, avec les Compagnes de la Chanson, le célèbre air Les Trois Cloches?"
+        ],
+        "answer": [
+            [
+                "Edith Piaf"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 32,
+        "question": [
+            "Qui était considéré comme le roi de la Pop?"
+        ],
+        "answer": [
+            [
+                "Michael Jackson"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 33,
+        "question": [
+            "De quel pays est originaire le reggae ?"
+        ],
+        "answer": [
+            [
+                "Jamaïque"
+            ]
+        ],
+        "subThematic": "Genres musicaux",
+        "times": 16
+    },
+    {
+        "id": 34,
+        "question": [
+            "Quelle est la nationalité de Céline Dion R. ?"
+        ],
+        "answer": [
+            [
+                "Canadienne"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 35,
+        "question": [
+            "Quel groupe a fait connaitre Beyoncé?"
+        ],
+        "answer": [
+            [
+                "Destiny’s child"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 36,
+        "question": [
+            "Quels artistes ont chanté la chanson ‘’We don’t talk anymore’’ ?"
+        ],
+        "answer": [
+            [
+                "Charlie Puth et Selena Gomez"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    },
+    {
+        "id": 37,
+        "question": [
+            "Quelle est la cinquième note de la gamme naturelle ?"
+        ],
+        "answer": [
+            [
+                "Sol"
+            ]
+        ],
+        "subThematic": "Terminologie musicale",
+        "times": 16
+    },
+    {
+        "id": 38,
+        "question": [
+            "Quelle chanteuse américaine était considérée comme la reine de la soul music ?"
+        ],
+        "answer": [
+            [
+                "Aretha Franklin"
+            ]
+        ],
+        "subThematic": "Chanteurs",
+        "times": 16
+    }
 ]
