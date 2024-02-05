@@ -492,5 +492,2666 @@
         ],
         "subThematic": "Chanteurs",
         "times": 16
+    },
+    {
+        "id": 39,
+        "question": [
+            "Quel est le nom du luth à 5 ou 6 cordes?"
+        ],
+        "answer": [
+            [
+                "OUD"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 28
+    },
+    {
+        "id": 40,
+        "question": [
+            "Comment appelle-t-on la salle où l’on chante les opéras ?"
+        ],
+        "answer": [
+            [
+                "OPERA"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 32
+    },
+    {
+        "id": 41,
+        "question": [
+            "Quel artiste a chanté Fayivi : Ricos campos"
+        ],
+        "answer": [
+            [
+                "Ricos Campos"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 30
+    },
+    {
+        "id": 42,
+        "question": [
+            "Quel artiste nigérian a chanté ‘’ Golibe’’ : Flavour"
+        ],
+        "answer": [
+            [
+                "Flavour"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 33
+    },
+    {
+        "id": 43,
+        "question": [
+            "Quelle œuvre magistrale de Beethoven sert aujourd’hui d’hymne à l’Union européenne ?"
+        ],
+        "answer": [
+            [
+                "Neuvième symphonie"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 42
+    },
+    {
+        "id": 44,
+        "question": [
+            "Comment appelle-t-on un musicien jouant de la marimba ?"
+        ],
+        "answer": [
+            [
+                "Marimbiste"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 34
+    },
+    {
+        "id": 45,
+        "question": [
+            "Quelle chanteuse originaire du Michigan remporta le New Music Express Award 2006 de la femme la plus sexy?"
+        ],
+        "answer": [
+            [
+                "Madonna"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 38
+    },
+    {
+        "id": 46,
+        "question": [
+            "Quel Beatles est le plus récemment décédé ?"
+        ],
+        "answer": [
+            [
+                "George Harrison (2001)"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 40
+    },
+    {
+        "id": 47,
+        "question": [
+            "Pour quelle chanteuse française Sartre a-t-il écrit son unique texte de chanson?"
+        ],
+        "answer": [
+            [
+                "Juliette Gréco"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 36
+    },
+    {
+        "id": 48,
+        "question": [
+            "Quel est le nom du groupe hip-hop marseillais qui chante des chansons comme Petit-Frère, La Saga, L'empire du côté obscur?"
+        ],
+        "answer": [
+            [
+                "IAM"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 45
+    },
+    {
+        "id": 49,
+        "question": [
+            "Chanteur et auteur compositeur américain surnommé « The Boss »."
+        ],
+        "answer": [
+            [
+                "Bruce Springsteen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 37
+    },
+    {
+        "id": 50,
+        "question": [
+            "Qui est cette chanteuse américaine, icône du mouvement hippie, et décédée d’une overdose d’héroïne en octobre 1970 ?"
+        ],
+        "answer": [
+            [
+                "Janis Joplin"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 41
+    },
+    {
+        "id": 51,
+        "question": [
+            "De quel compositeur le film Amadeus relate-il la vie ?"
+        ],
+        "answer": [
+            [
+                "Mozart"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 35
+    },
+    {
+        "id": 52,
+        "question": [
+            "Ville des Etats-Unis, capitale du Tennessee et capitale de la musique country."
+        ],
+        "answer": [
+            [
+                "Nashville"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 36
+    },
+    {
+        "id": 53,
+        "question": [
+            "Vous devriez en trouver 36 noires sur cet instrument de musique inventé par Bartolomeo Cristofori."
+        ],
+        "answer": [
+            [
+                "Touches (le pianoforte)"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 49
+    },
+    {
+        "id": 54,
+        "question": [
+            "Ancien membre du groupe ‘N Sync, interprète de Sexy Back et My Love."
+        ],
+        "answer": [
+            [
+                "Justin Timberlake"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 44
+    },
+    {
+        "id": 55,
+        "question": [
+            "Quel compositeur, né en 1678 et mort en 1741, écrivit près de 40 opéras et 500 concertos, dont 230 pour violons ?"
+        ],
+        "answer": [
+            [
+                "Antonio Vivaldi"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 38
+    },
+    {
+        "id": 56,
+        "question": [
+            "Compositeur français, on me doit l’opéra La damnation de Faust."
+        ],
+        "answer": [
+            [
+                "Hector Berlioz"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 41
+    },
+    {
+        "id": 57,
+        "question": [
+            "À quel groupe français doit-on les albums Wax, Un jour dans notre vie et Danceteria ?"
+        ],
+        "answer": [
+            [
+                "Indochine"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 38
+    },
+    {
+        "id": 58,
+        "question": [
+            "Dans quelle ville du Mississipi est né le chanteur Elvis Presley en 1935?"
+        ],
+        "answer": [
+            [
+                "Tupelo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 40
+    },
+    {
+        "id": 59,
+        "question": [
+            "Ce chanteur est décédé le 21 août 1980, à Tahiti."
+        ],
+        "answer": [
+            [
+                "Joe DASSIN"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 35
+    },
+    {
+        "id": 60,
+        "question": [
+            "Ce chanteur de 85 ans effectue un retour remarqué en 2000-2001 avec son album Chambre avec vue."
+        ],
+        "answer": [
+            [
+                "Henri Salvador"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 48
+    },
+    {
+        "id": 61,
+        "question": [
+            "Signes de la notation musicale qui furent en usage à partir du IXe siècle et durant tout le Moyen Âge, jusqu'à la généralisation de la portée moderne à cinq lignes."
+        ],
+        "answer": [
+            [
+                "Neumes"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 43
+    },
+    {
+        "id": 62,
+        "question": [
+            "À quel compositeur russe devons-nous les opéras Le Voïévode, La Pucelle d'Orléans et L'Enchanteresse ainsi que la musique du ballet \"La belle au bois dormant\" ?"
+        ],
+        "answer": [
+            [
+                "Piotr Ilitch Tchaïkovski"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 42
+    },
+    {
+        "id": 63,
+        "question": [
+            "Quel instrument de musique à cordes est muni d'un ou plusieurs claviers dont chacune des cordes est « pincée » par un dispositif nommé sautereau ?"
+        ],
+        "answer": [
+            [
+                "Clavecin"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 45
+    },
+    {
+        "id": 64,
+        "question": [
+            "Groupe français principalement populaire dans les années 1980 et passé à la postérité à travers la francophonie. Le groupe a été fondé en 1975 et a d'abord sorti, en 1976, un album intitulé Ba mwen en ti bo, puis en 1982, l'album Blogodo"
+        ],
+        "answer": [
+            [
+                "La Compagnie Créole"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 53
+    },
+    {
+        "id": 65,
+        "question": [
+            "Genre musical et danse apparu au début des années 1970. C'est le résultat d'un mélange de funk, de soul et de pop, enrichi par de nouveaux instruments, les synthétiseurs et parfois une orchestration comprenant des cordes et des cuivres."
+        ],
+        "answer": [
+            [
+                "La musique disco"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 50
+    },
+    {
+        "id": 66,
+        "question": [
+            "Quelle formation musicale composée de deux chanteuses et danseuses espagnoles, Mayte Mateos (née à Logroño, le 7 février 1951) et María Mendiola (née à Madrid, le 4 avril 1952) a sorti l'album Light My Fire en 1978 et en 1981, Bad Boys"
+        ],
+        "answer": [
+            [
+                "Baccara"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 55
+    },
+    {
+        "id": 67,
+        "question": [
+            "Composition musicale écrite dans le style du contrepoint et dans laquelle un thème et ses imitations successives forment plusieurs parties. . Le Clavier bien tempéré de Jean Sébastien Bach en offre des modèles accomplis pour instrument à clavier"
+        ],
+        "answer": [
+            [
+                "La Fugue"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 48
+    },
+    {
+        "id": 68,
+        "question": [
+            "Né en 1678 et mort en 1741, compositeur italien, ses ouvertures d'opéras sont considérées comme à l'origine de la symphonie classique. Son œuvre comporte des opéras (Orlando furioso, 1727), des oratorios ( Juditha triumphans, 1727) des concertos dont Il Cimento dell'armonia ( vers 1725) qui comprend Les Quatre Saisons."
+        ],
+        "answer": [
+            [
+                "Antonio Vivaldi"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 51
+    },
+    {
+        "id": 69,
+        "question": [
+            "Chanteur de raï et acteur algérien, né le 11 juillet 1966 à Saïda, son duo avec Sting pour le titre Desert Rose, en 1999, lui permettra de faire découvrir le raï partout dans le monde. En France, il est connu pour son duo Parisien du Nord avec K-Mel en 1998."
+        ],
+        "answer": [
+            [
+                "Mohamed Khelifati, dit Cheb Mami"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 47
+    },
+    {
+        "id": 70,
+        "question": [
+            "Quelle est la huitième note de la gamme de do ?"
+        ],
+        "answer": [
+            [
+                "Do"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 28
+    },
+    {
+        "id": 71,
+        "question": [
+            "A quel compositeur français de la période baroque doit-on le motet Te Deum et l’opéra David et Jonathas ?"
+        ],
+        "answer": [
+            [
+                "Marc-Antoine Charpentier"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 35
+    },
+    {
+        "id": 72,
+        "question": [
+            "Quel groupe de rock britannique formé en 1965 sort en 1973 l’album The Dark Side of the Moon ?"
+        ],
+        "answer": [
+            [
+                "Pink Floyd"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 39
+    },
+    {
+        "id": 73,
+        "question": [
+            "Quel est le vrai nom de Amina de Ariel scheney ?"
+        ],
+        "answer": [
+            [
+                "Mariam Mobil"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 29
+    },
+    {
+        "id": 74,
+        "question": [
+            "A quel artiste ivoirien associez vous le morceau « moto-moto » ?"
+        ],
+        "answer": [
+            [
+                "Dj Arafat"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 31
+    },
+    {
+        "id": 75,
+        "question": [
+            "A quel artiste Béninois associez vous le morceau « faut pas m’embrouiller » ?"
+        ],
+        "answer": [
+            [
+                "FANICKO"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 32
+    },
+    {
+        "id": 76,
+        "question": [
+            "De combien de membre est composé le groupe « les frères GUEDEHOUNGUE » ?"
+        ],
+        "answer": [
+            [
+                "5 MEMBRES"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 38
+    },
+    {
+        "id": 77,
+        "question": [
+            "Que signifie « BOC » un titre de Niska ?"
+        ],
+        "answer": [
+            [
+                "Batard ont couru"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 27
+    },
+    {
+        "id": 78,
+        "question": [
+            "Quel artiste Béninois a chanté « Amoureux de toi » avec Queen Fumi ?"
+        ],
+        "answer": [
+            [
+                "Crisba"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 30
+    },
+    {
+        "id": 79,
+        "question": [
+            "Quel est le vrai nom de Crisba ?"
+        ],
+        "answer": [
+            [
+                "Orel Thérence Guézo AHOUEHA"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 37
+    },
+    {
+        "id": 80,
+        "question": [
+            "Qui a remporté le prix de meilleur artiste panafricain en 2023 ?"
+        ],
+        "answer": [
+            [
+                "Réma"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 36
+    },
+    {
+        "id": 81,
+        "question": [
+            "Dans la musique tonale à tempérament égal, comment appelle-t-on l'équivalence de deux notes appelées différemment mais produisant le même son ?"
+        ],
+        "answer": [
+            [
+                "Enharmonie"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 28
+    },
+    {
+        "id": 82,
+        "question": [
+            "Né le 30 août 1956 à Dogondoutchi au Niger, à quel musicien sénégalais devons-nous le titre Tajabone, repris notamment dans la bande originale du film Tout sur ma mère de Pedro Almodóvar ?"
+        ],
+        "answer": [
+            [
+                "Ismaël Lô"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 31
+    },
+    {
+        "id": 83,
+        "question": [
+            "Compositeur français, né le 22 août 1862 à Saint-Germain-en-Laye et mort le 25 mars 1918 à Paris, il pose en 1894 avec Prélude à l’après-midi d’un faune, le premier jalon de la musique moderne. (Avec La Mer, il renouvelle la forme symphonique ; avec Jeux, il inscrit la musique pour ballet dans un modernisme prophétique ; avec Pélias et Mélisande, l’opéra français sort des ornières de la tradition du drame lyrique, tandis qu’il confère à la musique de chambre, avec son quatuor à cordes et son trio, des accents impressionnistes inspirés.)"
+        ],
+        "answer": [
+            [
+                "Claude Debussy"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 29
+    },
+    {
+        "id": 84,
+        "question": [
+            "A quel compositeur allemand devons-nous les oratorios La Resurrezione et Le Messie ?"
+        ],
+        "answer": [
+            [
+                "Georg Friedrich Haendel"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 30
+    },
+    {
+        "id": 85,
+        "question": [
+            "Quel groupe britannique de rock sort son onzième et dernier album intitulé « Abbey Road » en 1969 ?"
+        ],
+        "answer": [
+            [
+                "Les Beatles"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 32
+    },
+    {
+        "id": 86,
+        "question": [
+            "Dans quel genre musical se sont illustrés les groupes Nirvana et U2 ?"
+        ],
+        "answer": [
+            [
+                "Rock"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 33
+    },
+    {
+        "id": 87,
+        "question": [
+            "A quel artiste ivoirien associez-vous le morceau « Amina » : Ariel scheney"
+        ],
+        "answer": [
+            [
+                "Ariel Scheney"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 34
+    },
+    {
+        "id": 88,
+        "question": [
+            "De combien de membre est composé le groupe « Espoir 2000 » : 2 MEMBRES"
+        ],
+        "answer": [
+            [
+                "2"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 35
+    },
+    {
+        "id": 89,
+        "question": [
+            "A quel artiste béninois doit -on le morceau « Noukpo » : DON AMOS"
+        ],
+        "answer": [
+            [
+                "Don Amos"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 36
+    },
+    {
+        "id": 90,
+        "question": [
+            "A quel artiste ivoirien doit -on le morceau « tu n’es pas ma seule petite » : SUSPECT 95"
+        ],
+        "answer": [
+            [
+                "Suspect 95"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 37
+    },
+    {
+        "id": 91,
+        "question": [
+            "A quel artiste ivoirien associez-vous le morceau « moto-moto » : Dj Arafat"
+        ],
+        "answer": [
+            [
+                "Dj Arafat"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 38
+    },
+    {
+        "id": 92,
+        "question": [
+            "A quel artiste Béninois associez-vous le morceau « faut pas m’embrouiller » : FANICKO"
+        ],
+        "answer": [
+            [
+                "Fanicko"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 39
+    },
+    {
+        "id": 93,
+        "question": [
+            "Quel est le vrai nom de Asalfo : Salif Traoré"
+        ],
+        "answer": [
+            [
+                "Salif Traoré"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 40
+    },
+    {
+        "id": 94,
+        "question": [
+            "A quelle chaine associez-vous le numéro 130 sur canal plus ? TRACE AFRICA"
+        ],
+        "answer": [
+            [
+                "Trace Africa"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 41
+    },
+    {
+        "id": 95,
+        "question": [
+            "A quel artiste Congolais doit on le morceau YOPE : INNOS’B"
+        ],
+        "answer": [
+            [
+                "Innos'B"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 42
+    },
+    {
+        "id": 96,
+        "question": [
+            "A quel artiste béninois natif de Lokossa doit-on le morceau AKUE : ALBY"
+        ],
+        "answer": [
+            [
+                "Alby"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 43
+    },
+    {
+        "id": 97,
+        "question": [
+            "Qui est le précurseur de la danse « GOGOHOUN » : DAHOUE DOTO"
+        ],
+        "answer": [
+            [
+                "Dahoue Doto"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 44
+    },
+    {
+        "id": 98,
+        "question": [
+            "Aqui doit –on l’aube nouvelle : Abbé Gilbert DAGNON"
+        ],
+        "answer": [
+            [
+                "Abbé Gilbert Dagnon"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 45
+    },
+    {
+        "id": 99,
+        "question": [
+            "De combien de membre est composé le groupe KIFF NO BEAT : 5 membres"
+        ],
+        "answer": [
+            [
+                "5"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 46
+    },
+    {
+        "id": 100,
+        "question": [
+            "A quel artiste ivoirien doit –on le morceau « la victoire » : Dj kerozen"
+        ],
+        "answer": [
+            [
+                "Dj Kerozen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 47
+    },
+    {
+        "id": 101,
+        "question": [
+            "A quelle chanteuse béninoise devons-nous le morceau je me marie ? ZEYNAB"
+        ],
+        "answer": [
+            [
+                "Zeynab"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 48
+    },
+    {
+        "id": 102,
+        "question": [
+            "A quel artiste ivoirien doit –on le morceau « la victoire » : Dj kerozen"
+        ],
+        "answer": [
+            [
+                "Dj Kerozen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 49
+    },
+    {
+        "id": 103,
+        "question": [
+            "A quel artiste Béninois associez-vous le morceau « tourne sa bien » FANICKO"
+        ],
+        "answer": [
+            [
+                "Fanicko"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 50
+    },
+    {
+        "id": 104,
+        "question": [
+            "A quel artiste béninois doit -on le morceau « trélé » T BOY"
+        ],
+        "answer": [
+            [
+                "T Boy"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 51
+    },
+    {
+        "id": 105,
+        "question": [
+            "A quel artiste béninois associez-vous le morceau on va faire comment ? FANICKO"
+        ],
+        "answer": [
+            [
+                "Fanicko"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 52
+    },
+    {
+        "id": 106,
+        "question": [
+            "Quel est le vrai nom FANICKO ? FANICK OLIVER ADJANOHOUN"
+        ],
+        "answer": [
+            [
+                "Fanick Oliver Adjanohoun"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 53
+    },
+    {
+        "id": 107,
+        "question": [
+            "Quelle est la nationalité de WIZKID ? NIGERIANE"
+        ],
+        "answer": [
+            [
+                "Nigériane"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 54
+    },
+    {
+        "id": 108,
+        "question": [
+            "A quelle artiste nigériane devons le morceau JORO ? WIZKID"
+        ],
+        "answer": [
+            [
+                "Wizkid"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 55
+    },
+    {
+        "id": 109,
+        "question": [
+            "Quel est le vrai nom DJ arafat ? ANGE DIDIER HOUON"
+        ],
+        "answer": [
+            [
+                "Ange Didier Houon"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 56
+    },
+    {
+        "id": 110,
+        "question": [
+            "Quel est la date exacte du décès de DJ Arafat ? 12 Août 2019"
+        ],
+        "answer": [
+            [
+                "12 Août 2019"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 57
+    },
+    {
+        "id": 111,
+        "question": [
+            "De combien de membre est composé le groupe « Espoir 2000 » : 2 MEMBRES"
+        ],
+        "answer": [
+            [
+                "2 membres"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 58
+    },
+    {
+        "id": 112,
+        "question": [
+            "A quel artiste béninois doit t-on le morceau « Noukpo » : DON AMOS"
+        ],
+        "answer": [
+            [
+                "Don Amos"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 59
+    },
+    {
+        "id": 113,
+        "question": [
+            "A quel artiste ivoirien doit t-on le morceau « tu n’es pas ma seule petite » : SUSPECT 95"
+        ],
+        "answer": [
+            [
+                "Suspect 95"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 60
+    },
+    {
+        "id": 114,
+        "question": [
+            "De combien de membre est composé le groupe TOOFAN : 2"
+        ],
+        "answer": [
+            [
+                "2"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 61
+    },
+    {
+        "id": 115,
+        "question": [
+            "A quel artiste béninois doit t-on le morceau « trélé » : T BOY"
+        ],
+        "answer": [
+            [
+                "T Boy"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 62
+    },
+    {
+        "id": 116,
+        "question": [
+            "A quel artiste Congolais doit on le morceau YOPE : INNOS’B"
+        ],
+        "answer": [
+            [
+                "Innos'B"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 63
+    },
+    {
+        "id": 117,
+        "question": [
+            "A quel artiste béninois doit-on le morceau FAIVI : RICOS CAMPOS"
+        ],
+        "answer": [
+            [
+                "Ricos Campos"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 64
+    },
+    {
+        "id": 118,
+        "question": [
+            "Comment appelle-t-on le grand frère de l’artiste Français DADJU : MAITRE GIMS"
+        ],
+        "answer": [
+            [
+                "Maître Gims"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 65
+    },
+    {
+        "id": 119,
+        "question": [
+            "A quel artiste béninois natif de Lokossa doit-on le morceau AKUE : ALBY"
+        ],
+        "answer": [
+            [
+                "Alby"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 66
+    },
+    {
+        "id": 120,
+        "question": [
+            "Qui est le précurseur de la danse « GOGOHOUN » : DAHOUE DOTO"
+        ],
+        "answer": [
+            [
+                "Dahoué Doto"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 67
+    },
+    {
+        "id": 121,
+        "question": [
+            "A qui doit –on l’aube nouvelle : Abbé Gilbert DAGNON"
+        ],
+        "answer": [
+            [
+                "Abbé Gilbert Dagnon"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 68
+    },
+    {
+        "id": 122,
+        "question": [
+            "De combien de membre est composé le groupe KIFF NO BEAT : 5 membres"
+        ],
+        "answer": [
+            [
+                "5 membres"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 69
+    },
+    {
+        "id": 123,
+        "question": [
+            "A quel artiste béninois associez-vous le morceau on va faire comment ?"
+        ],
+        "answer": [
+            [
+                "Fanicko"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 70
+    },
+    {
+        "id": 124,
+        "question": [
+            "Quel est le vrai nom de Fanicko ?"
+        ],
+        "answer": [
+            [
+                "Fanick Oliver Adjanohoun"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 71
+    },
+    {
+        "id": 125,
+        "question": [
+            "A quel artiste nigérian associez-vous le morceau botiban ?"
+        ],
+        "answer": [
+            [
+                "Olamide"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 72
+    },
+    {
+        "id": 126,
+        "question": [
+            "Quel duo togolais a inventé le cool caché ?"
+        ],
+        "answer": [
+            [
+                "Toofan"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 73
+    },
+    {
+        "id": 127,
+        "question": [
+            "Quel était le nom du groupe formé par Peter et Paul Okoye ?"
+        ],
+        "answer": [
+            [
+                "P-Square"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 74
+    },
+    {
+        "id": 128,
+        "question": [
+            "Quelle est la nationalité de Charlotte Dipanda ?"
+        ],
+        "answer": [
+            [
+                "Camérounaise"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 75
+    },
+    {
+        "id": 129,
+        "question": [
+            "A quel artiste ivoirien associez-vous le morceau le temps ?"
+        ],
+        "answer": [
+            [
+                "Kerozen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 76
+    },
+    {
+        "id": 130,
+        "question": [
+            "Quelle célèbre artiste du R&B est l’épouse du célèbre rappeur américain Jay-Z ?"
+        ],
+        "answer": [
+            [
+                "Beyoncé"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 77
+    },
+    {
+        "id": 131,
+        "question": [
+            "Quel est le vrai nom de Dj Arafat ?"
+        ],
+        "answer": [
+            [
+                "Houon Ange Didier"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 78
+    },
+    {
+        "id": 132,
+        "question": [
+            "A quel artiste ivoirien associez-vous le morceau « Amina » ?"
+        ],
+        "answer": [
+            [
+                "Ariel Sheney"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 79
+    },
+    {
+        "id": 133,
+        "question": [
+            "A quel artiste béninois associez-vous le morceau « tourne sa bien » ?"
+        ],
+        "answer": [
+            [
+                "Fanicko"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 80
+    },
+    {
+        "id": 134,
+        "question": [
+            "Quel âge avait Britney Spears lorsque sa chanson à succès ‘Baby one more time’ est sortie en 1998 ?"
+        ],
+        "answer": [
+            [
+                "17 ans"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 81
+    },
+    {
+        "id": 135,
+        "question": [
+            "Quel est le nom du dernier album de Leto ?"
+        ],
+        "answer": [
+            [
+                "Trapstar 3"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 82
+    },
+    {
+        "id": 136,
+        "question": [
+            "Quelle artiste béninoise est morte le 15 février 2013 ?"
+        ],
+        "answer": [
+            [
+                "Zouley Sangaré"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 83
+    },
+    {
+        "id": 137,
+        "question": [
+            "De quel orchestre béninois est cette chanson ?"
+        ],
+        "answer": [
+            [
+                "Poly-Rythmo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 84
+    },
+    {
+        "id": 138,
+        "question": [
+            "A quel artiste ivoirien devons-nous le morceau Chevalier de Dieu ?"
+        ],
+        "answer": [
+            [
+                "Bebi Philip"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 85
+    },
+    {
+        "id": 139,
+        "question": [
+            "Quel groupe de R&B béninois avait pour pseudo le nom d’une molécule H2O ?"
+        ],
+        "answer": [
+            [
+                "Assouka"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 86
+    },
+    {
+        "id": 140,
+        "question": [
+            "A quel duo de chanteuses devons-nous le morceau Sista ?"
+        ],
+        "answer": [
+            [
+                "Charlotte Dipanda et Yemi Alade"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 87
+    },
+    {
+        "id": 141,
+        "question": [
+            "Quelle est la nationalité de Inoss B ?"
+        ],
+        "answer": [
+            [
+                "Congolaise"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 88
+    },
+    {
+        "id": 142,
+        "question": [
+            "A quel artiste nigérian associez-vous le morceau Ferver ?"
+        ],
+        "answer": [
+            [
+                "Wizkid"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 89
+    },
+    {
+        "id": 143,
+        "question": [
+            "Quelle est la nationalité de l’artiste Fally Ipupa ?"
+        ],
+        "answer": [
+            [
+                "Congolaise"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 90
+    },
+    {
+        "id": 144,
+        "question": [
+            "A quel duo d’artistes devons-nous le morceau s’en aller ?"
+        ],
+        "answer": [
+            [
+                "Hiro et Singuila"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 91
+    },
+    {
+        "id": 145,
+        "question": [
+            "Diamond Platnumz était en featuring avec quel artiste congolais sur le morceau Inama ?"
+        ],
+        "answer": [
+            [
+                "Fally Ipupa"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 92
+    },
+    {
+        "id": 146,
+        "question": [
+            "Quel est le leader du groupe Magic System ?"
+        ],
+        "answer": [
+            [
+                "Asalfo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 93
+    },
+    {
+        "id": 147,
+        "question": [
+            "A quel artiste béninois doit-on le morceau Faivi ?"
+        ],
+        "answer": [
+            [
+                "Ricos Campos"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 94
+    },
+    {
+        "id": 148,
+        "question": [
+            "De combien de membres est composé le groupe 'Les Frères Guedehoungue' ?"
+        ],
+        "answer": [
+            [
+                "5 membres"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 95
+    },
+    {
+        "id": 149,
+        "question": [
+            "A quel artiste doit-on le morceau 'Tu seras élevé' ?"
+        ],
+        "answer": [
+            [
+                "DJ Kerozen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 96
+    },
+    {
+        "id": 150,
+        "question": [
+            "A quel artiste doit-on le morceau 'Djessimidjeka' ?"
+        ],
+        "answer": [
+            [
+                "DJ Arafat"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 97
+    },
+    {
+        "id": 151,
+        "question": [
+            "Quels artistes sont en featuring sur le titre 'Drunk in Love' ?"
+        ],
+        "answer": [
+            [
+                "Jay-Z et Beyoncé"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 98
+    },
+    {
+        "id": 152,
+        "question": [
+            "Quel est le premier featuring entre Jay-Z et Beyoncé ?"
+        ],
+        "answer": [
+            [
+                "03 Bonnie & Clyde"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 99
+    },
+    {
+        "id": 153,
+        "question": [
+            "Dans quel lieu emblématique a été tourné le clip du morceau 'The Carters' en featuring entre Beyoncé et Jay-Z ?"
+        ],
+        "answer": [
+            [
+                "Le musée du Louvre"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 100
+    },
+    {
+        "id": 154,
+        "question": [
+            "Quel nom est le véritable nom de l'artiste Jay-Z ?"
+        ],
+        "answer": [
+            [
+                "Shawn Carter"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 101
+    },
+    {
+        "id": 155,
+        "question": [
+            "Quelle chanteuse affirmait en 1987 dans un de ses tubes: \"Je suis un garçon\" ?"
+        ],
+        "answer": [
+            [
+                "Mylène Farmer"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 102
+    },
+    {
+        "id": 156,
+        "question": [
+            "De quel groupe de hard rock australo-britannique Hirohiko Araki s'est-il inspiré pour créer son personnage Esidisi ?"
+        ],
+        "answer": [
+            [
+                "AC/DC"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 103
+    },
+    {
+        "id": 157,
+        "question": [
+            "Quel mot résultant d'un mélange des mots solitude et lassitude est le titre d'une chanson du dernier album de Stromae ?"
+        ],
+        "answer": [
+            [
+                "Solassitude"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 104
+    },
+    {
+        "id": 158,
+        "question": [
+            "Quel est le vrai nom de Vivi International ?"
+        ],
+        "answer": [
+            [
+                "Victorine AGBATO"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 105
+    },
+    {
+        "id": 159,
+        "question": [
+            "Quel est le nom du silence le plus long (4min 33s) ?"
+        ],
+        "answer": [
+            [
+                "Totally Silence Opus"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 106
+    },
+    {
+        "id": 160,
+        "question": [
+            "Comment appelle-t-on une petite formation de 5 à 8 musiciens ?"
+        ],
+        "answer": [
+            [
+                "Combo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 107
+    },
+    {
+        "id": 161,
+        "question": [
+            "Comment appelle-t-on le bateau du Mississippi avec des orchestres noirs ?"
+        ],
+        "answer": [
+            [
+                "Riverboat"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 108
+    },
+    {
+        "id": 162,
+        "question": [
+            "Qui a chanté 'Anything Could Happen' ?"
+        ],
+        "answer": [
+            [
+                "Ellie Goulding"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 109
+    },
+    {
+        "id": 163,
+        "question": [
+            "Quel est le nom du luth à 5 ou 6 cordes des Arabes ?"
+        ],
+        "answer": [
+            [
+                "Oud"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 110
+    },
+    {
+        "id": 164,
+        "question": [
+            "Que signifie P-Square ?"
+        ],
+        "answer": [
+            [
+                "P au carré"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 111
+    },
+    {
+        "id": 165,
+        "question": [
+            "Quel artiste béninois est le créateur de la danse 'noudjiou' ?"
+        ],
+        "answer": [
+            [
+                "Willy Mignon"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 112
+    },
+    {
+        "id": 166,
+        "question": [
+            "Quelle est la nationalité de Stromae ?"
+        ],
+        "answer": [
+            [
+                "Belge"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 113
+    },
+    {
+        "id": 167,
+        "question": [
+            "Quel est le vrai nom de Blaaz ?"
+        ],
+        "answer": [
+            [
+                "Nabil Franck ASSANI"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 114
+    },
+    {
+        "id": 168,
+        "question": [
+            "A quel artiste béninois associez-vous le morceau Avotchéblibli ?"
+        ],
+        "answer": [
+            [
+                "GBEZE"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 115
+    },
+    {
+        "id": 169,
+        "question": [
+            "Quel est le vrai nom de l'artiste FANICKO ?"
+        ],
+        "answer": [
+            [
+                "FANICK OLIVER ADJANOHOUN"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 116
+    },
+    {
+        "id": 170,
+        "question": [
+            "Quel artiste a chanté Wendia ?"
+        ],
+        "answer": [
+            [
+                "Richard Flash"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 117
+    },
+    {
+        "id": 171,
+        "question": [
+            "Quelle artiste africaine a chanté lors du lancement de l’expo DUBAÏ 2020 ?"
+        ],
+        "answer": [
+            [
+                "Angélique Kidjo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 118
+    },
+    {
+        "id": 172,
+        "question": [
+            "Quelle émission de télévision organisée par l’ORTB décerne des récompenses musicales chaque année ?"
+        ],
+        "answer": [
+            [
+                "Bénin Top 10"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 119
+    },
+    {
+        "id": 173,
+        "question": [
+            "Quel artiste Béninois a été consacré meilleur artiste de l’année en 2016 ?"
+        ],
+        "answer": [
+            [
+                "Richard Flash"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 120
+    },
+    {
+        "id": 174,
+        "question": [
+            "Quel artiste est connu à l’Etat civil sous le nom de Sophie AGUIDIGBADJA ?"
+        ],
+        "answer": [
+            [
+                "Edia Sophie"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 121
+    },
+    {
+        "id": 175,
+        "question": [
+            "Dans quelle danse septentrionale du Bénin manipule-t-on des bâtons pour créer une rythmique harmonique avec la percussion ?"
+        ],
+        "answer": [
+            [
+                "Le Têkê"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 122
+    },
+    {
+        "id": 176,
+        "question": [
+            "Quel est le vrai nom de Nel Oliver ?"
+        ],
+        "answer": [
+            [
+                "Ahounou Olivier"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 123
+    },
+    {
+        "id": 177,
+        "question": [
+            "Quel est le premier compositeur de Rock ?"
+        ],
+        "answer": [
+            [
+                "Arthur Big Boy"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 124
+    },
+    {
+        "id": 166,
+        "question": [
+            "Quelle est la nationalité de Stromae ?"
+        ],
+        "answer": [
+            [
+                "Belge"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 113
+    },
+    {
+        "id": 167,
+        "question": [
+            "Quel est le vrai nom de Blaaz ?"
+        ],
+        "answer": [
+            [
+                "Nabil Franck ASSANI"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 114
+    },
+    {
+        "id": 168,
+        "question": [
+            "A quel artiste béninois associez-vous le morceau Avotchéblibli ?"
+        ],
+        "answer": [
+            [
+                "GBEZE"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 115
+    },
+    {
+        "id": 169,
+        "question": [
+            "Quel est le vrai nom de l'artiste FANICKO ?"
+        ],
+        "answer": [
+            [
+                "FANICK OLIVER ADJANOHOUN"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 116
+    },
+    {
+        "id": 170,
+        "question": [
+            "Quel artiste a chanté Wendia ?"
+        ],
+        "answer": [
+            [
+                "Richard Flash"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 117
+    },
+    {
+        "id": 171,
+        "question": [
+            "Quelle artiste africaine a chanté lors du lancement de l’expo DUBAÏ 2020 ?"
+        ],
+        "answer": [
+            [
+                "Angélique Kidjo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 118
+    },
+    {
+        "id": 172,
+        "question": [
+            "Quelle émission de télévision organisée par l’ORTB décerne des récompenses musicales chaque année ?"
+        ],
+        "answer": [
+            [
+                "Bénin Top 10"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 119
+    },
+    {
+        "id": 173,
+        "question": [
+            "Quel artiste Béninois a été consacré meilleur artiste de l’année en 2016 ?"
+        ],
+        "answer": [
+            [
+                "Richard Flash"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 120
+    },
+    {
+        "id": 174,
+        "question": [
+            "Quel artiste est connu à l’Etat civil sous le nom de Sophie AGUIDIGBADJA ?"
+        ],
+        "answer": [
+            [
+                "Edia Sophie"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 121
+    },
+    {
+        "id": 175,
+        "question": [
+            "Dans quelle danse septentrionale du Bénin manipule-t-on des bâtons pour créer une rythmique harmonique avec la percussion ?"
+        ],
+        "answer": [
+            [
+                "Le Têkê"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 122
+    },
+    {
+        "id": 176,
+        "question": [
+            "Quel est le vrai nom de Nel Oliver ?"
+        ],
+        "answer": [
+            [
+                "Ahounou Olivier"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 123
+    },
+    {
+        "id": 177,
+        "question": [
+            "Quel est le premier compositeur de Rock ?"
+        ],
+        "answer": [
+            [
+                "Arthur Big Boy"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 124
+    },
+    {
+        "id": 178,
+        "question": [
+            "Quel est la figure géométrique dont le nom correspond également à celui d’un instrument de musique ?"
+        ],
+        "answer": [
+            [
+                "Le triangle"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 125
+    },
+    {
+        "id": 179,
+        "question": [
+            "Quelle est la nationalité de la gagnante de the voice africa 2021 ?"
+        ],
+        "answer": [
+            [
+                "Burkinabé ou burkinabaise"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 126
+    },
+    {
+        "id": 180,
+        "question": [
+            "Quel artiste nigérian est l’auteur de « Golibe » :"
+        ],
+        "answer": [
+            [
+                "Flavour"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 127
+    },
+    {
+        "id": 181,
+        "question": [
+            "Comment appelle-t-on la salle où l’on chante les opéras"
+        ],
+        "answer": [
+            [
+                "Opera"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 128
+    },
+    {
+        "id": 182,
+        "question": [
+            "Quel est la date exacte de la mort de Victorine AGBATO ?"
+        ],
+        "answer": [
+            [
+                "15 Février 2022"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 129
+    },
+    {
+        "id": 183,
+        "question": [
+            "Quel est le vrai nom de Nel Oliver?"
+        ],
+        "answer": [
+            [
+                "AHOUNOU Olivier"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 130
+    },
+    {
+        "id": 184,
+        "question": [
+            "Comment appelle-t-on une petite formation de 5 à 8 musiciens ?"
+        ],
+        "answer": [
+            [
+                "Combo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 131
+    },
+    {
+        "id": 185,
+        "question": [
+            "Quelle vedette née au Jamaïque révolutionna le monde de la la musique populaire ?"
+        ],
+        "answer": [
+            [
+                "Bob Marley"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 132
+    },
+    {
+        "id": 186,
+        "question": [
+            "De combien de membres est composé le groupe « les frères GUEDEHOUNGUE » ?"
+        ],
+        "answer": [
+            [
+                "5 membres"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 133
+    },
+    {
+        "id": 187,
+        "question": [
+            "A quel artiste associé vous le titre (lire en anglais) titanium ?"
+        ],
+        "answer": [
+            [
+                "David guetta"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 134
+    },
+    {
+        "id": 188,
+        "question": [
+            "A quel artiste doit-on le morceau « tu seras élevée » ?"
+        ],
+        "answer": [
+            [
+                "DJ kerozen"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 135
+    },
+    {
+        "id": 189,
+        "question": [
+            "Quel est le vrai nom de Asalfo?"
+        ],
+        "answer": [
+            [
+                "Salif Traoré"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 136
+    },
+    {
+        "id": 190,
+        "question": [
+            "Quel était le vrai nom du batteur des Beatles, Ringo Starr? R. :"
+        ],
+        "answer": [
+            [
+                "Richard STARKEY"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 137
+    },
+    {
+        "id": 191,
+        "question": [
+            "Quel compositeur d’origine russe est mort à New York en 1971?"
+        ],
+        "answer": [
+            [
+                "Igor F. STRAVINSKI"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 138
+    },
+    {
+        "id": 192,
+        "question": [
+            "Quel allemand a composé Ainsi parlait Zarathoustra en 1896?"
+        ],
+        "answer": [
+            [
+                "Richard STRAUSS"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 139
+    },
+    {
+        "id": 193,
+        "question": [
+            "Comment se nomme la muse de la musique?"
+        ],
+        "answer": [
+            [
+                "Euterpe"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 140
+    },
+    {
+        "id": 194,
+        "question": [
+            "De quel pays nous provient la rumba?"
+        ],
+        "answer": [
+            [
+                "Cuba"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 141
+    },
+    {
+        "id": 195,
+        "question": [
+            "Quelle chanteuse française a popularisé, avec les Compagnes de la Chanson, le célèbre air Les Trois Cloches ?"
+        ],
+        "answer": [
+            [
+                "Edith Piaf"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 142
+    },
+    {
+        "id": 196,
+        "question": [
+            "A qui devons-nous la chanson de titre gbèmadoyormin?"
+        ],
+        "answer": [
+            [
+                "Zomadokorkpon"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 143
+    },
+    {
+        "id": 197,
+        "question": [
+            "Qui a chanté (à lire en anglais) Falling to pièces ?"
+        ],
+        "answer": [
+            [
+                "Rita Ora"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 144
+    },
+    {
+        "id": 198,
+        "question": [
+            "Comment appelle-t-on la musique que pratiquait la grande vedette béninoise feu Stanislas Tohon ?"
+        ],
+        "answer": [
+            [
+                "Tchink système"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 145
+    },
+    {
+        "id": 199,
+        "question": [
+            "Quel est le rythme de musique dont le nom est utilisé pour la première fois dans le San Francisco bulletin le 6 mars 1913 ?"
+        ],
+        "answer": [
+            [
+                "Jazz"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 146
+    },
+    {
+        "id": 200,
+        "question": [
+            "Des quatre membres des Beatles, lequel était le plus âgé ? R. :"
+        ],
+        "answer": [
+            [
+                "Ringo STARR"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 147
+    },
+    {
+        "id": 201,
+        "question": [
+            "Quel écrivain, musicien et compositeur eut des pseudonymes tels que Hugo Hachebuisson, Transcendant Satrape, Bison Ravi et Vernon Sullivan ?"
+        ],
+        "answer": [
+            [
+                "Boris Vian"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 148
+    },
+    {
+        "id": 202,
+        "question": [
+            "Quel instrument possédé par tous fait la renommée de José Carrera, Placido Domingo et Luciano Pavarotti ?"
+        ],
+        "answer": [
+            [
+                "Cordes vocales"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 149
+    },
+    {
+        "id": 203,
+        "question": [
+            "Quelle chanteuse française fut surnommée « La muse de Saint-Germain-des-Prés » et s’est fait grandement connaître en chantant Queneau et Sartre ?"
+        ],
+        "answer": [
+            [
+                "Juliette Gréco"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 150
+    },
+    {
+        "id": 204,
+        "question": [
+            "Dans quelle ville est né Jacques Brel ?"
+        ],
+        "answer": [
+            [
+                "Bruxelles"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 151
+    },
+    {
+        "id": 205,
+        "question": [
+            "Quel album qui n’est pas une compilation est le plus vendu de tous les temps en Amérique du Nord ?"
+        ],
+        "answer": [
+            [
+                "« Thriller » de Michael Jackson"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 152
+    },
+    {
+        "id": 206,
+        "question": [
+            "Quelle artiste de la chanson béninoise est morte le 2 Février 2009?"
+        ],
+        "answer": [
+            [
+                "Love Affo"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 153
+    },
+    {
+        "id": 207,
+        "question": [
+            "Qui était considéré comme le roi de la Pop? R. :"
+        ],
+        "answer": [
+            [
+                "Michael Jackson"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 154
+    },
+    {
+        "id": 208,
+        "question": [
+            "De quel pays est originaire le reggae ? R. :"
+        ],
+        "answer": [
+            [
+                "Jamaïque"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 155
+    },
+    {
+        "id": 209,
+        "question": [
+            "Quelle est la nationalité de Céline Dion R. :"
+        ],
+        "answer": [
+            [
+                "Canadienne"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 156
+    },
+    {
+        "id": 210,
+        "question": [
+            "Quel groupe a fait connaitre Beyoncé? R. :"
+        ],
+        "answer": [
+            [
+                "Destiny’s child"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 157
+    },
+    {
+        "id": 211,
+        "question": [
+            "Quel artiste de la musique béninoise a pour vrai nom Richard Cakpo ?"
+        ],
+        "answer": [
+            [
+                "Richard Flash"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 158
+    },
+    {
+        "id": 212,
+        "question": [
+            "Cet impressioniste français, qui avait Fauré comme professeur, nous a laissé plusieurs chefs-d'oeuvre, dont l'orchestration des Tableaux d'une exposition de Moussorgsky ?"
+        ],
+        "answer": [
+            [
+                "Maurice RAVEL"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 159
+    },
+    {
+        "id": 213,
+        "question": [
+            "De quel instrument jouait le jazzman dont Boris Vian fait l'éloge dans L'écume des jours?"
+        ],
+        "answer": [
+            [
+                "Piano (il s'agit de Duke Ellington)"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 160
+    },
+    {
+        "id": 214,
+        "question": [
+            "Chanteuse et actrice selon la police, elle se serait suicidée le matin du 5 août 1962."
+        ],
+        "answer": [
+            [
+                "Monroe (Marilyn)"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 161
+    },
+    {
+        "id": 215,
+        "question": [
+            "De quelle origine est Demis Roussos?"
+        ],
+        "answer": [
+            [
+                "grecque"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 162
+    },
+    {
+        "id": 216,
+        "question": [
+            "Quel instrument de musique s'appela buccin jusqu'au 19e siècle ?"
+        ],
+        "answer": [
+            [
+                "Le trombone"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 163
+    },
+    {
+        "id": 217,
+        "question": [
+            "Quelle danse, très entraînante et rythmée, est originaire des petites Antilles ?"
+        ],
+        "answer": [
+            [
+                "le Zouk"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 164
+    },
+    {
+        "id": 218,
+        "question": [
+            "Qui a composé la Marche funèbre ?"
+        ],
+        "answer": [
+            [
+                "Frédéric Chopin"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 165
+    },
+    {
+        "id": 219,
+        "question": [
+            "Quel nom porte l’unique opéra du grand Beethoven?"
+        ],
+        "answer": [
+            [
+                "Fidelio"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 166
+    },
+    {
+        "id": 220,
+        "question": [
+            "Quel trompettiste fut le véritable initiateur du jazz classique?"
+        ],
+        "answer": [
+            [
+                "Armstrong, Louis"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 167
+    },
+    {
+        "id": 221,
+        "question": [
+            "Quel rappeur, qui interprète un détenu dans le film L'assaut du poste 13, chante la populaire chanson Always on Time?"
+        ],
+        "answer": [
+            [
+                "Ja Rule"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 168
+    },
+    {
+        "id": 222,
+        "question": [
+            "Combien de simples Elvis Presley a-t-il eu au numéro 1 du Billboard américain durant sa carrière?"
+        ],
+        "answer": [
+            [
+                "32"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 169
+    },
+    {
+        "id": 223,
+        "question": [
+            "Quel compositeur allemand créa l'opéra Le vaisseau fantôme?"
+        ],
+        "answer": [
+            [
+                "Wagner, Richard"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 170
+    },
+    {
+        "id": 224,
+        "question": [
+            "Ces une composition instrumentale pour un ou plusieurs solistes et orchestre ?"
+        ],
+        "answer": [
+            [
+                "concerto"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 171
+    },
+    {
+        "id": 225,
+        "question": [
+            "Sous quel nom fut plus tard connu le groupe qui eut comme premier nom les « Quarryman »?"
+        ],
+        "answer": [
+            [
+                "les « Beatles »"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 172
+    },
+    {
+        "id": 226,
+        "question": [
+            "Avant d’être populaire, dans quelle ville allemande jouaient les Beatles?"
+        ],
+        "answer": [
+            [
+                "Hambourg"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 173
+    },
+    {
+        "id": 227,
+        "question": [
+            "Quel chanteur a été témoin du génocide au Rwanda et a perdu la plupart des membres de sa famille?"
+        ],
+        "answer": [
+            [
+                "Corneille"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 174
+    },
+    {
+        "id": 228,
+        "question": [
+            "Quelle célèbre chanteuse de jazz afro-américaine est décédée le 15 juin 1996, à l’âge de 79 ans?"
+        ],
+        "answer": [
+            [
+                "Ella Fitzgerald"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 175
+    },
+    {
+        "id": 229,
+        "question": [
+            "Au départ, combien de membres comptaient les Beatles?"
+        ],
+        "answer": [
+            [
+                "5"
+            ]
+        ],
+        "subThematic": "Musique",
+        "times": 176
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 ]
