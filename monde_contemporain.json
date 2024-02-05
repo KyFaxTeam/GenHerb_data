@@ -310,5 +310,99 @@
         ],
         "subThematic": "Astronomie",
         "times": 21
+    },
+    {
+        "id": 25,
+        "question": [
+            "En 1971, quel Allemand, alors professeur d’économie à l’Université de Genève, fonde le Forum Économique Mondial de Davos ?"
+        ],
+        "answer": [
+            [
+                "Klaus M. Schwab"
+            ]
+        ],
+        "subThematic": "Économie",
+        "times": 34
+    },
+    {
+        "id": 26,
+        "question": [
+            "En quelle année Hassan II, roi du Maroc, décède-t-il le 23 Juillet, entrainant l'intronisation de Mohamed VI le 30 Juillet ?"
+        ],
+        "answer": [
+            [
+                "1999"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 29
+    },
+    {
+        "id": 27,
+        "question": [
+            "À quelle date exacte fut assassiné à Kinshasa, Laurent-Désiré Kabila, président de la RDC ?"
+        ],
+        "answer": [
+            [
+                "16 Janvier 2001"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 37
+    },
+    {
+        "id": 28,
+        "question": [
+            "Série de violentes émeutes et manifestations politiques de militants kabyles dans la région algérienne de Kabylie en 2001, qui ont été accueillies par des mesures policières répressives et sont devenues un puissant symbole du mécontentement kabyle face au gouvernement national."
+        ],
+        "answer": [
+            [
+                "Le printemps noir"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 40
+    },
+    {
+        "id": 29,
+        "question": [
+            "Né le 16 avril 1955 à Betzdorf au Luxembourg, c'est le souverain constitutionnel du Grand-Duché de Luxembourg depuis l'abdication de son père en 2000, le grand-duc Jean."
+        ],
+        "answer": [
+            [
+                "Le grand-duc Henri de Luxembourg"
+            ]
+        ],
+        "subThematic": "Personnalités",
+        "times": 37
+    },
+    {
+        "id": 30,
+        "question": [
+            "Cardinal français, originaire du Pays basque, archevêque de Marseille de 1970 à 1985, avant d'être appelé à Rome par le pape Jean-Paul II. Il fut vice doyen du collège cardinalice, en remplacement du cardinal Gantin, entre 2005 et 2017."
+        ],
+        "answer": [
+            [
+                "Roger Marie Élie Etchegaray"
+            ]
+        ],
+        "subThematic": "Religion",
+        "times": 40
+    },
+    {
+        "id": 31,
+        "question": [
+            "Quelle ville devait organiser les JO d'été en 1916 finalement annulés ?"
+        ],
+        "answer": [
+            [
+                "Berlin"
+            ]
+        ],
+        "subThematic": "Sport",
+        "times": 26
     }
+
+    
+    
 ]

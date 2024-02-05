@@ -102,5 +102,673 @@
         ],
         "subThematic": "Rivières",
         "times": 20
+    },
+    {
+        "id": 9,
+        "question": [
+            "Qui fonda la ville de Las Vegas en 1855?"
+        ],
+        "answer": [
+            [
+                "Les Mormons"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 29
+    },
+    {
+        "id": 10,
+        "question": [
+            "Quel est le plus grand lac africain ?"
+        ],
+        "answer": [
+            [
+                "Lac Victoria"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 25
+    },
+    {
+        "id": 11,
+        "question": [
+            "Dans quelle ville espagnole se trouve le palais de l'Alhambra ?"
+        ],
+        "answer": [
+            [
+                "Grenade"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 33
+    },
+    {
+        "id": 12,
+        "question": [
+            "Où se trouve le Tombeau de Mausole, dit le Mausolée, qui fait partie de l’une des 7 Merveilles du monde ?"
+        ],
+        "answer": [
+            [
+                "Halicarnasse"
+            ]
+        ],
+        "subThematic": "Archéologie",
+        "times": 38
+    },
+    {
+        "id": 13,
+        "question": [
+            "Quelle est la deuxième plus grande montagne de l’Afrique, après le Kilimanjaro ?"
+        ],
+        "answer": [
+            [
+                "Mont-Kenya"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 35
+    },
+    {
+        "id": 14,
+        "question": [
+            "Donnez le nom et prénom du président actuel de l’Ukraine."
+        ],
+        "answer": [
+            [
+                "Victor Ianoukovitch"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 28
+    },
+    {
+        "id": 15,
+        "question": [
+            "Quels soldats étaient surnommés les Tommies pendant la première Guerre Mondiale ?"
+        ],
+        "answer": [
+            [
+                "Anglais"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 30
+    },
+    {
+        "id": 16,
+        "question": [
+            "Le 10 septembre 2002, quel pays européen adhéra à l'Organisation des Nations Unies (ONU) ?"
+        ],
+        "answer": [
+            [
+                "Suisse"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 32
+    },
+    {
+        "id": 17,
+        "question": [
+            "Le 12 mars 1999, la Pologne, la Hongrie et la République tchèque sont admises dans quelle organisation internationale ?"
+        ],
+        "answer": [
+            [
+                "OTAN"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 36
+    },
+    {
+        "id": 18,
+        "question": [
+            "Proche de quelle ville Saddam Hussein fut-il capturé en décembre 2003?"
+        ],
+        "answer": [
+            [
+                "Tikrit"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 31
+    },
+    {
+        "id": 19,
+        "question": [
+            "Voie d'eau artificielle creusée à travers l'isthme de Corinthe, en Grèce, pour relier le golfe de Corinthe, dans la mer Ionienne, à l'ouest, au golfe Saronique, dans la mer Égée, à l'est."
+        ],
+        "answer": [
+            [
+                "Le canal de Corinthe"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 34
+    },
+    {
+        "id": 20,
+        "question": [
+            "Passage maritime reliant la mer Égée à la mer de Marmara qui fut l'objet d'une bataille opposant les troupes de la Triple-Entente, qui débarquèrent pour attaquer la Triple-Alliance, dite « Triplice »."
+        ],
+        "answer": [
+            [
+                "Le détroit des Dardanelles"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 27
+    },
+    {
+        "id": 21,
+        "question": [
+            "Quelle étendue d'eau est située dans l'actuelle république du Soudan du Sud, au nord du vaste marais du Sudd à la confluence des rivières Bahr el-Jabal et Bahr el-Ghazal ?"
+        ],
+        "answer": [
+            [
+                "Le Lac No"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 32
+    },
+    {
+        "id": 22,
+        "question": [
+            "Stratovolcan de la vallée du Grand Rift situé en République démocratique du Congo. Il est localisé dans les montagnes des Virunga à une vingtaine de kilomètres au nord de la ville de Goma et du lac Kivu et à l'ouest de la frontière du Rwanda."
+        ],
+        "answer": [
+            [
+                "Le Nyiragongo"
+            ]
+        ],
+        "subThematic": "Géologie",
+        "times": 40
+    },
+    {
+        "id": 23,
+        "question": [
+            "Fleuve d’Afrique australe, le 4e fleuve du continent par la longueur, après le Nil, le Congo et le Niger."
+        ],
+        "answer": [
+            [
+                "Le Zambèze"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 29
+    },
+    {
+        "id": 24,
+        "question": [
+            "En astronomie, lente oscillation, réelle ou apparente, d'un satellite tel que vu à partir du corps céleste autour duquel il orbite. Utilisé seul, ce terme fait généralement référence aux mouvements apparents de la Lune relativement à la Terre, qui peuvent être comparés aux oscillations des deux plateaux d'une balance autour du point d'équilibre."
+        ],
+        "answer": [
+            [
+                "La libration"
+            ]
+        ],
+        "subThematic": "Astronomie",
+        "times": 37
+    },
+    {
+        "id": 25,
+        "question": [
+            "Dans quel pays eut lieu la révolution orange, série de manifestations politiques à la suite de la proclamation le 21 novembre 2004 du résultat du deuxième tour de l'élection présidentielle."
+        ],
+        "answer": [
+            [
+                "Ukraine"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 32
+    },
+    {
+        "id": 26,
+        "question": [
+            "Haut de 8586m, sommet de l'Himalaya, sur la frontière indo-népalaise, à l'est du Népal, entre le district de Taplejung et l'État indien du Sikkim où il peut être vu notamment de la capitale Gangtok."
+        ],
+        "answer": [
+            [
+                "Kangchenjunga"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 41
+    },
+    {
+        "id": 27,
+        "question": [
+            "Quel cité-Etat placé sous la protection de la SDN entre 1919 et 1939 est devenu l’actuelle ville de Gdansk en Pologne ?"
+        ],
+        "answer": [
+            [
+                "Ville libre de Dantzig"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 31
+    },
+    {
+        "id": 28,
+        "question": [
+            "Situé entre les bassins des fleuves Zambèze et Orange, quel désert couvre une large partie du Botswana et s’étend vers la Namibie et l’Afrique du Sud sur 900 000 km² environ ?"
+        ],
+        "answer": [
+            [
+                "Le Kalahari"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 36
+    },
+    {
+        "id": 29,
+        "question": [
+            "Quel était le nom du Botswana lorsqu’il était sous protectorat britannique ?"
+        ],
+        "answer": [
+            [
+                "Bechuanaland"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 28
+    },
+    {
+        "id": 30,
+        "question": [
+            "Dans quel pays se trouvent les villes de Ndola, Kitwe et Livingstone ?"
+        ],
+        "answer": [
+            [
+                "Zambie"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 30
+    },
+    {
+        "id": 31,
+        "question": [
+            "Quel est la plus grande province au Canada ?"
+        ],
+        "answer": [
+            [
+                "Québec"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 23
+    },
+    {
+        "id": 32,
+        "question": [
+            "Par quels pays passent le Nil?"
+        ],
+        "answer": [
+            [
+                "Égypte",
+                "Soudan",
+                "Ouganda"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 28
+    },
+    {
+        "id": 33,
+        "question": [
+            "Nommez les deux états américains dont la première lettre est un T?"
+        ],
+        "answer": [
+            [
+                "Texas",
+                "Tennessee"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 30
+    },
+    {
+        "id": 34,
+        "question": [
+            "Quel pays ne fait pas partie de l’union africaine pour protester contre le statut de membre du Sahara Occidental?"
+        ],
+        "answer": [
+            [
+                "Maroc"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 26
+    },
+    {
+        "id": 35,
+        "question": [
+            "Quelle mer sépare les côtes égyptiennes et africaines des côtes d'Arabie?"
+        ],
+        "answer": [
+            [
+                "La mer rouge"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 31
+    },
+    {
+        "id": 36,
+        "question": [
+            "De quelle république russe Groznyï est-elle la capitale?"
+        ],
+        "answer": [
+            [
+                "Tchétchénie"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 35
+    },
+    {
+        "id": 37,
+        "question": [
+            "Quel pays d'Eurasie possède la plus petite densité mondiale de population en 2001 ?"
+        ],
+        "answer": [
+            [
+                "Mongolie (1 hab./km2)"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 37
+    },
+    {
+        "id": 38,
+        "question": [
+            "Dans quelle île antillaise est située la ville de Pointe-à-Pitre ?"
+        ],
+        "answer": [
+            [
+                "Guadeloupe"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 30
+    },
+    {
+        "id": 39,
+        "question": [
+            "Dans quel pays est située la ville de Carthage?"
+        ],
+        "answer": [
+            [
+                "Tunisie"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 28
+    },
+    {
+        "id": 40,
+        "question": [
+            "Dans quelle île culmine le pico Duarte, la plus haute montagne des Antilles ?"
+        ],
+        "answer": [
+            [
+                "Hispaniola"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 35
+    },
+    {
+        "id": 41,
+        "question": [
+            "Quel lieu touristique de France renferme le tombeau de Napoléon Bonaparte?"
+        ],
+        "answer": [
+            [
+                "Le dôme des Invalides",
+                "Les Invalides"
+            ]
+        ],
+        "subThematic": "Tourisme",
+        "times": 32
+    },
+    {
+        "id": 42,
+        "question": [
+            "Aux douanes, vous faites une mauvaise plaisanterie sur le terrorisme et on vous escorte dans un lieu « paradisiaque » sur l'ile de Cuba, fondée à l'époque pour accueillir les français fuyant Haïti."
+        ],
+        "answer": [
+            [
+                "Guantanamo"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 39
+    },
+    {
+        "id": 43,
+        "question": [
+            "Qui a découvert l’océan Pacifique après avoir traversé l’Amérique centrale à pied en 1513?"
+        ],
+        "answer": [
+            [
+                "Vasco DE BALBOA"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 40
+    },
+    {
+        "id": 44,
+        "question": [
+            "À quel pays associez-vous le volcan Tambora?"
+        ],
+        "answer": [
+            [
+                "Indonésie"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 28
+    },
+    {
+        "id": 45,
+        "question": [
+            "Cape Saint Mary est l’extrémité ouest de quel pays enclavé dans le Sénégal?"
+        ],
+        "answer": [
+            [
+                "Gambie"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 31
+    },
+    {
+        "id": 46,
+        "question": [
+            "Les Bellifontains sont les habitants de quelle ville française ?"
+        ],
+        "answer": [
+            [
+                "Fontainebleau"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 27
+    },
+    {
+        "id": 47,
+        "question": [
+            "À quelle ville européenne associez-vous le Palais des Académies et la statuette du Manneken Piss?"
+        ],
+        "answer": [
+            [
+                "Bruxelles"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 38
+    },
+    {
+        "id": 48,
+        "question": [
+            "Quelle est la troisième ville la plus populeuse de France?"
+        ],
+        "answer": [
+            [
+                "Lyon"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 29
+    },
+    {
+        "id": 49,
+        "question": [
+            "Quelle ville, fondée par Potemkine en 1783, devint le principal port de guerre de la mer Noire et fut le siège principal de la guerre de Crimée"
+        ],
+        "answer": [
+            [
+                "Sebastopol"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 34
+    },
+    {
+        "id": 50,
+        "question": [
+            "Quels trois pays formaient l'Indochine?"
+        ],
+        "answer": [
+            [
+                "Cambodge",
+                "Laos",
+                "Viet-Nâm"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 33
+    },
+    {
+        "id": 51,
+        "question": [
+            "Quel désert californien est situé au Sud de la vallée de la Mort?"
+        ],
+        "answer": [
+            [
+                "Mojave",
+                "Mohave"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 31
+    },
+    {
+        "id": 52,
+        "question": [
+            "Ce pays est situé entre le Tchad, le Soudan, la République démocratique du Congo (Zaïre), la République du Congo et le Cameroun."
+        ],
+        "answer": [
+            [
+                "République Centrafricaine"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 38
+    },
+    {
+        "id": 53,
+        "question": [
+            "Springfield est la capitale de quel état américain ?"
+        ],
+        "answer": [
+            [
+                "Illinois"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 29
+    },
+    {
+        "id": 54,
+        "question": [
+            "Quelle est la capitale la plus élevée du monde?"
+        ],
+        "answer": [
+            [
+                "La Paz (Bolivie)"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 34
+    },
+    {
+        "id": 55,
+        "question": [
+            "La péninsule du Sinaï est située dans quel pays?"
+        ],
+        "answer": [
+            [
+                "Égypte"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 29
+    },
+    {
+        "id": 56,
+        "question": [
+            "Quel petit pays est situé entre la France et l’Espagne?"
+        ],
+        "answer": [
+            [
+                "Andorre"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 32
+    },
+    {
+        "id": 57,
+        "question": [
+            "Quel est le terminus oriental du chemin de fer transsibérien?"
+        ],
+        "answer": [
+            [
+                "Vladivostok"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 37
+    },
+    {
+        "id": 58,
+        "question": [
+            "Quel pays possède le seul drapeau uni ?"
+        ],
+        "answer": [
+            [
+                "Libye"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 26
     }
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
 ]
