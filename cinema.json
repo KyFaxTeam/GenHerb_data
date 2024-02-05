@@ -597,5 +597,1896 @@
         ],
         "subThematic": "Records de ventes de films",
         "times": 61
+    },
+    {
+        "id": 47,
+        "question": [
+            "Dans le film La vie est belle de MWEZE NGANGURA et de BENOIT LAMY, qui relate les aventures d’un jeune qui veut devenir musicien, qui a joué le rôle principal ?"
+        ],
+        "answer": [
+            [
+                "PAPA WEMBA"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 25
+    },
+    {
+        "id": 48,
+        "question": [
+            "Quel est le vrai nom de Harry Potter ?"
+        ],
+        "answer": [
+            [
+                "DANIEL RADCLIFFE"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 22
+    },
+    {
+        "id": 49,
+        "question": [
+            "Quel est le vrai nom de l’acteur béninois Prince YADJO ?"
+        ],
+        "answer": [
+            [
+                "Iréné TOMETIN"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 24
+    },
+    {
+        "id": 50,
+        "question": [
+            "Quel écrivain béninois a écrit la pièce théâtrale : La bataille du trône ?"
+        ],
+        "answer": [
+            [
+                "APPOLINAIRE AGBAZAOU"
+            ]
+        ],
+        "subThematic": "Théâtre",
+        "times": 23
+    },
+    {
+        "id": 51,
+        "question": [
+            "Qui a obtenu la Palme d’Or à Cannes en 2009 pour son film le ruban blanc?"
+        ],
+        "answer": [
+            [
+                "Michael Haneke"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 29
+    },
+    {
+        "id": 52,
+        "question": [
+            "Quel acteur conduit le « Taxi » produit par Luc Besson en 1998, 2000 et 2003?"
+        ],
+        "answer": [
+            [
+                "Samir Naceri"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 27
+    },
+    {
+        "id": 53,
+        "question": [
+            "Actrice ayant joué dans Entretien avec un Vampire, Petit soldat et The Virgin Suicide."
+        ],
+        "answer": [
+            [
+                "Kirsten Dunst"
+            ]
+        ],
+        "subThematic": "Actrices",
+        "times": 26
+    },
+    {
+        "id": 54,
+        "question": [
+            "Quel don possède Christophe Lambert dans le film « Highlander »?"
+        ],
+        "answer": [
+            [
+                "Il est immortel"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 24
+    },
+    {
+        "id": 55,
+        "question": [
+            "Francis Ford Coppola est l’oncle d’un célèbre acteur, acteur qui a été le mari de Patricia Arquette et Lisa Marie Presley, qui est-il?"
+        ],
+        "answer": [
+            [
+                "Nicholas Cage",
+                "Nicholas Kim Coppola"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 31
+    },
+    {
+        "id": 56,
+        "question": [
+            "Donnez le nom complet de ce réalisateur à qui l’on doit des films sur Nixon, John F. Kennedy et peut-être bientôt George W. Bush."
+        ],
+        "answer": [
+            [
+                "Oliver Stone"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 27
+    },
+    {
+        "id": 57,
+        "question": [
+            "Devenant le premier acteur de race noire à remporter l’Oscar du meilleur acteur, pour quelle année cinématographique (à trois ans près) Sidney Poitier a-t-il remporté cet honneur?"
+        ],
+        "answer": [
+            [
+                "1963"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 25
+    },
+    {
+        "id": 58,
+        "question": [
+            "Ce film de Barry Levinson, réalisé en 1988, met en scène un vendeur d’automobiles et son frère autiste."
+        ],
+        "answer": [
+            [
+                "Rain Man"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 26
+    },
+    {
+        "id": 59,
+        "question": [
+            "À quel réalisateur américain, né en 1963, peut-on associer les films Four Rooms, Jackie Brown et Deathproof?"
+        ],
+        "answer": [
+            [
+                "Quentin Tarantino"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 29
+    },
+    {
+        "id": 60,
+        "question": [
+            "Quel film a remporté l’Oscar du meilleur film pour l’année 2006?"
+        ],
+        "answer": [
+            [
+                "Infiltré",
+                "The Departed"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 28
+    },
+    {
+        "id": 61,
+        "question": [
+            "Elle a reçu le prix d’interprétation féminine, à Cannes, pour son rôle dans le film de James Ivory « Quartet »."
+        ],
+        "answer": [
+            [
+                "Isabelle ADJANI"
+            ]
+        ],
+        "subThematic": "Actrices",
+        "times": 32
+    },
+    {
+        "id": 62,
+        "question": [
+            "Tom Hanks a reçu l’Oscar du meilleur acteur pour ce film en 1993?"
+        ],
+        "answer": [
+            [
+                "Philadelphia"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 27
+    },
+    {
+        "id": 63,
+        "question": [
+            "Quel film s'est vu attribuer en l'an 2000 la Palme d'or au festival de Cannes?"
+        ],
+        "answer": [
+            [
+                "Dancer in the Dark"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 28
+    },
+    {
+        "id": 64,
+        "question": [
+            "Quel artiste a collaboré étroitement avec Luis Bunuel dans la production des films Un chien andalou et L’Âge d’or?"
+        ],
+        "answer": [
+            [
+                "Salvador Dali"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 29
+    },
+    {
+        "id": 65,
+        "question": [
+            "La fille de quel grand cinéaste scénarisa le film Les vierges suicidées?"
+        ],
+        "answer": [
+            [
+                "Sofia Coppola"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 30
+    },
+    {
+        "id": 66,
+        "question": [
+            "Réalisateur japonais de films d'animation, né le 29 octobre 1935 à Ise. Il est le cofondateur du studio Ghibli avec Hayao Miyazaki et sa notoriété en Occident vient principalement de son film Le Tombeau des lucioles, sorti en 1988. Il meurt le 5 avril 2018 à Tokyo."
+        ],
+        "answer": [
+            [
+                "Isao Takahata"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 38
+    },
+    {
+        "id": 67,
+        "question": [
+            "Quel film américain de John Madden sorti en 1998 remporta l'Oscar du meilleur film en 1999 récompensant entre autres David Parfitt, Harvey Weinstein et Marc Norman pour la production ?"
+        ],
+        "answer": [
+            [
+                "Shakespeare in Love"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 35
+    },
+    {
+        "id": 68,
+        "question": [
+            "Quel réalisatrice et scénariste algérienne remporte l'étalon d'argent au FESPACO 2013 avec son film Téma, devenant ainsi la première femme à se voir décerner un Étalon depuis la création des récompenses en 1972."
+        ],
+        "answer": [
+            [
+                "Djamila Sahraoui"
+            ]
+        ],
+        "subThematic": "Réalisateurs",
+        "times": 32
+    },
+    {
+        "id": 69,
+        "question": [
+            "Pour son jubilé d'Or, à quelle édition du FESPACO serons-nous en 2019 ?"
+        ],
+        "answer": [
+            [
+                "26e édition"
+            ]
+        ],
+        "subThematic": "Festivals de Cinéma",
+        "times": 27
+    },
+    {
+        "id": 70,
+        "question": [
+            "Quel film réalisé par Hugh Hudson et racontant une histoire d'amitié et de rivalité entre deux champions britanniques participant aux Jeux de Paris de 1924, a reçu en 1982 quatre oscars dont celui du meilleur scénario original ?"
+        ],
+        "answer": [
+            [
+                "Les Chariots de feu"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 31
+    },
+    {
+        "id": 71,
+        "question": [
+            "Quelle actrice française, née le 9 août 1976, ayant remporté le césar de l'espoir féminin en 2000, a joué le rôle-titre dans Le fabuleux destin d'Amélie Poulain sorti en 2001 ?"
+        ],
+        "answer": [
+            [
+                "Audrey Tautou"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 28
+    },
+    {
+        "id": 72,
+        "question": [
+            "Quel film dramatique hongrois coécrit et réalisé par László Nemes, sorti en 2015 remporte le Grand prix au Festival de Cannes 2015 et est récompensé par l'Oscar du meilleur film en langue étrangère à la 88e cérémonie des Oscars en 2016 ?"
+        ],
+        "answer": [
+            [
+                "Le Fils de Saul (Saul fia)"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 35
+    },
+    {
+        "id": 73,
+        "question": [
+            "Avec un mélange inédit des ressources de la farce et de la grande comédie en vers, quelle comédie de Molière en cinq actes est créée au théâtre du Palais-Royal le 26 décembre 1662 avec des personnages comme Arnolphe alias M. de la Souche; Agnès; Horace et Alain ?"
+        ],
+        "answer": [
+            [
+                "L’École des femmes"
+            ]
+        ],
+        "subThematic": "Théâtre",
+        "times": 36
+    },
+    {
+        "id": 74,
+        "question": [
+            "Récompensé par l’Oscar de la meilleure actrice en 1978 pour son rôle dans le film Annie Hall de Woody Allen, quelle actrice américaine interprète Kay Adams, la petite amie et deuxième épouse d’Al Pacino dans Le Parrain en 1972 ?"
+        ],
+        "answer": [
+            [
+                "Diana Keaton"
+            ]
+        ],
+        "subThematic": "Actrices",
+        "times": 34
+    },
+    {
+        "id": 75,
+        "question": [
+            "À quel réalisateur soviétique devons-nous les films : Ivan le terrible, La ligne générale, Le Cuirassé « Potemkine » ?"
+        ],
+        "answer": [
+            [
+                "Serguei Eisenstein"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 30
+    },
+    {
+        "id": 76,
+        "question": [
+            "Dans quel opéra de Verdi retrouve-t-on les personnages suivants : le duc de Mantoue, Gilda, Sparafucile, Matteo Borsa ?"
+        ],
+        "answer": [
+            [
+                "Rigoletto"
+            ]
+        ],
+        "subThematic": "Opéra",
+        "times": 28
+    },
+    {
+        "id": 77,
+        "question": [
+            "Avec Audrey Hepburn, Gregory Peck et Eddie Albert dans les principaux rôles, quelle comédie romantique de William Wyler sortie en 1953 et racontant l’amour impossible entre une princesse et un journaliste a reçu 3 Oscars du cinéma en 1954 ?"
+        ],
+        "answer": [
+            [
+                "Vacances romaines"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 35
+    },
+    {
+        "id": 78,
+        "question": [
+            "Comment appelle-t-on la récompense cinématographique décernée aux meilleurs films français ?"
+        ],
+        "answer": [
+            [
+                "Prix César"
+            ]
+        ],
+        "subThematic": "Récompenses Cinématographiques",
+        "times": 26
+    },
+    {
+        "id": 79,
+        "question": [
+            "Comment appelle-t-on la récompense cinématographique décernée aux meilleurs films américains ?"
+        ],
+        "answer": [
+            [
+                "Prix Oscars"
+            ]
+        ],
+        "subThematic": "Récompenses Cinématographiques",
+        "times": 28
+    },
+    {
+        "id": 80,
+        "question": [
+            "Qui est le réalisateur du film béninois Djibiti ?"
+        ],
+        "answer": [
+            [
+                "Prince OGOUDJOBI"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 24
+    },
+    {
+        "id": 81,
+        "question": [
+            "Quel est le vrai nom d’Eléphant mouillé ?"
+        ],
+        "answer": [
+            [
+                "Pierre ZINKO"
+            ]
+        ],
+        "subThematic": "Personnalités",
+        "times": 23
+    },
+    {
+        "id": 82,
+        "question": [
+            "Quel est le nom de la réalisatrice du film Barbie Land sorti en 2023 ?"
+        ],
+        "answer": [
+            [
+                "Greta Gerwig"
+            ]
+        ],
+        "subThematic": "Réalisateurs et Réalisatrices",
+        "times": 32
+    },
+    {
+        "id": 83,
+        "question": [
+            "Dans quelle série jeunesse sortie sur Disney Channel découvre-t-on en 2010 l’actrice, chanteuse et danseuse Zendaya ?"
+        ],
+        "answer": [
+            [
+                "Shake it up"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 32
+    },
+    {
+        "id": 84,
+        "question": [
+            "En quelle année est sorti le premier film de la série de films Saw ?"
+        ],
+        "answer": [
+            [
+                "2004"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 27
+    },
+    {
+        "id": 85,
+        "question": [
+            "Quel acteur, mort en 2023, a joué un des rôles principaux dans la série Friends ?"
+        ],
+        "answer": [
+            [
+                "Matthew Perry"
+            ]
+        ],
+        "subThematic": "Acteurs et Actrices",
+        "times": 31
+    },
+    {
+        "id": 86,
+        "question": [
+            "Quels sont les trois acteurs qui ont incarné le personnage de Spider-Man ?"
+        ],
+        "answer": [
+            [
+                "Tobey Maguire",
+                "Andrew Garfield",
+                "Tom Holland"
+            ]
+        ],
+        "subThematic": "Acteurs et Superhéros",
+        "times": 35
+    },
+    {
+        "id": 87,
+        "question": [
+            "Quel est l’autre nom de la bande dessinée 12e ART ?"
+        ],
+        "answer": [
+            [
+                "Les 12 travaux d'Astérix"
+            ]
+        ],
+        "subThematic": "Bandes Dessinées",
+        "times": 30
+    },
+    {
+        "id": 88,
+        "question": [
+            "Quelles récompenses cinématographiques décerne-t-on aux meilleures productions américaines ?"
+        ],
+        "answer": [
+            [
+                "Les Oscars"
+            ]
+        ],
+        "subThematic": "Récompenses Cinématographiques",
+        "times": 27
+    },
+    {
+        "id": 89,
+        "question": [
+            "Quel célèbre acteur américain a été gouverneur de la Californie ?"
+        ],
+        "answer": [
+            [
+                "Arnold Schwarzenegger"
+            ]
+        ],
+        "subThematic": "Acteurs et Politique",
+        "times": 26
+    },
+    {
+        "id": 90,
+        "question": [
+            "À quelle série américaine associez-vous Michael Scofield et Theodore Bagwell ?"
+        ],
+        "answer": [
+            [
+                "Prison Break"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 32
+    },
+    {
+        "id": 91,
+        "question": [
+            "Quel nom donne-t-on au festival international de cinéma du Bénin ?"
+        ],
+        "answer": [
+            [
+                "La Quintessence"
+            ]
+        ],
+        "subThematic": "Festivals de Cinéma",
+        "times": 30
+    },
+    {
+        "id": 92,
+        "question": [
+            "Quelle est la devise de la Quintessence ?"
+        ],
+        "answer": [
+            [
+                "La culture sans ma culture m’acculture"
+            ]
+        ],
+        "subThematic": "Festivals de Cinéma",
+        "times": 36
+    },
+    {
+        "id": 93,
+        "question": [
+            "Si Hollywood est associé aux USA, quel terme est typique du cinéma nigérian ?"
+        ],
+        "answer": [
+            [
+                "Nollywood"
+            ]
+        ],
+        "subThematic": "Cinéma Africain",
+        "times": 28
+    },
+    {
+        "id": 94,
+        "question": [
+            "Quelle distinction cinématographique est l’équivalent de l’Oscar en France ?"
+        ],
+        "answer": [
+            [
+                "César"
+            ]
+        ],
+        "subThematic": "Récompenses Cinématographiques",
+        "times": 27
+    },
+    {
+        "id": 95,
+        "question": [
+            "Quel célèbre rappeur américain est l’acteur principal du film Like Mike ?"
+        ],
+        "answer": [
+            [
+                "Lil Bow Wow"
+            ]
+        ],
+        "subThematic": "Acteurs et Musiciens",
+        "times": 32
+    },
+    {
+        "id": 96,
+        "question": [
+            "À quelle série ivoirienne associez-vous les personnages comme Delta, Gohou, Bohiri ?"
+        ],
+        "answer": [
+            [
+                "Ma Famille"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 30
+    },
+    {
+        "id": 97,
+        "question": [
+            "Quel est le nom de la série ivoirienne qui passe actuellement sur Canal+ et qui relate la vie des microbes ?"
+        ],
+        "answer": [
+            [
+                "Invisible"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 28
+    },
+    {
+        "id": 98,
+        "question": [
+            "Qu’était Merlin ? Un homme politique, un footballeur ou un sorcier"
+        ],
+        "answer": [
+            [
+                "Un sorcier"
+            ]
+        ],
+        "subThematic": "Personnalités",
+        "times": 25
+    },
+    {
+        "id": 99,
+        "question": [
+            "Quel est la position ou le numéro de la chaîne Novelas sur Canal+ ?"
+        ],
+        "answer": [
+            [
+                "23"
+            ]
+        ],
+        "subThematic": "Télévision",
+        "times": 22
+    },
+    {
+        "id": 100,
+        "question": [
+            "Quelle est la nationalité du célèbre acteur de films d’action Jet Li ?"
+        ],
+        "answer": [
+            [
+                "Chinoise"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 25
+    },
+    {
+        "id": 101,
+        "question": [
+            "Qui est le réalisateur du film béninois Djibiti : Prince Ogoudjobi ?"
+        ],
+        "answer": [
+            [
+                "Prince Ogoudjobi"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 30
+    },
+    {
+        "id": 102,
+        "question": [
+            "Quel est le vrai nom du comédien béninois de Dragomir : Brice Dragomir ?"
+        ],
+        "answer": [
+            [
+                "Brice Dragomir"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 32
+    },
+    {
+        "id": 103,
+        "question": [
+            "Qui est l’acteur principal de la série Prison Break : Michael Scofield ?"
+        ],
+        "answer": [
+            [
+                "Michael Scofield"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 28
+    },
+    {
+        "id": 104,
+        "question": [
+            "Qui est l’acteur principal de la série 24 chrono : Jacques Bauer ?"
+        ],
+        "answer": [
+            [
+                "Jacques Bauer"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 30
+    },
+    {
+        "id": 105,
+        "question": [
+            "Quel est le vrai nom de Pipi Wobaho ?"
+        ],
+        "answer": [
+            [
+                "Simplice Behanzin"
+            ]
+        ],
+        "subThematic": "Personnalités",
+        "times": 29
+    },
+    {
+        "id": 106,
+        "question": [
+            "Quel est le vrai nom de Transporter ?"
+        ],
+        "answer": [
+            [
+                "Jason Statham"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 27
+    },
+    {
+        "id": 107,
+        "question": [
+            "Quelle est la position de la chaîne Novelas sur Canal+ ?"
+        ],
+        "answer": [
+            [
+                "33"
+            ]
+        ],
+        "subThematic": "Télévision",
+        "times": 24
+    },
+    {
+        "id": 108,
+        "question": [
+            "Quel nom donne-t-on à l’industrie cinématographique du Nigeria ?"
+        ],
+        "answer": [
+            [
+                "Nollywood"
+            ]
+        ],
+        "subThematic": "Cinéma Africain",
+        "times": 28
+    },
+    {
+        "id": 109,
+        "question": [
+            "Définissez le sigle FITHEB"
+        ],
+        "answer": [
+            [
+                "Festival International de Théâtre du Bénin"
+            ]
+        ],
+        "subThematic": "Festivals de Théâtre",
+        "times": 38
+    },
+    {
+        "id": 110,
+        "question": [
+            "Quel célèbre acteur américain est l’acteur principal du film Coach Carter ?"
+        ],
+        "answer": [
+            [
+                "Samuel L. Jackson"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 33
+    },
+    {
+        "id": 111,
+        "question": [
+            "Quel est le nom de la série ivoirienne qui a passé sur Canal+ et qui relate la vie des microbes ?"
+        ],
+        "answer": [
+            [
+                "Invisible"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 28
+    },
+    {
+        "id": 112,
+        "question": [
+            "Qu’était Merlin ? Un homme politique, un footballeur ou un sorcier"
+        ],
+        "answer": [
+            [
+                "Un sorcier"
+            ]
+        ],
+        "subThematic": "Personnalités",
+        "times": 25
+    },
+    {
+        "id": 113,
+        "question": [
+            "Qui est le réalisateur du film \"In the Mood for Love\" ?"
+        ],
+        "answer": [
+            [
+                "Wong Kar-wai"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 34
+    },
+    {
+        "id": 114,
+        "question": [
+            "Combien de fois Brad Pitt a-t-il été élu \"homme le plus sexy du monde\" ?"
+        ],
+        "answer": [
+            [
+                "02 fois"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 28
+    },
+    {
+        "id": 115,
+        "question": [
+            "Quel est le nom de scène de Bruce Lee ?"
+        ],
+        "answer": [
+            [
+                "Lee Jun-fan"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 24
+    },
+    {
+        "id": 116,
+        "question": [
+            "Quel film de SF sorti en 2006 et réalisé par Alfonso Cuarón met en scène une femme qui tombe enceinte dans un monde où les humains n'arrivent plus à se reproduire depuis une vingtaine d'années ?"
+        ],
+        "answer": [
+            [
+                "Les Fils de l'Homme"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 40
+    },
+    {
+        "id": 117,
+        "question": [
+            "Quel acteur joue à la fois dans les films L'Arme fatale 4, Roméo doit mourir en 2000 ou encore Le Baiser mortel du dragon (2001) ?"
+        ],
+        "answer": [
+            [
+                "Jet Li (Li Lian Jie)"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 35
+    },
+    {
+        "id": 118,
+        "question": [
+            "Acteur et producteur indien familièrement appelé SRK détenteur de huit trophées du meilleur acteur aux Filmfare Awards, considéré comme les Oscars indiens ?"
+        ],
+        "answer": [
+            [
+                "Shahrukh Khan (Shah Rukh Khan)"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 40
+    },
+    {
+        "id": 119,
+        "question": [
+            "Quel acteur double le Chat Potté dans le film d'animation 'Le Chat Potté 2: La Dernière Quête' ?"
+        ],
+        "answer": [
+            [
+                "Antonio Banderas"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 40
+    },
+    {
+        "id": 120,
+        "question": [
+            "Quel acteur interprète Rocket Raccoon dans les films 'Gardiens de la Galaxie' ?"
+        ],
+        "answer": [
+            [
+                "Bradley Cooper"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 38
+    },
+    {
+        "id": 121,
+        "question": [
+            "Quel acteur double Mario dans le film d'animation 'Super Mario Bros' ?"
+        ],
+        "answer": [
+            [
+                "Chris Pratt"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 32
+    },
+    {
+        "id": 122,
+        "question": [
+            "Quel acteur double Spider-Man Noir, le Spider-Détective, dans le film 'Spider-Man: Into the Spider-Verse' ?"
+        ],
+        "answer": [
+            [
+                "Nicolas Cage"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 42
+    },
+    {
+        "id": 123,
+        "question": [
+            "Quelle est cette doubleuse derrière les voix françaises de Goku (Dragon Ball) mais aussi des dessins animés Oui-Oui, Bouba… ?"
+        ],
+        "answer": [
+            [
+                "Brigitte Lecordier"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 36
+    },
+    {
+        "id": 124,
+        "question": [
+            "Sur quel livre de George R.R. Martin est basée la série 'Game of Thrones' ?"
+        ],
+        "answer": [
+            [
+                "The Song of Ice and Fire"
+            ]
+        ],
+        "subThematic": "Livres adaptés en Séries",
+        "times": 42
+    },
+    {
+        "id": 125,
+        "question": [
+            "Quelle série parue en 2021 met en scène des personnes du jeu de League of Legends ?"
+        ],
+        "answer": [
+            [
+                "Arcane"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 30
+    },
+    {
+        "id": 126,
+        "question": [
+            "Dans quelle série basée sur un jeu vidéo du même nom peut-on suivre les aventures d'un adulte (Joel) et d'une adolescente (Ellie) parcourant un monde post-apocalyptique ravagé par un virus champignon ?"
+        ],
+        "answer": [
+            [
+                "The Last of Us"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 48
+    },
+    {
+        "id": 127,
+        "question": [
+            "Quelle série détient le record de la série la plus longue avec 15,762 épisodes et 56 saisons diffusées de 1952 à 2009 sur la chaîne américaine CBS, soit 57 ans d'existence ?"
+        ],
+        "answer": [
+            [
+                "Haine et Passion (Guiding Light en version originale)"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 56
+    },
+    {
+        "id": 128,
+        "question": [
+            "Quelle série nous fait suivre la vie de quatre nerds Leonard, Sheldon, Howard et Raj dont le quotidien bascule à l'arrivée de la belle Penny, leur voisine de palier ?"
+        ],
+        "answer": [
+            [
+                "The Big Bang Theory"
+            ]
+        ],
+        "subThematic": "Séries TV",
+        "times": 45
+    },
+    {
+        "id": 129,
+        "question": [
+            "Quel célèbre comédien béninois s’est éteint dans la nuit du 02 au 03 octobre 2009 ?"
+        ],
+        "answer": [
+            [
+                "Ange Marie Badou alias Dah Badou"
+            ]
+        ],
+        "subThematic": "Personnalités du Cinéma",
+        "times": 42
+    },
+    {
+        "id": 130,
+        "question": [
+            "En quelle année a été créée la Fédération Panafricaine des Cinéastes ?"
+        ],
+        "answer": [
+            [
+                "1969"
+            ]
+        ],
+        "subThematic": "Histoire du Cinéma",
+        "times": 26
+    },
+    {
+        "id": 131,
+        "question": [
+            "Qui est l’acteur principal de la Telenovela 'Mara, une femme unique' ?"
+        ],
+        "answer": [
+            [
+                "Ana Sofia"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 33
+    },
+    {
+        "id": 132,
+        "question": [
+            "Que signifie FEPACI ?"
+        ],
+        "answer": [
+            [
+                "Fédération Panafricaine des Cinéastes"
+            ]
+        ],
+        "subThematic": "Sigles et Acronymes",
+        "times": 22
+    },
+    {
+        "id": 133,
+        "question": [
+            "Quel est le vrai nom du comédien Dah Badou ?"
+        ],
+        "answer": [
+            [
+                "Ange Marie Badou"
+            ]
+        ],
+        "subThematic": "Personnalités du Cinéma",
+        "times": 27
+    },
+    {
+        "id": 134,
+        "question": [
+            "Quelle chaîne de Canal Plus diffuse les séries africaines ou les Afronovelas ?"
+        ],
+        "answer": [
+            [
+                "A+"
+            ]
+        ],
+        "subThematic": "Chaînes de Télévision",
+        "times": 24
+    },
+    {
+        "id": 135,
+        "question": [
+            "Quel est le vrai nom de l’actrice espagnole qui a incarné le rôle de Tokyo dans La Casa del Papel ?"
+        ],
+        "answer": [
+            [
+                "Ursula Corbero"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 32
+    },
+    {
+        "id": 136,
+        "question": [
+            "Qui est le réalisateur de 'Black Panther' ?"
+        ],
+        "answer": [
+            [
+                "Ryan Coogler"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 27
+    },
+    {
+        "id": 137,
+        "question": [
+            "Quel cinéaste américain d’origine éthiopienne réalise en 1976 « La moisson de 3000 ans » ?"
+        ],
+        "answer": [
+            [
+                "Haile Gerima"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 40
+    },
+    {
+        "id": 138,
+        "question": [
+            "Quel prix décerne-t-on dans le festival de bandes dessinées ?"
+        ],
+        "answer": [
+            [
+                "Antigone d’Or"
+            ]
+        ],
+        "subThematic": "Festivals",
+        "times": 30
+    },
+    {
+        "id": 139,
+        "question": [
+            "Quel objet est venu bouleverser la vie d’un petit village de bushmen dans le film « Les dieux sont tombés sur la tête » de Jamie Uys ?"
+        ],
+        "answer": [
+            [
+                "Une bouteille de Coca-Cola"
+            ]
+        ],
+        "subThematic": "Cinéma",
+        "times": 55
+    },
+    {
+        "id": 140,
+        "question": [
+            "Qui est le réalisateur de la trilogie « Le Seigneur des Anneaux » ?"
+        ],
+        "answer": [
+            [
+                "Peter Jackson"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 30
+    },
+    {
+        "id": 141,
+        "question": [
+            "Quel film de Sylvestre Amoussou se situe en 2033 dans les États-Unis d’Afrique ?"
+        ],
+        "answer": [
+            [
+                "Africa Paradis"
+            ]
+        ],
+        "subThematic": "Films Africains",
+        "times": 42
+    },
+    {
+        "id": 142,
+        "question": [
+            "Quel est le titre original du film d’Abderrahmane Sissako « En attendant le bonheur » ?"
+        ],
+        "answer": [
+            [
+                "Heremakono"
+            ]
+        ],
+        "subThematic": "Titres de Films",
+        "times": 34
+    },
+    {
+        "id": 143,
+        "question": [
+            "Qui est la première réalisatrice d’Afrique Noire ?"
+        ],
+        "answer": [
+            [
+                "Safi Faye"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 28
+    },
+    {
+        "id": 144,
+        "question": [
+            "Quel cinéaste tchadien a réalisé « Bye Bye Africa » ?"
+        ],
+        "answer": [
+            [
+                "Mahamat Haroun Saleh"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 32
+    },
+    {
+        "id": 145,
+        "question": [
+            "Qui a incarné le personnage Nakia dans 'Black Panther' ?"
+        ],
+        "answer": [
+            [
+                "Lupita Nyong’o"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 35
+    },
+    {
+        "id": 146,
+        "question": [
+            "Quel est le vrai nom de l’acteur ayant joué le rôle de Tyrion Lannister dans 'Game of Thrones' ?"
+        ],
+        "answer": [
+            [
+                "Peter Dinklage"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 40
+    },
+    {
+        "id": 147,
+        "question": [
+            "Quel film béninois fait intervenir l’expression « Les États-Unis d’Afrique » ?"
+        ],
+        "answer": [
+            [
+                "Avitikpamba"
+            ]
+        ],
+        "subThematic": "Films Béninois",
+        "times": 38
+    },
+    {
+        "id": 148,
+        "question": [
+            "Quel film sorti en 1999 est réalisé par Idrissa Ouedraogo où sa mère joue le rôle d’une vieille dame rejetée par tout le village ?"
+        ],
+        "answer": [
+            [
+                "Yaaba"
+            ]
+        ],
+        "subThematic": "Films Africains",
+        "times": 45
+    },
+    {
+        "id": 149,
+        "question": [
+            "Quel est le vrai nom de l’acteur de '24H chrono' ayant joué le rôle de Jack Bauer ?"
+        ],
+        "answer": [
+            [
+                "Kieffer Sutherland"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 37
+    },
+    {
+        "id": 150,
+        "question": [
+            "Quel écrivain béninois est l’auteur de la pièce de théâtre 'La Bataille du Trône' ?"
+        ],
+        "answer": [
+            [
+                "Apollinaire Agbazou"
+            ]
+        ],
+        "subThematic": "Écrivains Béninois",
+        "times": 42
+    },
+    {
+        "id": 151,
+        "question": [
+            "Quel est le nom de l’acteur béninois connu sous le nom d'Oncle Bazar ?"
+        ],
+        "answer": [
+            [
+                "Amoussou Jean-Paul"
+            ]
+        ],
+        "subThematic": "Acteurs Béninois",
+        "times": 33
+    },
+    {
+        "id": 152,
+        "question": [
+            "Quel film de Sylvestre Amoussou se situe en 2033 dans les États-Unis d’Afrique ?"
+        ],
+        "answer": [
+            [
+                "Africa Paradis"
+            ]
+        ],
+        "subThematic": "Films Africains",
+        "times": 45
+    },
+    {
+        "id": 153,
+        "question": [
+            "Quel est le titre original du film d’Abderrahmane Sissako 'En attendant le bonheur' ?"
+        ],
+        "answer": [
+            [
+                "Heremakono"
+            ]
+        ],
+        "subThematic": "Titres de Films",
+        "times": 40
+    },
+    {
+        "id": 154,
+        "question": [
+            "Qui est la première réalisatrice d’Afrique Noire ?"
+        ],
+        "answer": [
+            [
+                "Safi Faye"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 35
+    },
+    {
+        "id": 155,
+        "question": [
+            "Quel cinéaste tchadien a réalisé 'Bye Bye Africa' ?"
+        ],
+        "answer": [
+            [
+                "Mahamat Haroun Saleh"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 38
+    },
+    {
+        "id": 156,
+        "question": [
+            "Quel nom donne-t-on à l’industrie cinématographique du Nigéria ?"
+        ],
+        "answer": [
+            [
+                "Nollywood"
+            ]
+        ],
+        "subThematic": "Industrie Cinématographique",
+        "times": 34
+    },
+    {
+        "id": 157,
+        "question": [
+            "Quel est le nom de la série ivoirienne qui a passé sur Canal+ et qui relate la vie des microbes ?"
+        ],
+        "answer": [
+            [
+                "Invisible"
+            ]
+        ],
+        "subThematic": "Séries Ivoiriennes",
+        "times": 38
+    },
+    {
+        "id": 158,
+        "question": [
+            "Qui est le réalisateur du film béninois 'Djibiti' ?"
+        ],
+        "answer": [
+            [
+                "Prince Ogoudjobi"
+            ]
+        ],
+        "subThematic": "Réalisateur",
+        "times": 30
+    },
+    {
+        "id": 159,
+        "question": [
+            "Comment appelle-t-on la récompense cinématographique décernée aux meilleurs films français ?"
+        ],
+        "answer": [
+            [
+                "Prix César"
+            ]
+        ],
+        "subThematic": "Récompenses Cinématographiques",
+        "times": 38
+    },
+    {
+        "id": 160,
+        "question": [
+            "Quel est le plus ancien festival de cinéma?"
+        ],
+        "answer": [
+            [
+                "Le festival de Venise (1932)"
+            ]
+        ],
+        "subThematic": "Festivals de Cinéma",
+        "times": 29
+    },
+    {
+        "id": 161,
+        "question": [
+            "Qui interprète à l’écran le super héros Hancock ?"
+        ],
+        "answer": [
+            [
+                "Will Smith"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 25
+    },
+    {
+        "id": 162,
+        "question": [
+            "Qui a pour vrai nom, Nicholas Kim Coppola?"
+        ],
+        "answer": [
+            [
+                "Nicolas Cage"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 27
+    },
+    {
+        "id": 163,
+        "question": [
+            "Qui réalisa le film \"Un Tramway nommé désir\"?"
+        ],
+        "answer": [
+            [
+                "Elia Kazan"
+            ]
+        ],
+        "subThematic": "Réalisateurs",
+        "times": 31
+    },
+    {
+        "id": 164,
+        "question": [
+            "Lorsqu’il est furieux, en quoi se transforme le Docteur David Banner ?"
+        ],
+        "answer": [
+            [
+                "L’incroyable Hulk"
+            ]
+        ],
+        "subThematic": "Super-héros",
+        "times": 36
+    },
+    {
+        "id": 165,
+        "question": [
+            "Qui interprète James Bond dans Diamonds Are Forever?"
+        ],
+        "answer": [
+            [
+                "Sean Connery"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 32
+    },
+    {
+        "id": 166,
+        "question": [
+            "Qui est le réalisateur du film Titanic?"
+        ],
+        "answer": [
+            [
+                "James Cameron"
+            ]
+        ],
+        "subThematic": "Réalisateurs",
+        "times": 28
+    },
+    {
+        "id": 167,
+        "question": [
+            "Quel acteur américain est mort le 28 août 2020 à Los Angeles?"
+        ],
+        "answer": [
+            [
+                "Chadwick Boseman"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 33
+    },
+    {
+        "id": 168,
+        "question": [
+            "Comment appelle-t-on l'industrie cinématographique hindoue inspirée de Hollywood?"
+        ],
+        "answer": [
+            [
+                "Bollywood"
+            ]
+        ],
+        "subThematic": "Industrie Cinématographique",
+        "times": 37
+    },
+    {
+        "id": 169,
+        "question": [
+            "Quel est le vrai nom de l'acteur béninois Oncle Bazar?"
+        ],
+        "answer": [
+            [
+                "Amoussou Jean-Paul"
+            ]
+        ],
+        "subThematic": "Acteurs Béninois",
+        "times": 29
+    },
+    {
+        "id": 170,
+        "question": [
+            "Quel acteur incarne dans la saga « Pirates des Caraïbes », le capitaine Jack Sparrow?"
+        ],
+        "answer": [
+            [
+                "Johnny Depp"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 36
+    },
+    {
+        "id": 171,
+        "question": [
+            "Quel film a reçu en 2010 l’Oscar du meilleur film ?"
+        ],
+        "answer": [
+            [
+                "Démineurs"
+            ]
+        ],
+        "subThematic": "Films",
+        "times": 30
+    },
+    {
+        "id": 172,
+        "question": [
+            "Qui a reçu en 2010 le César de la meilleure actrice pour son rôle dans le film « La journée de la jupe »?"
+        ],
+        "answer": [
+            [
+                "Isabelle Adjani"
+            ]
+        ],
+        "subThematic": "Actrices",
+        "times": 35
+    },
+    {
+        "id": 173,
+        "question": [
+            "Pour son rôle dans quel film, Tahar Rahim a-t-il reçu les Césars des meilleurs espoir et acteur?"
+        ],
+        "answer": [
+            [
+                "Un prophète"
+            ]
+        ],
+        "subThematic": "Films",
+        "times": 38
+    },
+    {
+        "id": 174,
+        "question": [
+            "Que désigne l'acronyme CBS, représentant un important réseau de télévision américain?"
+        ],
+        "answer": [
+            [
+                "Colombia Broadcasting System"
+            ]
+        ],
+        "subThematic": "Télévision",
+        "times": 41
+    },
+    {
+        "id": 175,
+        "question": [
+            "Qui tenait le rôle principal dans le film « Les dix commandements »?"
+        ],
+        "answer": [
+            [
+                "Charlton Heston"
+            ]
+        ],
+        "subThematic": "Acteurs",
+        "times": 37
+    },
+    {
+        "id": 176,
+        "question": "Quel film a reçu en 2010 l’Oscar du meilleur film ?",
+        "answer": [
+            ["Démineurs"]
+        ],
+        "subThematic": "Films",
+        "times": 30
+    },
+    {
+        "id": 177,
+        "question": "Nom sous lequel est mieux connu Peter Parker",
+        "answer": [
+            ["Spiderman"]
+        ],
+        "subThematic": "Personnages de Fiction",
+        "times": 20
+    },
+    {
+        "id": 178,
+        "question": "Pour son rôle dans quel film, Tahar Rahim a-t-il reçu les Césars des meilleurs espoir et acteur?",
+        "answer": [
+            ["Un prophète"]
+        ],
+        "subThematic": "Films",
+        "times": 38
+    },
+    {
+        "id": 179,
+        "question": "Que désigne l'acronyme CBS, représentant un important réseau de télévision américain ?",
+        "answer": [
+            ["Colombia Broadcasting System"]
+        ],
+        "subThematic": "Télévision",
+        "times": 41
+    },
+    {
+        "id": 180,
+        "question": "Qui tenait le rôle principal dans le film « Les dix commandements » ?",
+        "answer": [
+            ["Charlton Heston"]
+        ],
+        "subThematic": "Acteurs",
+        "times": 37
+    },
+    {
+        "id": 181,
+        "question": "En quelle année a-t-on droit à la première projection cinématographique publique réalisée par les frères Lumière?",
+        "answer": [
+            ["1895"]
+        ],
+        "subThematic": "Histoire du Cinéma",
+        "times": 32
+    },
+    {
+        "id": 182,
+        "question": "Ce livre écrit par Lewis Wallace est également le titre d’un film ayant remporté l’oscar du meilleur film en 1959?",
+        "answer": [
+            ["Ben-Hur"]
+        ],
+        "subThematic": "Adaptations Littéraires",
+        "times": 25
+    },
+    {
+        "id": 183,
+        "question": "Quel fut le premier film de Charlie Chaplin ?",
+        "answer": [
+            ["La Ruée vers l’or"]
+        ],
+        "subThematic": "Cinéastes",
+        "times": 29
+    },
+    {
+        "id": 184,
+        "question": "Quelle est la montagne où Frodon doit détruire l’Anneau?",
+        "answer": [
+            ["Montagne du Destin"]
+        ],
+        "subThematic": "Films",
+        "times": 24
+    },
+    {
+        "id": 185,
+        "question": "Par quelle expression définit-on la philosophie du film Le Roi Lion?",
+        "answer": [
+            ["Hakuna Matata"]
+        ],
+        "subThematic": "Films d'Animation",
+        "times": 21
+    },
+    {
+        "id": 186,
+        "question": "Quel lutteur de WWE connaît présentement une bonne carrière comme acteur à Hollywood?",
+        "answer": [
+            ["The Rock"]
+        ],
+        "subThematic": "Acteurs",
+        "times": 22
+    },
+    {
+        "id": 187,
+        "question": "Quel acteur doit jouer Robert Langdon dans l’adaptation cinématographique de Da Vinci code ?",
+        "answer": [
+            ["Tom Hanks"]
+        ],
+        "subThematic": "Acteurs",
+        "times": 27
+    },
+    {
+        "id": 188,
+        "question": "Quel réalisateur a écrit le scénario du film « L’étrange Noël de M. Jack »?",
+        "answer": [
+            ["Tim Burton"]
+        ],
+        "subThematic": "Réalisateurs",
+        "times": 30
+    },
+    {
+        "id": 189,
+        "question": "Quel film de Truffaut est considéré comme étant le film manifeste de la nouvelle vague?",
+        "answer": [
+            ["Les 400 coups"]
+        ],
+        "subThematic": "Cinéastes",
+        "times": 26
+    },
+    {
+        "id": 190,
+        "question": "Dans quelle ville a lieu le festival international d’animation à chaque année?",
+        "answer": [
+            ["Annecy"]
+        ],
+        "subThematic": "Festivals",
+        "times": 28
+    },
+    {
+        "id": 191,
+        "question": "Dans quel film de cape et d’épée sud-américain, Catherine Zeta-Jones interpréta-t-elle Elena de La Vega ?",
+        "answer": [
+            ["Le Masque de Zorro", "La Légende de Zorro"]
+        ],
+        "subThematic": "Films d'Aventure",
+        "times": 25
+    },
+    {
+        "id": 192,
+        "question": "Quel acteur récemment décédé campe le rôle de Bill dans le film Tuer Bill de Quentin Tarantino?",
+        "answer": [
+            ["David Carridine"]
+        ],
+        "subThematic": "Acteurs",
+        "times": 33
+    },
+    {
+        "id": 193,
+        "question": "Qui a réalisé le Parrain?",
+        "answer": [
+            ["Francis Ford Coppola"]
+        ],
+        "subThematic": "Réalisateurs",
+        "times": 35
+    },
+    {
+        "id": 194,
+        "question": "Quel film a consacré la carrière d’Actrice de Brigitte Bardot?",
+        "answer": [
+            ["Et Dieu créa la femme"]
+        ],
+        "subThematic": "Actrices",
+        "times": 32
+    },
+    {
+        "id": 195,
+        "question": "Quel acteur anglais tenait le rôle de l’inspecteur Jacques Clouseau ?",
+        "answer": [
+            ["Peter Sellers"]
+        ],
+        "subThematic": "Acteurs",
+        "times": 29
+    },
+    {
+        "id": 196,
+        "question": "Nommez les trois films qui ont gagné le plus d’oscars et précisez le nombre d’oscars obtenus.",
+        "answer": [
+            ["Ben Hur - 11", "Titanic - 11", "Le Seigneur des Anneaux: Le Retour du Roi - 11"]
+        ],
+        "subThematic": "Oscars",
+        "times": 27
     }
+    
+    
+
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+        
+    
+
+    
+    
+    
+    
 ]
