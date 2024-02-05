@@ -401,7 +401,460 @@
         ],
         "subThematic": "Sport",
         "times": 26
+    },
+    {
+        "id": 32,
+        "question": [
+            "Quel médecin égyptien, bras droit de Ben Laden, lui succéda à sa mort à la tête d’Al-Qaïda ?"
+        ],
+        "answer": [
+            [
+                "Ayman al-Zawahiri"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 38
+    },
+    {
+        "id": 33,
+        "question": [
+            "Quelle Canadienne remporte le prix Nobel de littérature en 2013 ?"
+        ],
+        "answer": [
+            [
+                "Alice Munro"
+            ]
+        ],
+        "subThematic": "Littérature",
+        "times": 32
+    },
+    {
+        "id": 34,
+        "question": [
+            "Quel pionnier américain de l'aviation devient en 1927, le premier pilote à relier, sans escale et en solitaire New York à Paris à bord du Spirit of Saint Louis ?"
+        ],
+        "answer": [
+            [
+                "Charles Lindbergh"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 40
+    },
+    {
+        "id": 35,
+        "question": [
+            "En quelle année eut lieu l’opération Jubilée, un raid sur le port de Dieppe en France occupée ?"
+        ],
+        "answer": [
+            [
+                "1942 (19 août)"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 29
+    },
+    {
+        "id": 36,
+        "question": [
+            "Qui succéda à Ben Gourion à la tête du gouvernement israélien?"
+        ],
+        "answer": [
+            [
+                "Levi Eshkol"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 32
+    },
+    {
+        "id": 37,
+        "question": [
+            "Comment se nomme l’actuel premier ministre palestinien ?"
+        ],
+        "answer": [
+            [
+                "Salam Fayad"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 28
+    },
+    {
+        "id": 38,
+        "question": [
+            "Qui fut nommée au poste de secrétaire d’État lors du départ de Colin Powell?"
+        ],
+        "answer": [
+            [
+                "Condoleezza Rice"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 34
+    },
+    {
+        "id": 39,
+        "question": [
+            "À quelle entreprise associer Rupert Murdoch?"
+        ],
+        "answer": [
+            [
+                "News Corporation"
+            ]
+        ],
+        "subThematic": "Entreprise",
+        "times": 36
+    },
+    {
+        "id": 40,
+        "question": [
+            "En quelle année Saddam Hussein s’empara-t-il du pouvoir en Iraq?"
+        ],
+        "answer": [
+            [
+                "1979"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 29
+    },
+    {
+        "id": 41,
+        "question": [
+            "Nommez 2 des 3 instigateurs de la conférence de Belgrade de 1961, portant sur le non alignement aux superpuissances."
+        ],
+        "answer": [
+            [
+                "Gamal Nasser",
+                "Josip Broz Tito",
+                "Jawaharlal Nehru"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 45
+    },
+    {
+        "id": 42,
+        "question": [
+            "Qui fut le premier président élu démocratiquement de Taiwan ?"
+        ],
+        "answer": [
+            [
+                "Chen Shui-bian"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 32
+    },
+    {
+        "id": 43,
+        "question": [
+            "En octobre 2002, cet homme politique français fut victime d’une attaque à l’arme blanche. Qui est-il ?"
+        ],
+        "answer": [
+            [
+                "Bertrand Delanöe"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 38
+    },
+    {
+        "id": 44,
+        "question": [
+            "Quel pays du Sud-est asiatique se vit octroyer son indépendance en 2002 ?"
+        ],
+        "answer": [
+            [
+                "Timor oriental"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 34
+    },
+    {
+        "id": 45,
+        "question": [
+            "Nom de l’actuel Président italien"
+        ],
+        "answer": [
+            [
+                "Giorgio Napolitano"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 29
+    },
+    {
+        "id": 46,
+        "question": [
+            "Qui fut le premier Premier ministre du Congo ?"
+        ],
+        "answer": [
+            [
+                "Patrice Lumumba"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 34
+    },
+    {
+        "id": 47,
+        "question": [
+            "De quel parti politique Nelson Mandela était-il le chef à son élection en 1994?"
+        ],
+        "answer": [
+            [
+                "ANC (Congrès National Africain)"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 40
+    },
+    {
+        "id": 48,
+        "question": [
+            "Quel pays était dirigé par Haïlé Sélassié aussi appelé le Négus?"
+        ],
+        "answer": [
+            [
+                "Éthiopie"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 26
+    },
+    {
+        "id": 49,
+        "question": [
+            "Quel président français, élu en 1981, meurt en 1996?"
+        ],
+        "answer": [
+            [
+                "François Mitterrand"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 37
+    },
+    {
+        "id": 50,
+        "question": [
+            "Le 20 septembre 2002, quel militaire et ancien président de la Côte d’Ivoire trouva la mort dans l’attaque terroriste contre son pays?"
+        ],
+        "answer": [
+            [
+                "Robert Guéï"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 43
+    },
+    {
+        "id": 51,
+        "question": [
+            "État créé en 1971 par la fusion de neuf riches principautés pétrolières. Il est aujourd’hui connu comme l’un des plus fortunés de la péninsule arabe. Quel est-il?"
+        ],
+        "answer": [
+            [
+                "Émirats Arabes Unis"
+            ]
+        ],
+        "subThematic": "Géographie",
+        "times": 40
+    },
+    {
+        "id": 52,
+        "question": [
+            "Que veut dire l’acronyme SRAS?"
+        ],
+        "answer": [
+            [
+                "Syndrome respiratoire aigu sévère"
+            ]
+        ],
+        "subThematic": "Santé",
+        "times": 34
+    },
+    {
+        "id": 53,
+        "question": [
+            "Ambassadeur à Londres sous Louis-Philippe 1er et traité de « merde dans un bas de soie » par Napoléon Bonaparte, il était ministre des Affaires étrangères sous l’Empire."
+        ],
+        "answer": [
+            [
+                "Talleyrand"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 42
+    },
+    {
+        "id": 54,
+        "question": [
+            "Que fut fondée en 1916 ce qui constitue aujourd’hui la plus grande société de construction aéronautique?"
+        ],
+        "answer": [
+            [
+                "Boeing Company"
+            ]
+        ],
+        "subThematic": "Entreprise",
+        "times": 38
+    },
+    {
+        "id": 55,
+        "question": [
+            "En date du 1er janvier 2004, quels sont les deux derniers pays à avoir joint l’ONU?"
+        ],
+        "answer": [
+            [
+                "La Suisse",
+                "Le Timor oriental"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 45
+    },
+    {
+        "id": 56,
+        "question": [
+            "Suite au départ de Colin Powell au sein de l’administration américaine, qui le remplaça ?"
+        ],
+        "answer": [
+            [
+                "Condoleezza Rice"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 38
+    },
+    {
+        "id": 57,
+        "question": [
+            "Monument parisien conçu par l’architecte danois Otto von Spreckelsen et bâti entre 1985-1989, il abrite la fondation internationale des droits de l’homme."
+        ],
+        "answer": [
+            [
+                "La Grande Arche de la Défense"
+            ]
+        ],
+        "subThematic": "Architecture",
+        "times": 42
+    },
+    {
+        "id": 58,
+        "question": [
+            "Quel événement marquant pour l’Europe et le reste du monde s’est déroulé le 9 novembre 1989 ?"
+        ],
+        "answer": [
+            [
+                "La chute du Mur de Berlin"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 45
+    },
+    {
+        "id": 59,
+        "question": [
+            "Organisation intergouvernementale fondée en 1948 qui encourage la coopération pacifique entre les pays ayant."
+        ],
+        "answer": [
+            [
+                "OEA (Organisation des États américains)"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 34
+    },
+    {
+        "id": 60,
+        "question": [
+            "Comment se nomme la branche armée du Fatah ?"
+        ],
+        "answer": [
+            [
+                "Les Martyrs d’Al-Aqsar"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 28
+    },
+    {
+        "id": 61,
+        "question": [
+            "Qui était l’adversaire principal du président Georges Bush lors des élections présidentielles de 2004?"
+        ],
+        "answer": [
+            [
+                "John Kerry"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 36
+    },
+    {
+        "id": 62,
+        "question": [
+            "Qui est l’actuel président de la République Centrafricaine?"
+        ],
+        "answer": [
+            [
+                "François Bozizé"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 32
+    },
+    {
+        "id": 63,
+        "question": [
+            "Après avoir prêté le serment de Khoufra, quel général français libéra Paris en 1944 avec l’aide de Patton?"
+        ],
+        "answer": [
+            [
+                "Philippe Leclerc (de Hautecloque, si on insiste vraiment)"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 45
+    },
+    {
+        "id": 64,
+        "question": [
+            "Dans quel pays sud-américain le président Tabaré Vázquez a-t-il été récemment élu ?"
+        ],
+        "answer": [
+            [
+                "L’Uruguay"
+            ]
+        ],
+        "subThematic": "Politique",
+        "times": 40
+    },
+    {
+        "id": 65,
+        "question": [
+            "Où eut lieu la tragédie dans une école russe impliquant des terroristes tchétchènes?"
+        ],
+        "answer": [
+            [
+                "À Beslan, en Ossétie du Nord"
+            ]
+        ],
+        "subThematic": "Histoire",
+        "times": 38
     }
+    
+    
+    
+    
+    
+    
+
+    
 
     
     
