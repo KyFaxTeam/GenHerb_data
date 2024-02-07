@@ -1,507 +1,2458 @@
 [
     {
-        "id": 1,
-        "question": [
-            "Que signifie la locution latine : Errare humanum est ?"
-        ],
-        "answer": [
-            [
-                "L’erreur est humaine"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 1,
+      "question": [
+        "Que signifie la locution latine : Errare humanum est ?"
+      ],
+      "answer": [
+        [
+          "L’erreur est humaine"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 2,
-        "question": [
-            "Epeler le mot ORNITHORYNQUE."
-        ],
-        "answer": [
-            [
-                "OrnithORhynque"
-            ]
-        ],
-        "subThematic": "Zoologie",
-        "times": 16
+      "id": 2,
+      "question": [
+        "Epeler le mot ORNITHORYNQUE."
+      ],
+      "answer": [
+        [
+          "OrnithORhynque"
+        ]
+      ],
+      "subThematic": "Zoologie",
+      "times": 45
     },
     {
-        "id": 3,
-        "question": [
-            "Conjuguer le verbe ‘’Dessiner’’ à la première personne du pluriel au subjonctif imparfait"
-        ],
-        "answer": [
-            [
-                "nous dessinassions"
-            ]
-        ],
-        "subThematic": "Grammaire",
-        "times": 16
+      "id": 3,
+      "question": [
+        "Conjuguer le verbe ‘’Dessiner’’ à la première personne du pluriel au subjonctif imparfait"
+      ],
+      "answer": [
+        [
+          "nous dessinassions"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
     },
     {
-        "id": 4,
-        "question": [
-            "Synonyme de Prohiber"
-        ],
-        "answer": [
-            [
-                "Interdire",
-                "Défendre"
-            ]
-        ],
-        "subThematic": "Synonymes",
-        "times": 16
+      "id": 4,
+      "question": [
+        "Synonyme de Prohiber"
+      ],
+      "answer": [
+        [
+          "Interdire",
+          "Défendre"
+        ]
+      ],
+      "subThematic": "Synonymes",
+      "times": 45
     },
     {
-        "id": 5,
-        "question": [
-            "Que signifie le mot nonobstant?"
-        ],
-        "answer": [
-            [
-                "Malgré"
-            ]
-        ],
-        "subThematic": "Synonymes",
-        "times": 16
+      "id": 5,
+      "question": [
+        "Que signifie le mot nonobstant?"
+      ],
+      "answer": [
+        [
+          "Malgré"
+        ]
+      ],
+      "subThematic": "Synonymes",
+      "times": 45
     },
     {
-        "id": 6,
-        "question": [
-            "Epeler le mot ex-aequo :"
-        ],
-        "answer": [
-            [
-                "ex-aequo"
-            ]
-        ],
-        "subThematic": "Orthographe",
-        "times": 16
+      "id": 6,
+      "question": [
+        "Epeler le mot ex-aequo :"
+      ],
+      "answer": [
+        [
+          "ex-aequo"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
     },
     {
-        "id": 7,
-        "question": [
-            "Quelle est le féminin de assasin » ?: Assassine"
-        ],
-        "answer": [
-            [
-                "Assassine"
-            ]
-        ],
-        "subThematic": "Genre des mots",
-        "times": 16
+      "id": 7,
+      "question": [
+        "Quelle est le féminin de assasin » ?: Assassine"
+      ],
+      "answer": [
+        [
+          "Assassine"
+        ]
+      ],
+      "subThematic": "Genre des mots",
+      "times": 45
     },
     {
-        "id": 8,
-        "question": [
-            "Entre batracien et bâtir, lequel a un accent circonflexe sur la lettre a ?: BATIR."
-        ],
-        "answer": [
-            [
-                "BATIR"
-            ]
-        ],
-        "subThematic": "Orthographe",
-        "times": 16
+      "id": 8,
+      "question": [
+        "Entre batracien et bâtir, lequel a un accent circonflexe sur la lettre a ?: BATIR."
+      ],
+      "answer": [
+        [
+          "BATIR"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
     },
     {
-        "id": 9,
-        "question": [
-            "Conjuguer le verbe naitre au passé simple, à la première personne du singulier : je naquis"
-        ],
-        "answer": [
-            [
-                "je naquis"
-            ]
-        ],
-        "subThematic": "Grammaire",
-        "times": 16
+      "id": 9,
+      "question": [
+        "Conjuguer le verbe naitre au passé simple, à la première personne du singulier : je naquis"
+      ],
+      "answer": [
+        [
+          "je naquis"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
     },
     {
-        "id": 10,
-        "question": [
-            "Completer les proverbes : a vaincre sans péril on triomphe sans gloire"
-        ],
-        "answer": [
-            [
-                ""
-            ]
-        ],
-        "subThematic": "Proverbes",
-        "times": 16
+      "id": 10,
+      "question": [
+        "Completer les proverbes : a vaincre sans péril on triomphe sans gloire"
+      ],
+      "answer": [
+        [
+          ""
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
     },
     {
-        "id": 11,
-        "question": [
-            "qu’est-ce que la pantophobie ?"
-        ],
-        "answer": [
-            ""
-        ],
-        "subThematic": "Phobies",
-        "times": 16
+      "id": 11,
+      "question": [
+        "qu’est-ce que la pantophobie ?"
+      ],
+      "answer": [
+        ""
+      ],
+      "subThematic": "Phobies",
+      "times": 45
     },
     {
-        "id": 12,
-        "question": [
-            "que signifie en français « veni,vidi,vici » ?"
-        ],
-        "answer": [
-            ""
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 12,
+      "question": [
+        "que signifie en français « veni,vidi,vici » ?"
+      ],
+      "answer": [
+        ""
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 13,
-        "question": [
-            "que signifie en français « memento mori » ?"
-        ],
-        "answer": [
-            [
-                "Souviens-toi que tu vas mourir"
-            ]
-        ],
-        "subThematic": "Mort",
-        "times": 16
+      "id": 13,
+      "question": [
+        "que signifie en français « memento mori » ?"
+      ],
+      "answer": [
+        [
+          "Souviens-toi que tu vas mourir"
+        ]
+      ],
+      "subThematic": "Mort",
+      "times": 45
     },
     {
-        "id": 14,
-        "question": [
-            "Spécialiste de la microbiologie qui étudie les bactéries"
-        ],
-        "answer": [
-            [
-                "Bactériologiste"
-            ]
-        ],
-        "subThematic": "Biologie",
-        "times": 16
+      "id": 14,
+      "question": [
+        "Spécialiste de la microbiologie qui étudie les bactéries"
+      ],
+      "answer": [
+        [
+          "Bactériologiste"
+        ]
+      ],
+      "subThematic": "Biologie",
+      "times": 45
     },
     {
-        "id": 15,
-        "question": [
-            "Personne qui fabrique ou vend du chocolat"
-        ],
-        "answer": [
-            [
-                "Confiseur",
-                "Chocolatier"
-            ]
-        ],
-        "subThematic": "Confiserie",
-        "times": 16
+      "id": 15,
+      "question": [
+        "Personne qui fabrique ou vend du chocolat"
+      ],
+      "answer": [
+        [
+          "Confiseur",
+          "Chocolatier"
+        ]
+      ],
+      "subThematic": "Confiserie",
+      "times": 45
     },
     {
-        "id": 16,
-        "question": [
-            "Amateur ou collectionneur de disques"
-        ],
-        "answer": [
-            [
-                "Discophile"
-            ]
-        ],
-        "subThematic": "Disque",
-        "times": 16
+      "id": 16,
+      "question": [
+        "Amateur ou collectionneur de disques"
+      ],
+      "answer": [
+        [
+          "Discophile"
+        ]
+      ],
+      "subThematic": "Disque",
+      "times": 45
     },
     {
-        "id": 17,
-        "question": [
-            "Professionnel qui travaille ou vend le diamant"
-        ],
-        "answer": [
-            [
-                "Diamantaire"
-            ]
-        ],
-        "subThematic": "Diamants",
-        "times": 16
+      "id": 17,
+      "question": [
+        "Professionnel qui travaille ou vend le diamant"
+      ],
+      "answer": [
+        [
+          "Diamantaire"
+        ]
+      ],
+      "subThematic": "Diamants",
+      "times": 45
     },
     {
-        "id": 18,
-        "question": [
-            "Epeler le mot COCCYX"
-        ],
-        "answer": [
-            [
-                "Coccyx"
-            ]
-        ],
-        "subThematic": "Squelette",
-        "times": 16
+      "id": 18,
+      "question": [
+        "Epeler le mot COCCYX"
+      ],
+      "answer": [
+        [
+          "Coccyx"
+        ]
+      ],
+      "subThematic": "Squelette",
+      "times": 45
     },
     {
-        "id": 19,
-        "question": [
-            "Conjuguer le verbe « Customiser » a la 2e personne du subjonctif imparfait"
-        ],
-        "answer": [
-            [
-                "que tu customisasses"
-            ]
-        ],
-        "subThematic": "Grammaire",
-        "times": 16
+      "id": 19,
+      "question": [
+        "Conjuguer le verbe « Customiser » a la 2e personne du subjonctif imparfait"
+      ],
+      "answer": [
+        [
+          "que tu customisasses"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
     },
     {
-        "id": 20,
-        "question": [
-            "Expliquer cette locution latine : Age quod agis ?"
-        ],
-        "answer": [
-            [
-                "Fais ce que tu veux"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 20,
+      "question": [
+        "Expliquer cette locution latine : Age quod agis ?"
+      ],
+      "answer": [
+        [
+          "Fais ce que tu veux"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 21,
-        "question": [
-            "Que signifie cette expression latine : « Homo homini lupus » ?"
-        ],
-        "answer": [
-            [
-                "L’homme est un loup pour l’homme"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 21,
+      "question": [
+        "Que signifie cette expression latine : « Homo homini lupus » ?"
+      ],
+      "answer": [
+        [
+          "L’homme est un loup pour l’homme"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 22,
-        "question": [
-            "Epeler le mot dithyrambique"
-        ],
-        "answer": [
-            [
-                "Dithyrambique"
-            ]
-        ],
-        "subThematic": "Orthographe",
-        "times": 16
+      "id": 22,
+      "question": [
+        "Epeler le mot dithyrambique"
+      ],
+      "answer": [
+        [
+          "Dithyrambique"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
     },
     {
-        "id": 23,
-        "question": [
-            "Conjuguer le verbe rire à la 1ere personne du pluriel à l’imparfait du mode subjonctif"
-        ],
-        "answer": [
-            [
-                "que nous rissions"
-            ]
-        ],
-        "subThematic": "Grammaire",
-        "times": 16
+      "id": 23,
+      "question": [
+        "Conjuguer le verbe rire à la 1ere personne du pluriel à l’imparfait du mode subjonctif"
+      ],
+      "answer": [
+        [
+          "que nous rissions"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
     },
     {
-        "id": 24,
-        "question": [
-            "Complétez ce proverbe : « Si jeunesse savait, si vieillesse…… »"
-        ],
-        "answer": [
-            [
-                "pouvait"
-            ]
-        ],
-        "subThematic": "Proverbes",
-        "times": 16
+      "id": 24,
+      "question": [
+        "Complétez ce proverbe : « Si jeunesse savait, si vieillesse…… »"
+      ],
+      "answer": [
+        [
+          "pouvait"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
     },
     {
-        "id": 25,
-        "question": [
-            "Repérer les deux mots qui viennent de l’arabe dans cette phrase : Le café, dans le samovar, est placé sur la table, à côté du sucre."
-        ],
-        "answer": [
-            [
-                "café et sucre"
-            ]
-        ],
-        "subThematic": "Origine des mots",
-        "times": 16
+      "id": 25,
+      "question": [
+        "Repérer les deux mots qui viennent de l’arabe dans cette phrase : Le café, dans le samovar, est placé sur la table, à côté du sucre."
+      ],
+      "answer": [
+        [
+          "café et sucre"
+        ]
+      ],
+      "subThematic": "Origine des mots",
+      "times": 45
     },
     {
-        "id": 26,
-        "question": [
-            "Quelle figure de style est utilisée dans l’expression « Je vis et je meurs»"
-        ],
-        "answer": [
-            [
-                "Antithèse"
-            ]
-        ],
-        "subThematic": "Figures de style",
-        "times": 16
+      "id": 26,
+      "question": [
+        "Quelle figure de style est utilisée dans l’expression « Je vis et je meurs»"
+      ],
+      "answer": [
+        [
+          "Antithèse"
+        ]
+      ],
+      "subThematic": "Figures de style",
+      "times": 45
     },
     {
-        "id": 27,
-        "question": [
-            "Dans quelle région du monde utilise-t-on le mot béké?"
-        ],
-        "answer": [
-            [
-                "Martinique"
-            ]
-        ],
-        "subThematic": "France d'outre-mer",
-        "times": 16
+      "id": 27,
+      "question": [
+        "Dans quelle région du monde utilise-t-on le mot béké?"
+      ],
+      "answer": [
+        [
+          "Martinique"
+        ]
+      ],
+      "subThematic": "France d'outre-mer",
+      "times": 45
     },
     {
-        "id": 28,
-        "question": [
-            "Par quelle figure de style peut-on définir les mots « kayak » et « laval »?"
-        ],
-        "answer": [
-            [
-                "Palindrome"
-            ]
-        ],
-        "subThematic": "Figures de style",
-        "times": 16
+      "id": 28,
+      "question": [
+        "Par quelle figure de style peut-on définir les mots « kayak » et « laval »?"
+      ],
+      "answer": [
+        [
+          "Palindrome"
+        ]
+      ],
+      "subThematic": "Figures de style",
+      "times": 45
     },
     {
-        "id": 29,
-        "question": [
-            "Quelle expression avec le mot comète veut dire faire des plans chimériques ?"
-        ],
-        "answer": [
-            [
-                "Tirer des plans sur la comète"
-            ]
-        ],
-        "subThematic": "Expressions idiomatiques",
-        "times": 16
+      "id": 29,
+      "question": [
+        "Quelle expression avec le mot comète veut dire faire des plans chimériques ?"
+      ],
+      "answer": [
+        [
+          "Tirer des plans sur la comète"
+        ]
+      ],
+      "subThematic": "Expressions idiomatiques",
+      "times": 45
     },
     {
-        "id": 30,
-        "question": [
-            "Quelle expression avec le mot Don sert à qualifier un personnage généreux et idéaliste qui a tendance à confondre réel et imaginaire ?"
-        ],
-        "answer": [
-            [
-                "Don Quichotte"
-            ]
-        ],
-        "subThematic": "Personnages littéraires",
-        "times": 16
+      "id": 30,
+      "question": [
+        "Quelle expression avec le mot Don sert à qualifier un personnage généreux et idéaliste qui a tendance à confondre réel et imaginaire ?"
+      ],
+      "answer": [
+        [
+          "Don Quichotte"
+        ]
+      ],
+      "subThematic": "Personnages littéraires",
+      "times": 45
     },
     {
-        "id": 31,
-        "question": [
-            "Quel proverbe avec le mot chien veut dire qu’on hérite généralement des qualités de sa famille ?"
-        ],
-        "answer": [
-            [
-                "Bon chien chasse de race"
-            ]
-        ],
-        "subThematic": "Proverbes",
-        "times": 16
+      "id": 31,
+      "question": [
+        "Quel proverbe avec le mot chien veut dire qu’on hérite généralement des qualités de sa famille ?"
+      ],
+      "answer": [
+        [
+          "Bon chien chasse de race"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
     },
     {
-        "id": 32,
-        "question": [
-            "Quel proverbe avec le mot charité se dit de celui qui se moque de la misère d’autrui bien qu’il soit lui-même misérable ?"
-        ],
-        "answer": [
-            [
-                "C’est l’hôpital qui se moque de la charité"
-            ]
-        ],
-        "subThematic": "Proverbes",
-        "times": 16
+      "id": 32,
+      "question": [
+        "Quel proverbe avec le mot charité se dit de celui qui se moque de la misère d’autrui bien qu’il soit lui-même misérable ?"
+      ],
+      "answer": [
+        [
+          "C’est l’hôpital qui se moque de la charité"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
     },
     {
-        "id": 33,
-        "question": [
-            "Que signifie en français la phrase tempus fugit ?"
-        ],
-        "answer": [
-            [
-                "Le temps fuit"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 33,
+      "question": [
+        "Que signifie en français la phrase tempus fugit ?"
+      ],
+      "answer": [
+        [
+          "Le temps fuit"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 34,
-        "question": [
-            "Que signifie en français la phrase mens sana in corpore sano ?"
-        ],
-        "answer": [
-            [
-                "Un esprit sain dans un corps sain"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 34,
+      "question": [
+        "Que signifie en français la phrase mens sana in corpore sano ?"
+      ],
+      "answer": [
+        [
+          "Un esprit sain dans un corps sain"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
     },
     {
-        "id": 35,
-        "question": [
-            "Epeler le pluriel du mot javelot"
-        ],
-        "answer": [
-            [
-                "javelots"
-            ]
-        ],
-        "subThematic": "Orthographe",
-        "times": 16
+      "id": 35,
+      "question": [
+        "Epeler le pluriel du mot javelot"
+      ],
+      "answer": [
+        [
+          "javelots"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
     },
     {
-        "id": 36,
-        "question": [
-            "Epeler le verbe tâter à l’imparfait de l’indicatif, troisième personne du pluriel"
-        ],
-        "answer": [
-            [
-                "Tâtaient"
-            ]
-        ],
-        "subThematic": "Grammaire",
-        "times": 16
+      "id": 36,
+      "question": [
+        "Epeler le verbe tâter à l’imparfait de l’indicatif, troisième personne du pluriel"
+      ],
+      "answer": [
+        [
+          "Tâtaient"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
     },
     {
-        "id": 37,
-        "question": [
-            "Qui a écrit ‘Critique de la raison pure’ ?"
-        ],
-        "answer": [
-            [
-                "Emmanuel KANT"
-            ]
-        ],
-        "subThematic": "Personnalités",
-        "times": 16
+      "id": 37,
+      "question": [
+        "Qui a écrit ‘Critique de la raison pure’ ?"
+      ],
+      "answer": [
+        [
+          "Emmanuel KANT"
+        ]
+      ],
+      "subThematic": "Personnalités",
+      "times": 45
     },
     {
-        "id": 38,
-        "question": [
-            "Qui a écrit ‘Le semeur’ ?"
-        ],
-        "answer": [
-            [
-                "Victor HUGO"
-            ]
-        ],
-        "subThematic": "Personnalités",
-        "times": 16
+      "id": 38,
+      "question": [
+        "Qui a écrit ‘Le semeur’ ?"
+      ],
+      "answer": [
+        [
+          "Victor HUGO"
+        ]
+      ],
+      "subThematic": "Personnalités",
+      "times": 45
     },
     {
-        "id": 39,
-        "question": [
-            "Que signifie la locution latine ’Cogito elgo sum’ ?"
-        ],
-        "answer": [
-            [
-                "Je pense donc je suis"
-            ]
-        ],
-        "subThematic": "Latin",
-        "times": 16
+      "id": 39,
+      "question": [
+        "Que signifie la locution latine ’Cogito elgo sum’ ?"
+      ],
+      "answer": [
+        [
+          "Je pense donc je suis"
+        ]
+      ],
+      "subThematic": "Latin",
+      "times": 45
+    },
+    {
+      "id": 40,
+      "question": [
+        "Que signifie le mot nonobstant…"
+      ],
+      "answer": [
+        [
+          "Malgré"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 41,
+      "question": [
+        "Complétez l’expression : « ne réveille pas Poupille. Elle dort comme un »"
+      ],
+      "answer": [
+        [
+          "LOIR"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 42,
+      "question": [
+        "Epeler le mot ex-aequo"
+      ],
+      "answer": [
+        [
+          "E-X-A-E-Q-U-O"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 43,
+      "question": [
+        "Quelle est le féminin de assasin » ?"
+      ],
+      "answer": [
+        [
+          "Assassine"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 44,
+      "question": [
+        "Entre batracien et bâtir, lequel a un accent circonflexe sur la lettre a ?"
+      ],
+      "answer": [
+        [
+          "BATIR"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 45,
+      "question": [
+        "A quel groupe grammatical appartient les mots comme bien très et fort ?"
+      ],
+      "answer": [
+        [
+          "Adverbe"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 46,
+      "question": [
+        "Conjuguez le verbe coudre à la deuxième personne du singulier du passé simple ?"
+      ],
+      "answer": [
+        [
+          "Tu cousis"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 47,
+      "question": [
+        "Comment s’appelle une erreur involontaire qui fait dire à une personne une autre choix que ce qu’il avait prévu dire"
+      ],
+      "answer": [
+        [
+          "Lapsus"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 48,
+      "question": [
+        "Quel est le genre du mot haricot"
+      ],
+      "answer": [
+        [
+          "Masculin"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 49,
+      "question": [
+        "Le Rébus\nLe Joker\nRoman publié en feuilleton dès 1876 dans Le Bien public, puis dans La République des Lettres, avant sa sortie en livre en 1877 chez l'éditeur Georges Charpentier. C'est le septième volume de la série Les Rougon-Macquart. L'ouvrage est totalement consacré au monde ouvrier et, selon Zola, c'est « le premier roman sur le peuple, qui ne mente pas et qui ait l'odeur du peuple »."
+      ],
+      "answer": [
+        [
+          "L’Assommoir"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 50,
+      "question": [
+        "Que signifie la locution latine « desinit in piscem »?"
+      ],
+      "answer": [
+        [
+          "FINIR EN QUEUE DE POISSON"
+        ]
+      ],
+      "subThematic": "Langue latine",
+      "times": 45
+    },
+    {
+      "id": 51,
+      "question": [
+        "Épeler le mot « leucorrhée »."
+      ],
+      "answer": [
+        [
+          "L-E-U-C-O-R-R-H-ÉE"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 52,
+      "question": [
+        "Fable de La Fontaine dans lequel il fait l'apologie de la beauté de la Marquise de Montespan, favorite du Roi, et à laquelle il dédie ce second recueil composé des livres VII à XI."
+      ],
+      "answer": [
+        [
+          "À Madame de Montespan"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 53,
+      "question": [
+        "Dans quelle fable de la Fontaine peut-on retrouver la morale suivante:\nDes malheurs qui sont sortis\nDe la boîte de Pandore,\nCelui qu'à meilleur droit tout l'Univers abhorre,\nC'est la fourbe, à mon avis."
+      ],
+      "answer": [
+        [
+          "Aigle (l'), la Laie, et la Chatte (III, 6)"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 54,
+      "question": [
+        "Dans quelle fable de la Fontaine se trouve la morale suivante :\nSelon que vous serez puissant ou misérable\nLes jugements de Cour vous rendront blanc ou noir"
+      ],
+      "answer": [
+        [
+          "Les animaux malades de la peste"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 55,
+      "question": [
+        "Quelle fable s'adresse à Louis de France, fils de Louis XIV auquel La Fontaine dédicace ce premier recueil contenant les livres I à VI. Elle ouvre le livre I situé en prologue du premier recueil des Fables de La Fontaine (édité pour la première fois en 1668)."
+      ],
+      "answer": [
+        [
+          "À Monseigneur le Dauphin"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 56,
+      "question": [
+        "Conjuguer le verbe naitre au passé simple, à la première personne du singulier"
+      ],
+      "answer": [
+        [
+          "je naquis"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 57,
+      "question": [
+        "Quelle langue a été inventée dans les années 1880 dans le but de créer une langue internationale pour favoriser les échanges et la paix ?"
+      ],
+      "answer": [
+        [
+          "Espéranto"
+        ]
+      ],
+      "subThematic": "Langues du monde",
+      "times": 45
+    },
+    {
+      "id": 58,
+      "question": [
+        "Dans quelle forme d’argot peut-on retrouver des mots tels que meuf, teuf et chébran ?"
+      ],
+      "answer": [
+        [
+          "Verlan"
+        ]
+      ],
+      "subThematic": "Argot",
+      "times": 45
+    },
+    {
+      "id": 59,
+      "question": [
+        "Quel adjectif se rapporte au mot larme?"
+      ],
+      "answer": [
+        [
+          "Lacrymal"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 60,
+      "question": [
+        "Épelez le mot phycoérythrine"
+      ],
+      "answer": [
+        [
+          "PHYCOÉRYTHRINE"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 61,
+      "question": [
+        "De quelle langue nous vient le mot « assassin »?"
+      ],
+      "answer": [
+        [
+          "Arabe"
+        ]
+      ],
+      "subThematic": "Langues du monde",
+      "times": 45
+    },
+    {
+      "id": 62,
+      "question": [
+        "Comment dit-on « Bonne nuit » en italien ?"
+      ],
+      "answer": [
+        [
+          "Buona notte"
+        ]
+      ],
+      "subThematic": "Langue italienne",
+      "times": 45
+    },
+    {
+      "id": 63,
+      "question": [
+        "Épelez le mot « haschisch »."
+      ],
+      "answer": [
+        [
+          "H-A-S-C-H-I-S-C-H"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 64,
+      "question": [
+        "L’espagnol est la langue officielle de l’Espagne ; sous quelle appellation est-il aussi connu ?"
+      ],
+      "answer": [
+        [
+          "Le castillan"
+        ]
+      ],
+      "subThematic": "Langue espagnole",
+      "times": 45
+    },
+    {
+      "id": 65,
+      "question": [
+        "De quelle langue nous vient le mot hamster?"
+      ],
+      "answer": [
+        [
+          "de l’Allemand"
+        ]
+      ],
+      "subThematic": "Langues du monde",
+      "times": 45
+    },
+    {
+      "id": 66,
+      "question": [
+        "Quel est le proverbe qui signifie que le moyen le plus sur de s’enrichir est d’attendre passivement un heureux coup du sort?"
+      ],
+      "answer": [
+        [
+          "« LA FORTUNE VIENT EN DORMANT »"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 67,
+      "question": [
+        "Compléter le proverbe suivant : cousi……………………..COUSA"
+      ],
+      "answer": [
+        [
+          "cousi, cousa"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 68,
+      "question": [
+        "Epeler le groupe de mot « pull-over »………………"
+      ],
+      "answer": [
+        [
+          "P-U-L-L-O-V-E-R"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 69,
+      "question": [
+        "Conjuguer le verbe « se satisfaire » au gérondif : SE SATIFAISANT"
+      ],
+      "answer": [
+        [
+          "SE SATISFAISANT"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 70,
+      "question": [
+        "Quel est le groupe du verbe « satisfaire » : 3ème GROUPE"
+      ],
+      "answer": [
+        [
+          "3ème GROUPE"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 71,
+      "question": [
+        "Completer les proverbes :",
+        "a vaincre sans péril",
+        "R on triomphe sans gloire"
+      ],
+      "answer": [
+        [
+          "a vaincre sans péril",
+          "on triomphe sans gloire"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 72,
+      "question": [
+        "qu’est-ce que la pantophobie ?"
+      ],
+      "answer": [
+        [
+          "La peur de tout"
+        ]
+      ],
+      "subThematic": "Phobies",
+      "times": 45
+    },
+    {
+      "id": 73,
+      "question": [
+        "que signifie en français « veni,vidi,vici » ?"
+      ],
+      "answer": [
+        [
+          "Je suis venu, j’ai vu, j’ai vaincu"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 74,
+      "question": [
+        "Axiome de jurisprudence, en vertu duquel on ne peut être jugé deux fois pour le même délit"
+      ],
+      "answer": [
+        [
+          "Non bis in idem (Non deux fois pour la même chose)"
+        ]
+      ],
+      "subThematic": "Droit",
+      "times": 45
+    },
+    {
+      "id": 75,
+      "question": [
+        "Mots par lesquels les acteurs romains, à la fin d'une comédie sollicitaient les applaudissements du public"
+      ],
+      "answer": [
+        [
+          "Plaudite, cives (Citoyens, applaudissez)"
+        ]
+      ],
+      "subThematic": "Théâtre",
+      "times": 45
+    },
+    {
+      "id": 76,
+      "question": [
+        "Vulnerant omnes, ultima necat. «Toutes blessent, la dernière tue.» De quoi s'agit-il ?"
+      ],
+      "answer": [
+        [
+          "Les Heures"
+        ]
+      ],
+      "subThematic": "Locutions latines",
+      "times": 45
+    },
+    {
+      "id": 77,
+      "question": [
+        "Signifiant 'quoi de nouveau', quelle interrogation familière, deux personnes s'adressent-elles par plaisanterie lorsqu'elles se rencontrent ?"
+      ],
+      "answer": [
+        [
+          "Quid novi ?"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 78,
+      "question": [
+        "Quel mot l’Académie française recommande-t-elle pour désigner l’anglicisme « smiley » ?"
+      ],
+      "answer": [
+        [
+          "Frimousse"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 79,
+      "question": [
+        "De quel verbe est issue la formule « ci git » commençant les inscriptions funéraires et signifiant « ici est enterré » ?"
+      ],
+      "answer": [
+        [
+          "Gésir"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 80,
+      "question": [
+        "Contrat par lequel on donne à quelqu’un la jouissance d’une chose moyennant un prix convenu et pour un temps déterminé, quel est le pluriel de ‘’bail’’ ?"
+      ],
+      "answer": [
+        [
+          "Baux"
+        ]
+      ],
+      "subThematic": "Droit",
+      "times": 45
+    },
+    {
+      "id": 81,
+      "question": [
+        "Quelle est la seule personne de conjugaison possible du verbe « pleuvoir » ?"
+      ],
+      "answer": [
+        [
+          "3e personne du singulier"
+        ]
+      ],
+      "subThematic": "Langue française",
+      "times": 45
+    },
+    {
+      "id": 82,
+      "question": [
+        "Qui a écrit ‘Critique de la raison pure’ ?"
+      ],
+      "answer": [
+        [
+          "Emmanuel KANT"
+        ]
+      ],
+      "subThematic": "Philosophie",
+      "times": 45
+    },
+    {
+      "id": 83,
+      "question": [
+        "Qui a écrit ‘Le semeur’ ?"
+      ],
+      "answer": [
+        [
+          "Victor HUGO"
+        ]
+      ],
+      "subThematic": "Littérature",
+      "times": 45
+    },
+    {
+      "id": 84,
+      "question": [
+        "Que signifie la locution latine ’Cogito elgo sum’ ?"
+      ],
+      "answer": [
+        [
+          "Je pense donc je suis"
+        ]
+      ],
+      "subThematic": "Langues latines",
+      "times": 45
+    },
+    {
+      "id": 85,
+      "question": [
+        "Conjuguez le verbe falloir au subjonctif imparfait"
+      ],
+      "answer": [
+        [
+          "Qu’il fallût"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 86,
+      "question": [
+        "Compléter le proverbe suivant : Qui va lentement"
+      ],
+      "answer": [
+        [
+          "VA SUREMENT"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 87,
+      "question": [
+        "Epeler le mot INEDUCABLE"
+      ],
+      "answer": [
+        [
+          "I-N-E-D-U-C-A-B-L-E"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 88,
+      "question": [
+        "Conjuguer le verbe recevoir à la première personne du pluriel du passé simple de l’indicatif"
+      ],
+      "answer": [
+        [
+          "NOUS RECUMES"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 89,
+      "question": [
+        "Expliquer cette locution latine : E pur si muove"
+      ],
+      "answer": [
+        [
+          "ET POURTANT ELLE TOURNE"
+        ]
+      ],
+      "subThematic": "Langues latines",
+      "times": 45
+    },
+    {
+      "id": 90,
+      "question": [
+        "Compléter le proverbe suivant : qui va loin ?"
+      ],
+      "answer": [
+        [
+          "MENAGE SA MONTURE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 91,
+      "question": [
+        "Epeler mangé dans la phrase suivante : j’ai mangé du riz"
+      ],
+      "answer": [
+        [
+          "Mangé"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 92,
+      "question": [
+        "Epeler le verbe finir à la première personne du subjonctif présent"
+      ],
+      "answer": [
+        [
+          "Que je finisse"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 93,
+      "question": [
+        "Quel est le groupe du verbe manger ?"
+      ],
+      "answer": [
+        [
+          "1er"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 94,
+      "question": [
+        "Epeler le mot providentiellement"
+      ],
+      "answer": [
+        [
+          "Providentiellement"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 95,
+      "question": [
+        "Quelle expression contenant le mot porte veut dire : accéder à une fonction par la voie normale ?"
+      ],
+      "answer": [
+        [
+          "Entrer par la grande porte"
+        ]
+      ],
+      "subThematic": "Expressions françaises",
+      "times": 45
+    },
+    {
+      "id": 96,
+      "question": [
+        "Quelle expression contenant le mot porte veut dire : s’adresser à la personne qualifiée ?"
+      ],
+      "answer": [
+        [
+          "Frapper à la bonne porte"
+        ]
+      ],
+      "subThematic": "Expressions françaises",
+      "times": 45
+    },
+    {
+      "id": 97,
+      "question": [
+        "Quelle expression contenant le mot porte veut dire : s’en aller brutalement, sans prendre congé ?"
+      ],
+      "answer": [
+        [
+          "Prendre la porte"
+        ]
+      ],
+      "subThematic": "Expressions françaises",
+      "times": 45
+    },
+    {
+      "id": 98,
+      "question": [
+        "Compléter le proverbe suivant : qui va loin ?"
+      ],
+      "answer": [
+        [
+          "MENAGE SA MONTURE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 99,
+      "question": [
+        "Epeler mangé dans la phrase suivante : j’ai mangé du riz"
+      ],
+      "answer": [
+        [
+          "Mangé"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 100,
+      "question": [
+        "Epeler le verbe finir à la première personne du subjonctif présent"
+      ],
+      "answer": [
+        [
+          "Que je finisse"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 101,
+      "question": [
+        "Quel est le groupe du verbe manger ?"
+      ],
+      "answer": [
+        [
+          "1er"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 102,
+      "question": [
+        "Le verbe finir est de quel groupe ?"
+      ],
+      "answer": [
+        [
+          "2ème groupe"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 103,
+      "question": [
+        "Conjuguez le verbe naitre à la première personne du présent"
+      ],
+      "answer": [
+        [
+          "je nais"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 104,
+      "question": [
+        "Complétez l’adage suivant « Qui va aller loin ………………………………ménage sa monture »"
+      ],
+      "answer": [
+        [
+          "VA DOUCEMENT"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 105,
+      "question": [
+        "Conjuguez le verbe satisfaire à la première personne du subjonctif présent"
+      ],
+      "answer": [
+        [
+          "Que je satisfasse"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 106,
+      "question": [
+        "Le verbe venir est de quel groupe :"
+      ],
+      "answer": [
+        [
+          "3ème groupe"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 107,
+      "question": [
+        "Conjuguez le verbe vivre à la première personne du conditionnel présent :"
+      ],
+      "answer": [
+        [
+          "je vivrais"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 108,
+      "question": [
+        "Complétez l’adage suivant « Le séjour dans l’eau ne transforme pas ………………………………u tronc d’arbre en crocodile »"
+      ],
+      "answer": [
+        [
+          "LE TRONC D'ARBRE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 109,
+      "question": [
+        "Conjuguez le verbe satisfaire à la première personne du subjonctif présent :"
+      ],
+      "answer": [
+        [
+          "Que je satisfasse"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 110,
+      "question": [
+        "Compléter le proverbe suivant : A père avare ?"
+      ],
+      "answer": [
+        [
+          "FILS PRODIGUE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 111,
+      "question": [
+        "Conjuguer le verbe être à la première personne du subjonctif passé ?"
+      ],
+      "answer": [
+        [
+          "QUE J’AIE ETE"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 112,
+      "question": [
+        "Expliquer cette locution latine : Age quod agis ?"
+      ],
+      "answer": [
+        [
+          "FAIS CE QUE TU VEUX"
+        ]
+      ],
+      "subThematic": "Langue latine",
+      "times": 45
+    },
+    {
+      "id": 113,
+      "question": [
+        "Le verbe finir est de quel groupe :"
+      ],
+      "answer": [
+        [
+          "2ème groupe"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 114,
+      "question": [
+        "Conjuguez le verbe naitre à la première personne du présent :"
+      ],
+      "answer": [
+        [
+          "je nais"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 115,
+      "question": [
+        "Complétez l’adage suivant « Qui va aller loin ………………………………ménage sa monture »"
+      ],
+      "answer": [
+        [
+          "VAUT MIEUX"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 116,
+      "question": [
+        "Conjuguez le verbe satisfaire à la première personne du subjonctif présent :"
+      ],
+      "answer": [
+        [
+          "Que je satisfasse"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 117,
+      "question": [
+        "Compléter le proverbe suivant : cousi……………………..COUSA"
+      ],
+      "answer": [
+        [
+          "COUSI COUSA"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 118,
+      "question": [
+        "Conjuguer le verbe « se satisfaire » au gérondif"
+      ],
+      "answer": [
+        [
+          "SE SATISFAISANT"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 119,
+      "question": [
+        "Quel est le groupe du verbe « satisfaire »"
+      ],
+      "answer": [
+        [
+          "3ème GROUPE"
+        ]
+      ],
+      "subThematic": "Grammaire",
+      "times": 45
+    },
+    {
+      "id": 120,
+      "question": [
+        "Le verbe venir est de quel groupe"
+      ],
+      "answer": [
+        [
+          "2ème GROUPE"
+        ]
+      ],
+      "times": 45
+    },
+    {
+      "id": 121,
+      "question": [
+        "Conjuguez le verbe vivre à la première personne du conditionnel présent"
+      ],
+      "answer": [
+        [
+          "je vivrais"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 122,
+      "question": [
+        "Complétez l’adage suivant « Le séjour dans l’eau ne transforme pas ………………………………u tronc d’arbre en crocodile »"
+      ],
+      "answer": [
+        [
+          "UN TRONC D'ARBRE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 123,
+      "question": [
+        "Conjuguez le verbe satisfaire à la première personne du subjonctif présent"
+      ],
+      "answer": [
+        [
+          "Que je satisfasse"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 124,
+      "question": [
+        "Compléter le proverbe suivant : Qui va molo VA SOLO"
+      ],
+      "answer": [
+        [
+          "QUI VA MOLO VA SOLO"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 125,
+      "question": [
+        "Conjuguer le verbe rendre à la troisième personne du subjonctif présent"
+      ],
+      "answer": [
+        [
+          "QU’ILS RENDENT"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 126,
+      "question": [
+        "Expliquer cette locution latine : Fiat lux"
+      ],
+      "answer": [
+        [
+          "QUE LA LUMIERE SOIT"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 127,
+      "question": [
+        "Compléter le proverbe suivant : qui peut le plus"
+      ],
+      "answer": [
+        [
+          "PEUT LE MOINS"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 128,
+      "question": [
+        "Quelle est la devise latine des jeux olympiques"
+      ],
+      "answer": [
+        [
+          "CITIUS, ALTIUS, FORTIUS"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 129,
+      "question": [
+        "Epeler le mot MARAIS"
+      ],
+      "answer": [
+        [
+          "M - A - R - A - I - S"
+        ]
+      ],
+      "subThematic": "Orthographe",
+      "times": 45
+    },
+    {
+      "id": 130,
+      "question": [
+        "Quel est le participe présent du verbe recevoir"
+      ],
+      "answer": [
+        [
+          "RECEVANT"
+        ]
+      ],
+      "subThematic": "Conjugaison",
+      "times": 45
+    },
+    {
+      "id": 131,
+      "question": [
+        "Que signifie la locution érythème solaire ?"
+      ],
+      "answer": [
+        [
+          "Coup de soleil"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 132,
+      "question": [
+        "Quel mot emprunté de l'anglais signifiant esquisse désigne une courte scène comique ?"
+      ],
+      "answer": [
+        [
+          "Sketch"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 133,
+      "question": [
+        "Quel anglicisme désigne un met associé à un comte anglais du 18ème siècle qui se restaurait de tranche de boeuf insérée dans du pain à sa table de jeu?"
+      ],
+      "answer": [
+        [
+          "Sandwich"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 134,
+      "question": [
+        "Par quel terme emprunté à l'allemand désigne-t-on un coup d'état militaire?"
+      ],
+      "answer": [
+        [
+          "Putsch"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 135,
+      "question": [
+        "Ensemble des algues, des goémons, rejetés par la mer et qu'on récolte sur le rivage"
+      ],
+      "answer": [
+        [
+          "Varech"
+        ]
+      ],
+      "subThematic": "Sciences",
+      "times": 45
+    },
+    {
+      "id": 136,
+      "question": [
+        "Compléter le proverbe suivant : qui va loin ?"
+      ],
+      "answer": [
+        [
+          "MENAGE SA MONTURE"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 137,
+      "question": [
+        "Comment appelle-t-on deux mots dont le sens diffère mais dont la graphie ou la prononciation sont très proches ?"
+      ],
+      "answer": [
+        [
+          "Paronyme"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 138,
+      "question": [
+        "Compléter le proverbe suivant : Mieux vaut être seul ?"
+      ],
+      "answer": [
+        [
+          "Que mal accompagné"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 139,
+      "question": [
+        "Conjuguer le verbe punir au conditionnel passé deuxième forme"
+      ],
+      "answer": [
+        [
+          "J’eusse puni"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 140,
+      "question": [
+        "Donner un paronyme du mot évènement ?"
+      ],
+      "answer": [
+        [
+          "Avènement"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 141,
+      "question": [
+        "Compléter le proverbe suivant : Regarde-le, il fait le malin devant les filles. Il fait le ?"
+      ],
+      "answer": [
+        [
+          "Coq"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 142,
+      "question": [
+        "Conjuguer le verbe peindre à la deuxième personne du singulier l’imparfait de l’indicatif"
+      ],
+      "answer": [
+        [
+          "Tu peignais"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 143,
+      "question": [
+        "Qui est l’auteur de la citation suivante « La chance n’existe pas. Ce que vous appelez chance c’est l’attention au détails » ?"
+      ],
+      "answer": [
+        [
+          "Winston Churchill"
+        ]
+      ],
+      "subThematic": "Citations",
+      "times": 45
+    },
+    {
+      "id": 137,
+      "question": [
+        "Comment appelle-t-on deux mots dont le sens diffère mais dont la graphie ou la prononciation sont très proches ?"
+      ],
+      "answer": [
+        [
+          "Paronyme"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 138,
+      "question": [
+        "Compléter le proverbe suivant : Mieux vaut être seul ?"
+      ],
+      "answer": [
+        [
+          "Que mal accompagné"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 139,
+      "question": [
+        "Conjuguer le verbe punir au conditionnel passé deuxième forme"
+      ],
+      "answer": [
+        [
+          "J’eusse puni"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 140,
+      "question": [
+        "Donner un paronyme du mot évènement ?"
+      ],
+      "answer": [
+        [
+          "Avènement"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 141,
+      "question": [
+        "Compléter le proverbe suivant : Regarde-le, il fait le malin devant les filles. Il fait le ?"
+      ],
+      "answer": [
+        [
+          "Coq"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 142,
+      "question": [
+        "Conjuguer le verbe peindre à la deuxième personne du singulier l’imparfait de l’indicatif"
+      ],
+      "answer": [
+        [
+          "Tu peignais"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 143,
+      "question": [
+        "Qui est l’auteur de la citation suivante « La chance n’existe pas. Ce que vous appelez chance c’est l’attention au détails » ?"
+      ],
+      "answer": [
+        [
+          "Winston Churchill"
+        ]
+      ],
+      "subThematic": "Citations",
+      "times": 45
+    },
+    {
+      "id": 144,
+      "question": [
+        "Que veut dire l’expression « avoir les yeux dans la graisse de veaux » ?"
+      ],
+      "answer": [
+        [
+          "Avoir le regard perdu"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 145,
+      "question": [
+        "Epeler le mot perche dans la phrase suivante « Il a battu le record national du saut à la perche"
+      ],
+      "answer": [
+        [
+          "Perche"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 146,
+      "question": [
+        "Conjuguez le verbe gabariser à la deuxième personne du singulier du subjonctif imparfait"
+      ],
+      "answer": [
+        [
+          "Tu gabarisasses"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 147,
+      "question": [
+        "Donner le paronyme du mot « acceptation » ?"
+      ],
+      "answer": [
+        [
+          "Acception"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 148,
+      "question": [
+        "Compléter le dicton suivant : c’est en essayant encore et encore que le singe ?"
+      ],
+      "answer": [
+        [
+          "Apprend à bondir"
+        ]
+      ],
+      "subThematic": "Dictons",
+      "times": 45
+    },
+    {
+      "id": 149,
+      "question": [
+        "Epeler le mot ex nihilo"
+      ],
+      "answer": [
+        [
+          "Ex nihilo"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 150,
+      "question": [
+        "Conjugué le verbe traire au passé simple du mode indicatif"
+      ],
+      "answer": [
+        [
+          "N’existe pas"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 151,
+      "question": [
+        "Que veut l’expression mettre un pain à quelqu’un ?"
+      ],
+      "answer": [
+        [
+          "Le frapper ou lui donner une claque"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 152,
+      "question": [
+        "Compléter l’expression suivante : ne réveille pas Poupille , Elle dort comme un…….. ?"
+      ],
+      "answer": [
+        [
+          "Loir"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 153,
+      "question": [
+        "Quel est le féminin d’assassin ?"
+      ],
+      "answer": [
+        [
+          "Assassine"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 154,
+      "question": [
+        "Epeler le mot anamnèse"
+      ],
+      "answer": [
+        [
+          "Anamnèse"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 155,
+      "question": [
+        "Conjuguer le verbe choir au conditionnel passé première forme 1ère personne singulier ?"
+      ],
+      "answer": [
+        [
+          "J’aurais chu"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 156,
+      "question": [
+        "Compléter l’expression suivante « Il dit constamment des méchancetés sur les hommes. C’est une vraie langue de …… » ?"
+      ],
+      "answer": [
+        [
+          "Vipère"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 157,
+      "question": [
+        "Epeler le mot psychanalyse"
+      ],
+      "answer": [
+        [
+          "Psychanalyse"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 158,
+      "question": [
+        "Conjugué le verbe manger à la deuxième personne du singulier du subjonctif plus que parfait"
+      ],
+      "answer": [
+        [
+          "Que tu eusses mangé"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 159,
+      "question": [
+        "Quel adjectif qualifie ce qui peut être mouillé dans l’eau sans être dissoute » ?"
+      ],
+      "answer": [
+        [
+          "Hydrophile"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 160,
+      "question": [
+        "Compléter le proverbe suivant : qui peut le plus … ?"
+      ],
+      "answer": [
+        [
+          "Peut le moins"
+        ]
+      ],
+      "subThematic": "Proverbes",
+      "times": 45
+    },
+    {
+      "id": 161,
+      "question": [
+        "Quelle est la devise latine des jeux olympiques ?"
+      ],
+      "answer": [
+        [
+          "CITIUS, ALTIUS, FORTIUS"
+        ]
+      ],
+      "subThematic": "Culture générale",
+      "times": 45
+    },
+    {
+      "id": 162,
+      "question": [
+        "Le verbe satisfaire est de quel groupe ?"
+      ],
+      "answer": [
+        [
+          "3ème groupe"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 163,
+      "question": [
+        "Complétez l’expression suivante « Elle se rappelle de tout, elle garde tout. Elle a une mémoire de …… » ?"
+      ],
+      "answer": [
+        [
+          "D'éléphant"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 164,
+      "question": [
+        "Epeler le mot centaure"
+      ],
+      "answer": [
+        [
+          "Centaure"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 165,
+      "question": [
+        "Combien de syllabe contient le mot Bic"
+      ],
+      "answer": [
+        [
+          "1"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 166,
+      "question": [
+        "Traduisez : e pur si muove?"
+      ],
+      "answer": [
+        [
+          "Et pourtant, elle tourne"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 167,
+      "question": [
+        "Comment se nomme l’action de jeter quelqu’un par une fenêtre?"
+      ],
+      "answer": [
+        [
+          "Défenestration"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 168,
+      "question": [
+        "Quel adjectif découle de la déesse romaine de l'Amour ?"
+      ],
+      "answer": [
+        [
+          "vénérien"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 169,
+      "question": [
+        "Dans la célèbre maxime latine, à quels deux personnages faut-il rendre ce qui leur appartient ?"
+      ],
+      "answer": [
+        [
+          "Jules César et Dieu"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 170,
+      "question": [
+        "Complétez le proverbe : prudence est mère…"
+      ],
+      "answer": [
+        [
+          "De sureté"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 171,
+      "question": [
+        "Si la saison des fleurs est le printemps, qui sont les disciples de Flore ?"
+      ],
+      "answer": [
+        [
+          "Jardiniers"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 172,
+      "question": [
+        "Si le soir de la vie est la vieillesse, qu’est-ce que le champ du repos ?"
+      ],
+      "answer": [
+        [
+          "Cimetière"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 173,
+      "question": [
+        "Quel est le nom de l'alphabet phonétique chinois ?"
+      ],
+      "answer": [
+        [
+          "le pingying"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 174,
+      "question": [
+        "Quelle figure de style consiste à faire succéder deux voyelles appartenant à des syllabes différentes, à l’intérieur d’un mot ou à la frontière de deux mots?"
+      ],
+      "answer": [
+        [
+          "Hiatus"
+        ]
+      ],
+      "times": 45
+    },
+    {
+      "id": 175,
+      "question": [
+        "Complétez le proverbe suivant : \"Les grandes douleurs...\""
+      ],
+      "answer": [
+        [
+          "Sont muettes"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 176,
+      "question": [
+        "Onomatopée qui peut signifier un cheval dans le langage enfantin et un mouvement artistique fondé à Zurich par Tristan Tzara"
+      ],
+      "answer": [
+        [
+          "Dada"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 177,
+      "question": [
+        "Quel est le premier caractère de l’alphabet hébreu ?"
+      ],
+      "answer": [
+        [
+          "Aleph"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 178,
+      "question": [
+        "Ce verbe venant du latin signifie \"Mettre sous la dépendance de...\". Quel est-il?"
+      ],
+      "answer": [
+        [
+          "Inféoder"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 179,
+      "question": [
+        "Traduisez la locution latine suivante : Dulce et decorum est pro patria mori"
+      ],
+      "answer": [
+        [
+          "Il est beau et doux de mourir pour la patrie."
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 180,
+      "question": [
+        "Que signifie le mot allemand REIGH ?"
+      ],
+      "answer": [
+        [
+          "Empire"
+        ]
+      ],
+      "subThematic": "Langues",
+      "times": 45
+    },
+    {
+      "id": 181,
+      "question": [
+        "Débutez le proverbe suivant …les borgnes sont rois."
+      ],
+      "answer": [
+        [
+          "Au royaume des aveugles…"
+        ]
+      ],
+      "subThematic": "Expressions",
+      "times": 45
+    },
+    {
+      "id": 182,
+      "question": [
+        "Comment appelle-t-on un joueur de ping-pong?"
+      ],
+      "answer": [
+        [
+          "Pongiste"
+        ]
+      ],
+      "subThematic": "Sports",
+      "times": 45
     }
-]
+  ]
