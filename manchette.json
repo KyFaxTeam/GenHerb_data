@@ -298,11 +298,15 @@
     {
         "id": 23,
         "question": [
-            "Qui est l'actuel président(e) de la Haute Cour de Justice du Bénin ?"
+            "Qui est l'actuel président(e) de la Haute Cour de Justice du Bénin ?",
+            "Qui est l’actuel président(e) de la    HAAC ?"
         ],
         "answer": [
             [
                 "Cécile de Dravo Zinzindohoue"
+            ],
+            [
+                " Rémy Prosper MORETTI"
             ]
         ],
         "times": 41
